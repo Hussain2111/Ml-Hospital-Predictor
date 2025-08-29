@@ -1,0 +1,1501 @@
+episode_id,patient_id,admission_date,discharge_date,length_of_stay,primary_diagnosis_icd10,primary_diagnosis_desc,comorbidities_icd10,specialty,emergency_admission,discharge_destination,age,gender,postcode,deprivation_quintile,readmitted_30_days
+EP00000001,NHS000001,2025-04-29,2025-04-30,1,K92,GI bleeding,,Nephrology,False,Home,47,M,B18 4AA,3,True
+EP00000002,NHS000001,2024-11-25,2024-11-27,2,I63,Cerebral infarction,,Geriatrics,True,Home,29,F,B18 4AA,2,False
+EP00000003,NHS000002,2025-04-20,2025-04-25,5,F32,Depressive episode,,Nephrology,True,Home,39,F,B12 1AA,3,False
+EP00000004,NHS000002,2024-12-08,2024-12-09,1,I21,Acute myocardial infarction,,Endocrinology,True,Home,18,F,B14 6AA,4,False
+EP00000005,NHS000003,2025-01-26,2025-01-28,2,K92,GI bleeding,,Nephrology,True,Home,18,M,B11 4AA,1,False
+EP00000006,NHS000003,2024-10-06,2024-10-07,1,I21,Acute myocardial infarction,,Endocrinology,True,Home,18,M,L13 1AA,1,True
+EP00000007,NHS000004,2025-07-19,2025-07-26,7,J18,Pneumonia,,General Medicine,True,Home,55,F,SL3 4AA,3,False
+EP00000008,NHS000004,2025-04-20,2025-04-24,4,I63,Cerebral infarction,,Emergency Medicine,False,Home,59,M,B14 5AA,5,False
+EP00000009,NHS000005,2025-07-08,2025-07-10,2,E11,Type 2 diabetes,,Geriatrics,True,Home,41,F,SL4 5AA,3,False
+EP00000010,NHS000005,2025-06-28,2025-07-01,3,I10,Essential hypertension,,Endocrinology,False,Home,28,F,L18 2AA,3,False
+EP00000011,NHS000006,2025-01-16,2025-01-17,1,J18,Pneumonia,,Endocrinology,True,Home,23,M,L11 6AA,2,True
+EP00000012,NHS000006,2025-03-22,2025-03-24,2,J18,Pneumonia,,Endocrinology,True,Rehabilitation Unit,24,M,B13 1AA,2,False
+EP00000013,NHS000007,2025-05-08,2025-05-19,11,I10,Essential hypertension,,Emergency Medicine,True,Another Hospital,26,F,B15 4AA,1,True
+EP00000014,NHS000007,2025-04-28,2025-04-29,1,I10,Essential hypertension,"I21,I50,I63",General Medicine,True,Rehabilitation Unit,95,M,L17 3AA,4,True
+EP00000015,NHS000008,2025-04-23,2025-04-25,2,K92,GI bleeding,,Cardiology,False,Home,18,M,B13 7AA,2,False
+EP00000016,NHS000008,2024-10-29,2024-11-08,10,N18,Chronic kidney disease,,Nephrology,False,Home,68,F,L14 8AA,2,False
+EP00000017,NHS000009,2025-06-15,2025-06-23,8,E11,Type 2 diabetes,,Geriatrics,False,Home,48,M,M13 1AA,3,False
+EP00000018,NHS000009,2025-06-22,2025-06-23,1,N18,Chronic kidney disease,"I21,E11,I50",General Medicine,False,Home,95,M,B15 6AA,2,False
+EP00000019,NHS000010,2024-10-16,2024-10-18,2,E11,Type 2 diabetes,,Gastroenterology,False,Home,47,M,SL6 5AA,3,False
+EP00000020,NHS000010,2025-03-01,2025-03-03,2,I21,Acute myocardial infarction,,Endocrinology,True,Home,42,M,L18 2AA,3,False
+EP00000021,NHS000011,2024-10-10,2024-10-12,2,K92,GI bleeding,,Respiratory,False,Rehabilitation Unit,48,M,L12 2AA,4,True
+EP00000022,NHS000011,2025-03-12,2025-03-16,4,J44,COPD,,Respiratory,False,Another Hospital,61,F,SL4 1AA,3,False
+EP00000023,NHS000012,2025-04-08,2025-04-09,1,I50,Heart failure,,General Medicine,True,Home,23,F,SL6 2AA,4,False
+EP00000024,NHS000012,2025-05-20,2025-05-22,2,N18,Chronic kidney disease,,Endocrinology,True,Home,23,M,SL8 4AA,3,True
+EP00000025,NHS000013,2024-10-25,2024-10-26,1,I50,Heart failure,,Endocrinology,False,Home,51,M,B17 2AA,3,False
+EP00000026,NHS000013,2025-01-02,2025-01-03,1,I10,Essential hypertension,,General Medicine,True,Another Hospital,48,F,SL7 8AA,5,False
+EP00000027,NHS000014,2025-06-14,2025-06-16,2,J44,COPD,,Nephrology,True,Home,61,F,RG5 4AA,4,True
+EP00000028,NHS000014,2025-08-19,2025-08-27,8,E11,Type 2 diabetes,,Respiratory,True,Home,21,M,M18 5AA,3,False
+EP00000029,NHS000015,2024-12-25,2025-01-02,8,E11,Type 2 diabetes,,General Medicine,False,Home,70,F,L15 4AA,1,False
+EP00000030,NHS000015,2025-08-17,2025-08-18,1,I50,Heart failure,,Nephrology,True,Home,46,F,SL2 2AA,2,True
+EP00000031,NHS000016,2025-02-14,2025-02-17,3,I50,Heart failure,,Nephrology,False,Home,30,F,SL1 4AA,2,False
+EP00000032,NHS000016,2025-07-24,2025-07-25,1,F32,Depressive episode,,General Medicine,True,Another Hospital,49,M,M17 5AA,4,False
+EP00000033,NHS000017,2024-11-29,2024-12-01,2,E11,Type 2 diabetes,,General Medicine,True,Home,18,M,RG4 5AA,1,True
+EP00000034,NHS000017,2025-04-07,2025-04-08,1,J44,COPD,,Endocrinology,True,Home,42,M,M17 5AA,3,False
+EP00000035,NHS000018,2025-01-18,2025-01-19,1,J44,COPD,,Emergency Medicine,True,Home,30,F,M12 2AA,1,False
+EP00000036,NHS000018,2024-11-19,2024-11-22,3,N18,Chronic kidney disease,,Nephrology,True,Rehabilitation Unit,18,M,M16 4AA,2,False
+EP00000037,NHS000019,2025-04-19,2025-04-20,1,J44,COPD,,Nephrology,True,Home,40,M,L17 6AA,5,True
+EP00000038,NHS000019,2024-10-16,2024-10-21,5,F32,Depressive episode,,Cardiology,False,Home,26,F,RG1 1AA,4,False
+EP00000039,NHS000020,2025-07-02,2025-07-03,1,N18,Chronic kidney disease,,General Medicine,True,Rehabilitation Unit,33,F,L13 4AA,3,True
+EP00000040,NHS000020,2025-04-07,2025-04-11,4,I63,Cerebral infarction,,General Medicine,True,Home,18,F,SL8 2AA,3,True
+EP00000041,NHS000021,2024-10-17,2024-10-19,2,N18,Chronic kidney disease,,Cardiology,True,Home,18,F,M11 5AA,3,True
+EP00000042,NHS000021,2025-06-08,2025-06-09,1,N18,Chronic kidney disease,,Emergency Medicine,False,Home,50,F,L15 5AA,1,False
+EP00000043,NHS000022,2025-04-05,2025-04-18,13,I21,Acute myocardial infarction,"J44,I63,F32",Gastroenterology,True,Home,65,M,L15 7AA,4,False
+EP00000044,NHS000022,2025-03-09,2025-03-11,2,I21,Acute myocardial infarction,,Cardiology,False,Home,23,F,B12 2AA,2,False
+EP00000045,NHS000023,2024-12-04,2024-12-09,5,N18,Chronic kidney disease,,Geriatrics,False,Home,52,M,SL5 6AA,3,True
+EP00000046,NHS000023,2024-10-27,2024-10-29,2,J44,COPD,,Emergency Medicine,False,Home,18,F,RG6 7AA,5,False
+EP00000047,NHS000024,2025-04-13,2025-04-20,7,I63,Cerebral infarction,I50,Cardiology,True,Home,54,M,L15 8AA,5,False
+EP00000048,NHS000024,2025-03-12,2025-03-13,1,N18,Chronic kidney disease,,Geriatrics,True,Home,23,M,B11 6AA,2,True
+EP00000049,NHS000025,2024-12-23,2024-12-24,1,I10,Essential hypertension,,Emergency Medicine,True,Home,22,M,M12 4AA,1,False
+EP00000050,NHS000025,2025-07-04,2025-07-05,1,I63,Cerebral infarction,,Endocrinology,True,Home,51,M,L17 3AA,3,True
+EP00000051,NHS000026,2024-11-28,2024-11-29,1,J44,COPD,,Gastroenterology,True,Home,56,F,M11 7AA,4,True
+EP00000052,NHS000026,2025-06-22,2025-06-23,1,J18,Pneumonia,,Nephrology,True,Home,35,M,M14 3AA,3,False
+EP00000053,NHS000027,2024-11-20,2024-11-22,2,K92,GI bleeding,,Gastroenterology,False,Home,18,M,SL6 6AA,3,False
+EP00000054,NHS000027,2025-03-30,2025-04-05,6,F32,Depressive episode,,Gastroenterology,True,Home,19,F,B14 4AA,4,False
+EP00000055,NHS000028,2025-05-27,2025-05-28,1,J44,COPD,,Geriatrics,False,Home,22,M,L15 4AA,4,False
+EP00000056,NHS000028,2025-05-31,2025-06-04,4,I10,Essential hypertension,,Nephrology,True,Another Hospital,18,F,L11 6AA,1,False
+EP00000057,NHS000029,2025-04-13,2025-04-26,13,K92,GI bleeding,,Respiratory,True,Home,52,F,L16 7AA,3,True
+EP00000058,NHS000029,2024-10-13,2024-10-15,2,K92,GI bleeding,,Gastroenterology,False,Home,37,M,SL5 5AA,5,True
+EP00000059,NHS000030,2025-04-19,2025-04-20,1,I63,Cerebral infarction,,Cardiology,False,Home,35,F,L15 6AA,3,False
+EP00000060,NHS000030,2024-10-24,2024-10-31,7,J44,COPD,,Emergency Medicine,True,Another Hospital,18,M,B18 4AA,5,False
+EP00000061,NHS000031,2025-01-10,2025-01-12,2,I10,Essential hypertension,I63,Cardiology,True,Home,89,M,RG5 8AA,3,False
+EP00000062,NHS000031,2024-10-01,2024-10-05,4,J44,COPD,,Gastroenterology,True,Home,34,M,RG3 6AA,2,False
+EP00000063,NHS000032,2025-01-23,2025-01-25,2,I50,Heart failure,,Cardiology,True,Home,18,F,RG4 8AA,3,False
+EP00000064,NHS000032,2025-04-24,2025-04-25,1,I63,Cerebral infarction,"F32,K92,J44",Cardiology,True,Home,88,F,SL7 1AA,1,False
+EP00000065,NHS000033,2025-06-27,2025-06-28,1,I63,Cerebral infarction,,Gastroenterology,False,Home,18,F,L11 8AA,2,False
+EP00000066,NHS000033,2025-02-28,2025-03-01,1,F32,Depressive episode,,Endocrinology,True,Another Hospital,53,F,B14 2AA,5,False
+EP00000067,NHS000034,2024-09-21,2024-09-22,1,K92,GI bleeding,,Cardiology,True,Home,18,M,L13 8AA,3,False
+EP00000068,NHS000034,2024-10-28,2024-10-29,1,K92,GI bleeding,,Gastroenterology,True,Home,48,F,B16 4AA,3,False
+EP00000069,NHS000035,2025-07-05,2025-07-13,8,I63,Cerebral infarction,,Respiratory,False,Home,20,F,RG8 2AA,2,False
+EP00000070,NHS000035,2024-10-05,2024-10-06,1,N18,Chronic kidney disease,"J18,I21,J44,I50",Gastroenterology,False,Home,75,M,B17 1AA,4,False
+EP00000071,NHS000036,2025-07-24,2025-07-27,3,I50,Heart failure,,Respiratory,False,Home,18,M,B13 7AA,1,False
+EP00000072,NHS000036,2024-09-21,2024-09-25,4,I21,Acute myocardial infarction,J18,Respiratory,True,Rehabilitation Unit,74,M,M16 6AA,2,False
+EP00000073,NHS000037,2025-07-31,2025-08-01,1,F32,Depressive episode,,Nephrology,True,Another Hospital,18,F,RG1 6AA,1,True
+EP00000074,NHS000037,2024-09-01,2024-09-02,1,J18,Pneumonia,,Emergency Medicine,False,Home,29,F,M15 7AA,2,False
+EP00000075,NHS000038,2025-02-20,2025-02-22,2,I50,Heart failure,,Endocrinology,False,Home,18,M,L12 5AA,3,True
+EP00000076,NHS000038,2025-01-09,2025-01-11,2,I50,Heart failure,,Emergency Medicine,False,Another Hospital,18,M,M12 4AA,4,False
+EP00000077,NHS000039,2024-09-26,2024-09-28,2,I50,Heart failure,,Cardiology,False,Home,18,M,M11 1AA,3,True
+EP00000078,NHS000039,2025-01-12,2025-01-13,1,J44,COPD,,Geriatrics,True,Home,57,M,M15 1AA,4,False
+EP00000079,NHS000040,2025-08-17,2025-08-19,2,K92,GI bleeding,"I10,N18,J18",Gastroenterology,False,Care Home,94,M,B18 7AA,3,True
+EP00000080,NHS000040,2025-03-06,2025-03-07,1,F32,Depressive episode,,Nephrology,True,Care Home,18,M,B13 2AA,2,False
+EP00000081,NHS000041,2025-05-13,2025-05-14,1,I50,Heart failure,,Gastroenterology,False,Home,26,F,RG7 7AA,3,False
+EP00000082,NHS000041,2025-08-13,2025-08-14,1,I50,Heart failure,,Emergency Medicine,True,Rehabilitation Unit,38,M,SL5 2AA,3,True
+EP00000083,NHS000042,2024-10-31,2024-11-01,1,I21,Acute myocardial infarction,E11,Nephrology,True,Home,83,M,SL6 8AA,1,True
+EP00000084,NHS000042,2025-06-17,2025-06-18,1,J18,Pneumonia,,General Medicine,True,Another Hospital,18,M,SL3 4AA,2,False
+EP00000085,NHS000043,2024-09-19,2024-09-20,1,I50,Heart failure,,Cardiology,False,Home,18,F,SL7 6AA,5,False
+EP00000086,NHS000043,2024-12-31,2025-01-09,9,K92,GI bleeding,,Geriatrics,False,Home,41,F,M13 4AA,3,False
+EP00000087,NHS000044,2025-08-26,2025-08-31,5,I10,Essential hypertension,,Nephrology,True,Home,24,F,SL2 3AA,5,False
+EP00000088,NHS000044,2025-07-31,2025-08-06,6,J18,Pneumonia,,Respiratory,False,Care Home,18,M,SL3 3AA,2,False
+EP00000089,NHS000045,2025-05-31,2025-06-02,2,N18,Chronic kidney disease,,Endocrinology,True,Care Home,18,M,B18 5AA,4,False
+EP00000090,NHS000045,2024-10-10,2024-10-11,1,I50,Heart failure,,General Medicine,True,Home,18,M,L18 8AA,5,False
+EP00000091,NHS000046,2024-09-18,2024-09-25,7,E11,Type 2 diabetes,,Emergency Medicine,False,Home,19,M,SL2 1AA,4,False
+EP00000092,NHS000046,2025-03-22,2025-03-23,1,F32,Depressive episode,,Emergency Medicine,True,Home,22,M,RG7 2AA,1,False
+EP00000093,NHS000047,2024-09-09,2024-09-12,3,K92,GI bleeding,I10,Nephrology,False,Home,59,M,RG2 4AA,1,False
+EP00000094,NHS000047,2025-02-17,2025-02-18,1,K92,GI bleeding,,Gastroenterology,False,Rehabilitation Unit,18,M,RG4 3AA,4,False
+EP00000095,NHS000048,2025-06-11,2025-06-16,5,I63,Cerebral infarction,,Emergency Medicine,True,Home,43,M,M13 5AA,4,False
+EP00000096,NHS000048,2025-03-25,2025-03-26,1,I50,Heart failure,,Emergency Medicine,False,Home,21,M,M16 4AA,4,False
+EP00000097,NHS000049,2025-03-19,2025-03-20,1,J18,Pneumonia,,General Medicine,True,Care Home,18,F,RG6 1AA,2,False
+EP00000098,NHS000049,2025-08-02,2025-08-07,5,E11,Type 2 diabetes,,Emergency Medicine,False,Home,20,M,RG2 3AA,2,True
+EP00000099,NHS000050,2025-01-05,2025-01-06,1,J18,Pneumonia,,Geriatrics,True,Home,29,M,SL5 2AA,1,False
+EP00000100,NHS000050,2025-02-01,2025-02-02,1,I50,Heart failure,,Geriatrics,True,Home,18,M,L15 1AA,5,False
+EP00000101,NHS000051,2025-07-19,2025-07-20,1,J18,Pneumonia,,Geriatrics,True,Home,43,F,RG1 2AA,4,False
+EP00000102,NHS000051,2025-08-27,2025-08-29,2,J18,Pneumonia,,Nephrology,True,Care Home,47,F,B16 7AA,2,False
+EP00000103,NHS000052,2024-10-28,2024-11-06,9,J44,COPD,,Gastroenterology,True,Another Hospital,52,F,B14 8AA,2,False
+EP00000104,NHS000052,2024-10-15,2024-10-17,2,F32,Depressive episode,,Gastroenterology,False,Home,18,F,B17 3AA,4,False
+EP00000105,NHS000053,2024-11-01,2024-11-03,2,J44,COPD,"K92,J18",Emergency Medicine,True,Home,95,F,B13 3AA,2,False
+EP00000106,NHS000053,2024-09-10,2024-09-15,5,I21,Acute myocardial infarction,,Geriatrics,False,Home,22,F,SL4 4AA,1,False
+EP00000107,NHS000054,2024-09-28,2024-10-04,6,I10,Essential hypertension,,Emergency Medicine,True,Home,18,F,RG3 5AA,3,False
+EP00000108,NHS000054,2024-09-08,2024-09-12,4,E11,Type 2 diabetes,"J18,I50",General Medicine,False,Home,95,M,M14 2AA,4,False
+EP00000109,NHS000055,2025-01-12,2025-01-13,1,I21,Acute myocardial infarction,,General Medicine,True,Home,40,F,L12 3AA,2,False
+EP00000110,NHS000055,2024-12-06,2024-12-09,3,J18,Pneumonia,,Cardiology,True,Home,18,F,M18 6AA,3,False
+EP00000111,NHS000056,2024-10-21,2024-10-23,2,I10,Essential hypertension,F32,Endocrinology,True,Home,60,M,L15 1AA,4,True
+EP00000112,NHS000056,2024-11-26,2024-12-08,12,K92,GI bleeding,"N18,I21",Gastroenterology,True,Another Hospital,75,F,B12 4AA,4,True
+EP00000113,NHS000057,2025-03-07,2025-03-10,3,F32,Depressive episode,,Emergency Medicine,False,Home,40,M,M12 8AA,5,False
+EP00000114,NHS000057,2024-10-05,2024-10-09,4,E11,Type 2 diabetes,,Cardiology,False,Another Hospital,19,M,SL1 2AA,1,False
+EP00000115,NHS000058,2025-03-13,2025-03-28,15,J18,Pneumonia,,Nephrology,True,Home,18,M,SL6 6AA,5,False
+EP00000116,NHS000058,2025-06-08,2025-06-14,6,F32,Depressive episode,,Gastroenterology,False,Home,23,M,M15 7AA,4,False
+EP00000117,NHS000059,2024-10-28,2024-10-30,2,J44,COPD,,Endocrinology,True,Home,81,M,B16 1AA,3,False
+EP00000118,NHS000059,2025-05-04,2025-05-09,5,J18,Pneumonia,"I63,I21",Endocrinology,True,Home,93,F,L17 8AA,5,False
+EP00000119,NHS000060,2024-10-09,2024-10-17,8,I10,Essential hypertension,,Gastroenterology,True,Home,57,M,L15 7AA,3,False
+EP00000120,NHS000060,2025-03-24,2025-03-27,3,I21,Acute myocardial infarction,,Nephrology,True,Home,41,F,RG2 7AA,2,False
+EP00000121,NHS000061,2025-07-24,2025-07-25,1,I10,Essential hypertension,J44,Emergency Medicine,False,Home,95,F,B11 5AA,2,False
+EP00000122,NHS000061,2025-03-28,2025-03-29,1,E11,Type 2 diabetes,,Respiratory,False,Care Home,39,F,M12 3AA,3,False
+EP00000123,NHS000062,2025-05-13,2025-05-18,5,F32,Depressive episode,,Nephrology,True,Home,18,M,RG7 8AA,2,False
+EP00000124,NHS000062,2024-12-18,2024-12-19,1,J44,COPD,"I10,I21,I63,J18",Emergency Medicine,False,Home,95,M,SL1 4AA,3,True
+EP00000125,NHS000063,2024-12-03,2024-12-05,2,I50,Heart failure,,Endocrinology,False,Home,20,M,B13 6AA,3,False
+EP00000126,NHS000063,2024-10-07,2024-10-08,1,I50,Heart failure,,Geriatrics,True,Home,18,F,RG2 4AA,2,False
+EP00000127,NHS000064,2025-03-24,2025-03-25,1,I21,Acute myocardial infarction,,General Medicine,False,Home,36,M,SL7 4AA,3,False
+EP00000128,NHS000064,2024-09-03,2024-09-07,4,I21,Acute myocardial infarction,,Cardiology,False,Home,44,F,M15 8AA,5,False
+EP00000129,NHS000065,2025-05-07,2025-05-08,1,J18,Pneumonia,,Nephrology,True,Home,18,F,L14 6AA,2,False
+EP00000130,NHS000065,2024-12-10,2024-12-17,7,I10,Essential hypertension,,Endocrinology,False,Home,33,F,B16 2AA,5,False
+EP00000131,NHS000066,2024-09-27,2024-09-28,1,J18,Pneumonia,"I10,K92,J44",Emergency Medicine,True,Home,87,F,SL4 3AA,4,True
+EP00000132,NHS000066,2025-05-04,2025-05-05,1,N18,Chronic kidney disease,,Respiratory,True,Home,69,F,RG5 7AA,1,False
+EP00000133,NHS000067,2025-07-17,2025-07-19,2,F32,Depressive episode,,Gastroenterology,True,Home,18,F,M12 6AA,1,False
+EP00000134,NHS000067,2025-06-07,2025-06-08,1,N18,Chronic kidney disease,,Cardiology,False,Home,41,M,RG1 4AA,3,True
+EP00000135,NHS000068,2024-10-25,2024-10-28,3,I10,Essential hypertension,,Emergency Medicine,False,Home,18,F,SL3 7AA,2,False
+EP00000136,NHS000068,2025-01-12,2025-01-13,1,N18,Chronic kidney disease,,Geriatrics,True,Home,52,F,SL2 7AA,4,False
+EP00000137,NHS000069,2025-01-28,2025-01-29,1,N18,Chronic kidney disease,,Nephrology,True,Home,36,M,L17 5AA,4,False
+EP00000138,NHS000069,2025-02-14,2025-02-19,5,I50,Heart failure,,General Medicine,False,Home,18,M,B15 2AA,1,False
+EP00000139,NHS000070,2025-05-24,2025-05-29,5,I63,Cerebral infarction,,General Medicine,False,Home,18,F,B18 3AA,1,False
+EP00000140,NHS000070,2024-09-20,2024-09-22,2,J44,COPD,F32,Nephrology,False,Home,68,M,RG5 8AA,3,True
+EP00000141,NHS000071,2025-08-01,2025-08-02,1,I63,Cerebral infarction,,Nephrology,True,Care Home,18,M,B16 7AA,5,True
+EP00000142,NHS000071,2025-04-15,2025-04-19,4,J18,Pneumonia,,Cardiology,True,Home,18,F,RG6 1AA,5,True
+EP00000143,NHS000072,2025-03-18,2025-03-19,1,K92,GI bleeding,,Respiratory,False,Home,46,F,RG2 3AA,2,False
+EP00000144,NHS000072,2025-02-27,2025-02-28,1,K92,GI bleeding,I50,Gastroenterology,True,Home,95,M,M14 1AA,5,False
+EP00000145,NHS000073,2024-09-03,2024-09-05,2,F32,Depressive episode,"I10,I21,K92",Endocrinology,True,Home,95,F,RG5 6AA,4,False
+EP00000146,NHS000073,2025-08-26,2025-08-27,1,J44,COPD,,Emergency Medicine,False,Care Home,54,M,B12 8AA,4,False
+EP00000147,NHS000074,2025-01-17,2025-01-23,6,I50,Heart failure,,Gastroenterology,True,Home,51,F,B11 8AA,1,False
+EP00000148,NHS000074,2025-01-07,2025-01-11,4,I10,Essential hypertension,E11,Endocrinology,False,Home,57,F,RG4 2AA,3,False
+EP00000149,NHS000075,2024-09-04,2024-09-05,1,I10,Essential hypertension,,Geriatrics,True,Home,39,M,RG5 6AA,1,True
+EP00000150,NHS000075,2025-07-05,2025-07-08,3,K92,GI bleeding,N18,Geriatrics,True,Home,63,M,SL7 4AA,3,False
+EP00000151,NHS000076,2025-04-05,2025-04-06,1,I21,Acute myocardial infarction,,Gastroenterology,False,Home,18,M,SL1 1AA,4,False
+EP00000152,NHS000076,2025-02-12,2025-02-26,14,F32,Depressive episode,,Cardiology,False,Home,58,F,L15 3AA,4,False
+EP00000153,NHS000077,2025-07-25,2025-07-26,1,J44,COPD,,Nephrology,False,Home,37,M,B18 5AA,1,False
+EP00000154,NHS000077,2025-01-10,2025-01-17,7,J44,COPD,,Cardiology,False,Home,18,F,RG4 4AA,1,True
+EP00000155,NHS000078,2024-08-30,2024-08-31,1,I10,Essential hypertension,E11,Endocrinology,True,Home,55,M,L14 2AA,1,False
+EP00000156,NHS000078,2025-03-04,2025-03-05,1,F32,Depressive episode,,Geriatrics,False,Home,29,M,RG8 7AA,2,False
+EP00000157,NHS000079,2024-10-20,2024-10-22,2,N18,Chronic kidney disease,,Respiratory,True,Home,27,F,M13 3AA,2,False
+EP00000158,NHS000079,2025-03-21,2025-03-22,1,E11,Type 2 diabetes,J18,Emergency Medicine,True,Care Home,63,F,B11 2AA,5,False
+EP00000159,NHS000080,2025-03-15,2025-03-17,2,K92,GI bleeding,,Emergency Medicine,True,Care Home,45,F,L17 1AA,3,False
+EP00000160,NHS000080,2025-03-28,2025-03-29,1,E11,Type 2 diabetes,F32,Geriatrics,True,Home,62,M,L18 4AA,5,True
+EP00000161,NHS000081,2025-03-04,2025-03-05,1,N18,Chronic kidney disease,,Gastroenterology,True,Home,28,F,RG4 1AA,3,True
+EP00000162,NHS000081,2025-07-13,2025-07-14,1,K92,GI bleeding,"I63,I50,N18,J44",Respiratory,True,Home,95,M,L15 4AA,2,False
+EP00000163,NHS000082,2025-08-08,2025-08-11,3,I50,Heart failure,,Endocrinology,False,Rehabilitation Unit,18,M,L15 1AA,5,False
+EP00000164,NHS000082,2025-03-28,2025-03-29,1,N18,Chronic kidney disease,"J18,K92",Gastroenterology,True,Care Home,72,F,L14 4AA,4,False
+EP00000165,NHS000083,2025-03-19,2025-03-20,1,J18,Pneumonia,,Gastroenterology,True,Home,18,F,M15 4AA,1,False
+EP00000166,NHS000083,2024-11-13,2024-11-14,1,I50,Heart failure,,Respiratory,True,Home,37,M,M14 4AA,2,False
+EP00000167,NHS000084,2025-02-19,2025-02-20,1,J18,Pneumonia,,Nephrology,True,Home,27,M,M17 1AA,2,False
+EP00000168,NHS000084,2025-05-06,2025-05-13,7,F32,Depressive episode,,Gastroenterology,True,Home,20,M,RG5 8AA,5,False
+EP00000169,NHS000085,2024-11-21,2024-11-22,1,I63,Cerebral infarction,,Geriatrics,True,Care Home,27,M,L13 2AA,3,False
+EP00000170,NHS000085,2024-10-06,2024-10-08,2,J18,Pneumonia,,Gastroenterology,False,Home,18,F,RG6 8AA,1,False
+EP00000171,NHS000086,2025-03-21,2025-03-22,1,J18,Pneumonia,,Geriatrics,True,Home,43,F,M14 3AA,1,False
+EP00000172,NHS000086,2025-04-26,2025-04-28,2,J18,Pneumonia,"F32,E11",General Medicine,True,Home,95,F,SL3 4AA,5,True
+EP00000173,NHS000087,2025-08-21,2025-08-23,2,K92,GI bleeding,,Endocrinology,False,Home,40,F,L12 4AA,5,True
+EP00000174,NHS000087,2025-07-22,2025-07-24,2,J44,COPD,,Endocrinology,False,Home,52,F,L16 4AA,5,False
+EP00000175,NHS000088,2024-12-10,2024-12-16,6,I50,Heart failure,,Cardiology,True,Home,36,M,L14 2AA,2,False
+EP00000176,NHS000088,2024-09-08,2024-09-09,1,J44,COPD,,General Medicine,True,Home,49,M,M16 1AA,3,False
+EP00000177,NHS000089,2025-05-15,2025-05-16,1,J18,Pneumonia,,Cardiology,False,Home,25,M,SL3 3AA,2,False
+EP00000178,NHS000089,2025-02-18,2025-02-21,3,J44,COPD,,Gastroenterology,True,Home,18,M,RG3 4AA,1,False
+EP00000179,NHS000090,2024-11-01,2024-11-04,3,I63,Cerebral infarction,,Nephrology,True,Home,43,M,SL7 7AA,2,True
+EP00000180,NHS000090,2024-10-09,2024-10-10,1,E11,Type 2 diabetes,,Respiratory,True,Home,57,F,RG2 3AA,4,False
+EP00000181,NHS000091,2024-10-26,2024-10-28,2,I63,Cerebral infarction,,Geriatrics,False,Another Hospital,48,M,RG3 4AA,3,False
+EP00000182,NHS000091,2025-03-16,2025-03-21,5,K92,GI bleeding,,Respiratory,True,Home,29,M,M17 5AA,5,False
+EP00000183,NHS000092,2024-11-23,2024-11-28,5,I10,Essential hypertension,,Endocrinology,True,Care Home,58,M,M15 6AA,2,True
+EP00000184,NHS000092,2024-11-14,2024-11-19,5,J18,Pneumonia,,Emergency Medicine,True,Care Home,28,F,L11 6AA,2,True
+EP00000185,NHS000093,2025-08-22,2025-08-23,1,K92,GI bleeding,,Cardiology,True,Home,67,F,RG3 3AA,2,False
+EP00000186,NHS000093,2024-10-28,2024-10-29,1,N18,Chronic kidney disease,"E11,I63",General Medicine,True,Home,71,M,L18 3AA,3,True
+EP00000187,NHS000094,2025-07-23,2025-08-01,9,N18,Chronic kidney disease,,Gastroenterology,False,Home,27,M,M15 5AA,4,False
+EP00000188,NHS000094,2025-05-12,2025-05-22,10,I10,Essential hypertension,I21,Endocrinology,False,Home,93,F,B11 5AA,3,False
+EP00000189,NHS000095,2025-05-29,2025-05-31,2,J44,COPD,,Nephrology,False,Home,18,M,M13 4AA,3,False
+EP00000190,NHS000095,2024-12-22,2024-12-23,1,F32,Depressive episode,,Nephrology,True,Care Home,18,F,L17 8AA,3,False
+EP00000191,NHS000096,2025-04-02,2025-04-06,4,F32,Depressive episode,I63,Endocrinology,True,Home,95,M,RG6 3AA,5,True
+EP00000192,NHS000096,2025-02-07,2025-02-14,7,J44,COPD,"I50,F32",Respiratory,False,Care Home,92,F,M18 8AA,3,False
+EP00000193,NHS000097,2025-05-07,2025-05-08,1,I10,Essential hypertension,,Gastroenterology,False,Home,51,M,RG2 1AA,4,False
+EP00000194,NHS000097,2025-01-19,2025-01-20,1,J44,COPD,,Respiratory,False,Care Home,18,F,L11 4AA,3,False
+EP00000195,NHS000098,2025-02-22,2025-02-25,3,I21,Acute myocardial infarction,,Endocrinology,False,Home,48,F,B16 6AA,5,False
+EP00000196,NHS000098,2025-06-15,2025-06-16,1,J44,COPD,,Geriatrics,False,Another Hospital,55,F,L16 8AA,1,False
+EP00000197,NHS000099,2025-02-22,2025-02-23,1,I63,Cerebral infarction,,Nephrology,False,Home,18,F,L18 7AA,4,False
+EP00000198,NHS000099,2025-05-03,2025-05-04,1,N18,Chronic kidney disease,,Emergency Medicine,True,Home,42,F,SL3 5AA,2,False
+EP00000199,NHS000100,2025-06-16,2025-06-18,2,K92,GI bleeding,"I50,N18",Geriatrics,True,Home,88,M,RG7 7AA,3,False
+EP00000200,NHS000100,2025-04-24,2025-04-25,1,I21,Acute myocardial infarction,,Emergency Medicine,True,Home,22,F,B18 6AA,4,False
+EP00000201,NHS000101,2024-10-13,2024-10-14,1,J18,Pneumonia,,Cardiology,True,Home,25,M,RG4 2AA,2,False
+EP00000202,NHS000101,2025-02-12,2025-02-13,1,J44,COPD,,Nephrology,True,Home,37,M,RG3 1AA,3,False
+EP00000203,NHS000102,2025-08-18,2025-08-27,9,J18,Pneumonia,,Geriatrics,True,Home,48,M,SL2 1AA,2,False
+EP00000204,NHS000102,2025-07-19,2025-07-20,1,I50,Heart failure,,General Medicine,True,Home,18,F,M15 2AA,3,True
+EP00000205,NHS000103,2024-10-23,2024-10-29,6,I21,Acute myocardial infarction,,Endocrinology,False,Home,18,M,RG2 3AA,4,False
+EP00000206,NHS000103,2025-08-01,2025-08-04,3,I10,Essential hypertension,J18,Cardiology,False,Home,81,F,SL6 8AA,1,True
+EP00000207,NHS000104,2025-05-10,2025-05-11,1,I10,Essential hypertension,,Endocrinology,True,Home,48,M,RG2 6AA,3,False
+EP00000208,NHS000104,2025-03-07,2025-03-08,1,I63,Cerebral infarction,E11,Endocrinology,True,Home,59,M,M16 4AA,4,True
+EP00000209,NHS000105,2024-12-08,2024-12-12,4,J18,Pneumonia,,General Medicine,True,Home,37,M,L15 1AA,3,False
+EP00000210,NHS000105,2025-06-11,2025-06-12,1,I63,Cerebral infarction,,Endocrinology,False,Another Hospital,34,F,RG2 3AA,3,False
+EP00000211,NHS000106,2025-08-04,2025-08-08,4,J44,COPD,,Gastroenterology,False,Home,18,F,RG3 3AA,5,False
+EP00000212,NHS000106,2025-01-25,2025-01-28,3,J18,Pneumonia,,Emergency Medicine,True,Home,19,M,B15 4AA,5,False
+EP00000213,NHS000107,2025-01-15,2025-01-16,1,I63,Cerebral infarction,,Nephrology,False,Home,18,F,B16 2AA,2,False
+EP00000214,NHS000107,2025-08-23,2025-08-24,1,I21,Acute myocardial infarction,"F32,I10,K92",Cardiology,False,Home,95,M,L17 7AA,1,False
+EP00000215,NHS000108,2024-12-25,2024-12-26,1,I63,Cerebral infarction,,General Medicine,False,Home,18,M,L17 1AA,3,False
+EP00000216,NHS000108,2025-05-28,2025-05-30,2,J18,Pneumonia,I21,Nephrology,True,Home,80,F,M15 3AA,4,False
+EP00000217,NHS000109,2025-05-04,2025-05-05,1,J44,COPD,"N18,I10,E11,K92",Cardiology,True,Home,95,M,M11 5AA,3,False
+EP00000218,NHS000109,2025-01-04,2025-01-05,1,E11,Type 2 diabetes,,Nephrology,False,Home,18,M,RG2 3AA,1,False
+EP00000219,NHS000110,2025-04-18,2025-04-19,1,E11,Type 2 diabetes,,Emergency Medicine,True,Home,18,M,SL8 1AA,4,True
+EP00000220,NHS000110,2024-10-09,2024-10-10,1,J44,COPD,,Nephrology,True,Home,18,F,SL4 2AA,5,False
+EP00000221,NHS000111,2025-03-01,2025-03-02,1,F32,Depressive episode,,Nephrology,True,Home,19,F,M15 1AA,5,False
+EP00000222,NHS000111,2025-04-13,2025-04-14,1,F32,Depressive episode,I50,Geriatrics,True,Home,75,F,B12 6AA,1,False
+EP00000223,NHS000112,2025-07-13,2025-07-17,4,F32,Depressive episode,"N18,E11",General Medicine,False,Home,74,F,RG8 4AA,1,False
+EP00000224,NHS000112,2025-05-19,2025-05-23,4,J18,Pneumonia,,Gastroenterology,True,Another Hospital,18,M,L16 1AA,4,False
+EP00000225,NHS000113,2025-04-10,2025-04-11,1,E11,Type 2 diabetes,,Endocrinology,True,Home,23,M,SL7 8AA,2,False
+EP00000226,NHS000113,2025-05-21,2025-05-25,4,E11,Type 2 diabetes,,Respiratory,True,Home,64,M,M16 2AA,3,False
+EP00000227,NHS000114,2025-03-14,2025-03-15,1,I21,Acute myocardial infarction,,Nephrology,False,Care Home,18,M,L13 4AA,4,True
+EP00000228,NHS000114,2025-04-03,2025-04-06,3,F32,Depressive episode,,Respiratory,False,Home,24,M,L12 8AA,5,False
+EP00000229,NHS000115,2025-05-08,2025-05-09,1,N18,Chronic kidney disease,,Gastroenterology,True,Home,34,F,SL1 4AA,1,False
+EP00000230,NHS000115,2025-07-27,2025-07-28,1,J18,Pneumonia,,Gastroenterology,False,Home,36,F,RG1 5AA,2,False
+EP00000231,NHS000116,2024-10-23,2024-10-25,2,E11,Type 2 diabetes,J44,Nephrology,True,Another Hospital,54,M,B14 1AA,3,False
+EP00000232,NHS000116,2024-12-06,2024-12-08,2,J44,COPD,F32,General Medicine,False,Home,60,M,L14 3AA,3,False
+EP00000233,NHS000117,2024-11-19,2024-11-22,3,I21,Acute myocardial infarction,,General Medicine,False,Home,18,M,RG2 5AA,3,False
+EP00000234,NHS000117,2024-12-06,2024-12-08,2,I10,Essential hypertension,,Gastroenterology,False,Home,59,M,M15 4AA,1,False
+EP00000235,NHS000118,2025-04-13,2025-04-14,1,I63,Cerebral infarction,,General Medicine,False,Rehabilitation Unit,18,M,B13 6AA,3,True
+EP00000236,NHS000118,2025-04-24,2025-04-28,4,E11,Type 2 diabetes,"K92,I21",Nephrology,True,Home,91,F,RG7 8AA,4,False
+EP00000237,NHS000119,2025-02-07,2025-02-08,1,J44,COPD,,Geriatrics,False,Home,18,F,B12 6AA,5,True
+EP00000238,NHS000119,2025-06-13,2025-06-17,4,J44,COPD,,Respiratory,True,Home,18,F,L16 2AA,5,False
+EP00000239,NHS000120,2024-11-18,2024-11-25,7,N18,Chronic kidney disease,,Cardiology,True,Home,18,M,B13 3AA,2,False
+EP00000240,NHS000120,2025-05-07,2025-05-10,3,N18,Chronic kidney disease,,Emergency Medicine,True,Care Home,25,F,L12 1AA,3,False
+EP00000241,NHS000121,2024-10-09,2024-10-10,1,I21,Acute myocardial infarction,,Emergency Medicine,False,Home,44,M,SL8 5AA,3,False
+EP00000242,NHS000121,2024-12-30,2025-01-05,6,E11,Type 2 diabetes,,Gastroenterology,True,Home,18,F,RG3 8AA,5,False
+EP00000243,NHS000122,2025-03-29,2025-04-03,5,F32,Depressive episode,,General Medicine,False,Home,18,F,B17 8AA,4,False
+EP00000244,NHS000122,2025-08-23,2025-08-25,2,J44,COPD,,Emergency Medicine,True,Care Home,43,M,M14 7AA,5,False
+EP00000245,NHS000123,2025-03-17,2025-03-18,1,E11,Type 2 diabetes,,Emergency Medicine,True,Home,18,M,SL2 5AA,2,False
+EP00000246,NHS000123,2024-12-26,2024-12-27,1,I21,Acute myocardial infarction,,Geriatrics,True,Care Home,18,F,B17 4AA,2,True
+EP00000247,NHS000124,2024-12-25,2024-12-26,1,J44,COPD,,Geriatrics,True,Another Hospital,18,M,SL1 7AA,2,False
+EP00000248,NHS000124,2024-10-03,2024-10-04,1,I63,Cerebral infarction,,Cardiology,True,Home,39,M,M12 5AA,3,False
+EP00000249,NHS000125,2024-11-07,2024-11-08,1,I63,Cerebral infarction,,Cardiology,True,Home,18,F,B11 7AA,5,False
+EP00000250,NHS000125,2025-03-11,2025-03-12,1,J44,COPD,,Emergency Medicine,False,Home,35,M,M16 4AA,3,False
+EP00000251,NHS000126,2024-08-30,2024-08-31,1,J18,Pneumonia,"F32,E11",Emergency Medicine,True,Home,68,F,RG7 1AA,4,True
+EP00000252,NHS000126,2024-10-20,2024-11-01,12,I50,Heart failure,,Respiratory,True,Rehabilitation Unit,59,M,B15 3AA,1,False
+EP00000253,NHS000127,2025-04-19,2025-04-20,1,E11,Type 2 diabetes,,Gastroenterology,False,Home,19,M,L12 6AA,4,True
+EP00000254,NHS000127,2025-04-27,2025-04-28,1,K92,GI bleeding,,Emergency Medicine,True,Home,18,M,B15 8AA,1,False
+EP00000255,NHS000128,2025-01-30,2025-02-01,2,F32,Depressive episode,J18,Endocrinology,True,Care Home,56,M,B14 2AA,1,False
+EP00000256,NHS000128,2025-08-21,2025-08-23,2,J18,Pneumonia,,General Medicine,True,Care Home,52,M,L17 8AA,2,False
+EP00000257,NHS000129,2024-10-15,2024-10-19,4,I10,Essential hypertension,,Cardiology,True,Another Hospital,39,F,M16 5AA,3,False
+EP00000258,NHS000129,2024-12-03,2024-12-06,3,F32,Depressive episode,,Geriatrics,True,Home,22,M,RG2 5AA,4,False
+EP00000259,NHS000130,2025-06-20,2025-06-21,1,J44,COPD,,Emergency Medicine,True,Home,19,M,M18 6AA,2,False
+EP00000260,NHS000130,2025-05-17,2025-05-20,3,I50,Heart failure,,Respiratory,False,Care Home,46,F,L14 4AA,4,False
+EP00000261,NHS000131,2024-09-16,2024-09-17,1,I21,Acute myocardial infarction,"I63,N18",Gastroenterology,True,Home,73,F,B13 3AA,1,False
+EP00000262,NHS000131,2024-09-24,2024-09-26,2,J44,COPD,,Gastroenterology,False,Home,18,M,L17 8AA,3,False
+EP00000263,NHS000132,2025-07-09,2025-07-10,1,I50,Heart failure,,Endocrinology,False,Home,18,M,L18 3AA,2,False
+EP00000264,NHS000132,2025-01-31,2025-02-01,1,N18,Chronic kidney disease,,Endocrinology,True,Home,18,M,M16 2AA,4,False
+EP00000265,NHS000133,2025-01-27,2025-01-29,2,I21,Acute myocardial infarction,I50,Nephrology,False,Home,94,M,B15 1AA,2,False
+EP00000266,NHS000133,2025-06-15,2025-06-17,2,K92,GI bleeding,,Gastroenterology,True,Home,43,F,M18 4AA,1,False
+EP00000267,NHS000134,2025-03-27,2025-03-31,4,K92,GI bleeding,,General Medicine,False,Rehabilitation Unit,18,M,B11 7AA,4,True
+EP00000268,NHS000134,2025-05-26,2025-05-30,4,E11,Type 2 diabetes,,Endocrinology,True,Rehabilitation Unit,52,M,SL3 6AA,3,False
+EP00000269,NHS000135,2025-07-10,2025-07-11,1,I63,Cerebral infarction,,General Medicine,True,Home,18,F,M18 8AA,3,False
+EP00000270,NHS000135,2025-05-11,2025-05-13,2,K92,GI bleeding,,Endocrinology,False,Home,28,F,SL8 4AA,2,False
+EP00000271,NHS000136,2024-09-19,2024-09-20,1,F32,Depressive episode,,Geriatrics,True,Home,51,F,SL8 6AA,1,False
+EP00000272,NHS000136,2024-09-08,2024-09-09,1,F32,Depressive episode,,Cardiology,True,Rehabilitation Unit,20,F,B15 8AA,1,False
+EP00000273,NHS000137,2025-05-15,2025-05-16,1,F32,Depressive episode,,Emergency Medicine,True,Home,18,F,B13 5AA,4,False
+EP00000274,NHS000137,2024-10-01,2024-10-02,1,J44,COPD,,Endocrinology,True,Care Home,21,F,RG3 1AA,4,False
+EP00000275,NHS000138,2025-06-13,2025-06-15,2,I63,Cerebral infarction,I21,Geriatrics,False,Home,63,M,B18 6AA,2,False
+EP00000276,NHS000138,2025-06-18,2025-06-19,1,I10,Essential hypertension,,Geriatrics,True,Another Hospital,34,F,RG1 3AA,5,False
+EP00000277,NHS000139,2024-11-15,2024-11-16,1,I63,Cerebral infarction,,Endocrinology,True,Home,44,M,B12 1AA,1,True
+EP00000278,NHS000139,2024-11-29,2024-11-30,1,K92,GI bleeding,,Respiratory,False,Another Hospital,46,M,L12 7AA,2,False
+EP00000279,NHS000140,2025-08-27,2025-08-31,4,I21,Acute myocardial infarction,,Geriatrics,False,Home,31,M,B15 3AA,4,False
+EP00000280,NHS000140,2024-09-26,2024-09-28,2,E11,Type 2 diabetes,,Emergency Medicine,False,Home,61,M,RG6 1AA,1,True
+EP00000281,NHS000141,2025-06-18,2025-06-25,7,I21,Acute myocardial infarction,,Gastroenterology,False,Home,18,F,L17 1AA,4,False
+EP00000282,NHS000141,2024-09-22,2024-09-27,5,K92,GI bleeding,,Geriatrics,True,Home,54,F,M11 3AA,4,False
+EP00000283,NHS000142,2024-09-24,2024-09-27,3,I21,Acute myocardial infarction,,Geriatrics,False,Home,18,F,SL3 4AA,4,False
+EP00000284,NHS000142,2025-03-18,2025-03-27,9,E11,Type 2 diabetes,,Respiratory,False,Home,19,F,L12 4AA,5,False
+EP00000285,NHS000143,2024-10-29,2024-11-03,5,K92,GI bleeding,,General Medicine,True,Another Hospital,20,M,M17 8AA,1,True
+EP00000286,NHS000143,2025-04-09,2025-04-10,1,I50,Heart failure,,Gastroenterology,True,Home,27,M,B14 8AA,2,False
+EP00000287,NHS000144,2025-05-08,2025-05-09,1,J18,Pneumonia,,Nephrology,True,Home,18,M,B14 4AA,4,False
+EP00000288,NHS000144,2025-04-22,2025-04-23,1,I50,Heart failure,,Geriatrics,False,Home,20,M,RG6 5AA,2,False
+EP00000289,NHS000145,2024-10-31,2024-11-03,3,K92,GI bleeding,,Cardiology,True,Home,39,M,RG7 7AA,5,True
+EP00000290,NHS000145,2025-01-14,2025-01-16,2,F32,Depressive episode,I10,General Medicine,False,Home,95,F,L15 6AA,1,False
+EP00000291,NHS000146,2025-05-13,2025-05-14,1,I63,Cerebral infarction,"J18,J44,N18,I10,I21",Nephrology,True,Home,89,F,SL7 1AA,5,True
+EP00000292,NHS000146,2024-09-28,2024-10-03,5,I10,Essential hypertension,,Gastroenterology,True,Home,51,M,B15 1AA,4,False
+EP00000293,NHS000147,2025-01-02,2025-01-03,1,I10,Essential hypertension,,Nephrology,True,Home,23,M,L14 6AA,2,False
+EP00000294,NHS000147,2025-01-24,2025-01-26,2,N18,Chronic kidney disease,"I50,I21",Respiratory,True,Home,68,F,RG4 3AA,4,False
+EP00000295,NHS000148,2024-10-06,2024-10-07,1,I21,Acute myocardial infarction,"I10,K92",Gastroenterology,True,Home,73,M,B17 3AA,3,False
+EP00000296,NHS000148,2025-03-23,2025-04-01,9,I50,Heart failure,,General Medicine,True,Home,25,F,SL1 8AA,5,False
+EP00000297,NHS000149,2025-06-30,2025-07-01,1,F32,Depressive episode,N18,Nephrology,True,Another Hospital,87,M,L17 3AA,4,False
+EP00000298,NHS000149,2024-09-26,2024-09-29,3,N18,Chronic kidney disease,,General Medicine,False,Care Home,20,M,RG6 8AA,5,False
+EP00000299,NHS000150,2025-06-03,2025-06-04,1,I50,Heart failure,,Cardiology,True,Home,18,M,SL7 5AA,3,True
+EP00000300,NHS000150,2024-11-21,2024-11-22,1,K92,GI bleeding,"I10,I21,J18,N18",General Medicine,True,Home,95,F,SL7 7AA,5,False
+EP00000301,NHS000151,2025-07-06,2025-07-07,1,I21,Acute myocardial infarction,,Gastroenterology,True,Home,18,M,M14 3AA,3,False
+EP00000302,NHS000151,2025-02-22,2025-02-23,1,F32,Depressive episode,,Geriatrics,True,Home,18,F,RG4 5AA,4,False
+EP00000303,NHS000152,2025-08-21,2025-08-28,7,E11,Type 2 diabetes,,Endocrinology,True,Home,45,F,B17 5AA,2,False
+EP00000304,NHS000152,2025-02-15,2025-02-16,1,E11,Type 2 diabetes,,Gastroenterology,True,Home,47,M,RG5 4AA,3,False
+EP00000305,NHS000153,2024-09-07,2024-09-09,2,J44,COPD,,Emergency Medicine,False,Home,18,F,RG6 4AA,4,False
+EP00000306,NHS000153,2025-07-22,2025-07-23,1,J18,Pneumonia,J44,Endocrinology,False,Care Home,78,F,B17 7AA,1,False
+EP00000307,NHS000154,2025-03-01,2025-03-05,4,E11,Type 2 diabetes,"N18,I50",Respiratory,True,Home,76,M,B14 7AA,2,False
+EP00000308,NHS000154,2024-10-12,2024-10-15,3,N18,Chronic kidney disease,,Respiratory,False,Home,18,M,L12 3AA,5,False
+EP00000309,NHS000155,2024-10-28,2024-10-31,3,I10,Essential hypertension,,Geriatrics,True,Home,22,M,B14 2AA,5,True
+EP00000310,NHS000155,2025-07-18,2025-07-19,1,I10,Essential hypertension,J44,General Medicine,True,Home,62,M,B18 1AA,4,True
+EP00000311,NHS000156,2025-03-23,2025-03-27,4,I50,Heart failure,,Nephrology,False,Home,18,F,SL2 6AA,3,False
+EP00000312,NHS000156,2025-03-20,2025-03-27,7,I10,Essential hypertension,"J18,I21,I63,K92,N18",General Medicine,False,Rehabilitation Unit,95,F,L16 7AA,1,False
+EP00000313,NHS000157,2025-08-14,2025-08-15,1,J18,Pneumonia,,Geriatrics,False,Home,73,M,L16 7AA,1,False
+EP00000314,NHS000157,2024-11-29,2024-12-01,2,I10,Essential hypertension,,Geriatrics,True,Care Home,18,M,L15 1AA,4,False
+EP00000315,NHS000158,2025-01-22,2025-01-23,1,F32,Depressive episode,,Cardiology,True,Home,80,F,L15 6AA,3,False
+EP00000316,NHS000158,2025-02-17,2025-02-18,1,N18,Chronic kidney disease,,Emergency Medicine,True,Home,39,M,SL8 3AA,5,False
+EP00000317,NHS000159,2025-05-12,2025-05-13,1,F32,Depressive episode,,Endocrinology,True,Rehabilitation Unit,81,F,SL4 1AA,4,False
+EP00000318,NHS000159,2024-09-21,2024-09-22,1,K92,GI bleeding,,Endocrinology,True,Home,18,F,L15 4AA,3,False
+EP00000319,NHS000160,2024-12-05,2024-12-08,3,I10,Essential hypertension,,Respiratory,True,Home,53,M,B14 1AA,3,False
+EP00000320,NHS000160,2024-12-09,2024-12-12,3,E11,Type 2 diabetes,"N18,J44",Cardiology,False,Home,75,F,RG3 8AA,3,False
+EP00000321,NHS000161,2024-11-23,2024-11-24,1,J18,Pneumonia,,Respiratory,False,Home,26,F,L16 4AA,3,True
+EP00000322,NHS000161,2025-01-24,2025-01-25,1,I63,Cerebral infarction,,Gastroenterology,False,Home,18,M,M12 7AA,3,False
+EP00000323,NHS000162,2024-10-03,2024-10-04,1,F32,Depressive episode,,General Medicine,True,Home,18,F,M14 5AA,2,False
+EP00000324,NHS000162,2025-08-28,2025-08-29,1,I50,Heart failure,,Cardiology,True,Home,28,F,RG2 4AA,1,False
+EP00000325,NHS000163,2025-04-05,2025-04-06,1,J44,COPD,,Emergency Medicine,False,Home,35,M,B18 7AA,3,False
+EP00000326,NHS000163,2025-01-19,2025-01-20,1,I63,Cerebral infarction,,Nephrology,True,Home,18,F,B17 2AA,3,False
+EP00000327,NHS000164,2025-03-30,2025-03-31,1,N18,Chronic kidney disease,,Respiratory,True,Another Hospital,33,F,M12 5AA,3,False
+EP00000328,NHS000164,2024-12-25,2024-12-26,1,N18,Chronic kidney disease,,Emergency Medicine,False,Home,48,F,B13 7AA,1,True
+EP00000329,NHS000165,2025-02-24,2025-02-25,1,I63,Cerebral infarction,"J18,K92",Gastroenterology,False,Home,78,F,RG8 4AA,4,False
+EP00000330,NHS000165,2025-01-26,2025-01-30,4,N18,Chronic kidney disease,,General Medicine,False,Home,32,F,SL3 7AA,1,False
+EP00000331,NHS000166,2025-07-25,2025-07-26,1,I10,Essential hypertension,,Nephrology,False,Care Home,25,F,B14 7AA,2,False
+EP00000332,NHS000166,2025-02-15,2025-02-21,6,N18,Chronic kidney disease,,Cardiology,False,Home,18,M,M15 4AA,3,False
+EP00000333,NHS000167,2025-02-10,2025-02-11,1,J18,Pneumonia,,Respiratory,True,Home,33,M,M14 1AA,3,True
+EP00000334,NHS000167,2025-04-10,2025-04-11,1,I50,Heart failure,,Gastroenterology,True,Home,37,M,L18 7AA,1,False
+EP00000335,NHS000168,2025-06-22,2025-06-23,1,I50,Heart failure,,General Medicine,False,Home,24,F,SL5 5AA,1,False
+EP00000336,NHS000168,2025-06-14,2025-06-15,1,I50,Heart failure,J44,Emergency Medicine,True,Home,52,F,L12 4AA,2,False
+EP00000337,NHS000169,2024-11-13,2024-11-18,5,E11,Type 2 diabetes,"I21,I50",Nephrology,True,Another Hospital,68,F,RG7 7AA,4,False
+EP00000338,NHS000169,2025-03-31,2025-04-01,1,F32,Depressive episode,,Gastroenterology,False,Home,18,M,B17 7AA,2,False
+EP00000339,NHS000170,2024-09-16,2024-09-18,2,I50,Heart failure,"N18,E11,F32",General Medicine,False,Home,95,M,RG5 6AA,2,False
+EP00000340,NHS000170,2024-11-05,2024-11-07,2,J18,Pneumonia,"F32,I10",Nephrology,False,Home,95,M,M14 1AA,2,False
+EP00000341,NHS000171,2024-09-18,2024-09-19,1,J44,COPD,,Emergency Medicine,True,Home,18,F,M12 3AA,1,False
+EP00000342,NHS000171,2025-07-15,2025-07-17,2,I63,Cerebral infarction,,Geriatrics,False,Home,24,F,B12 6AA,2,True
+EP00000343,NHS000172,2024-12-28,2024-12-29,1,E11,Type 2 diabetes,,Emergency Medicine,False,Home,23,F,M18 7AA,2,False
+EP00000344,NHS000172,2024-12-12,2024-12-29,17,I63,Cerebral infarction,,Nephrology,True,Care Home,95,F,M16 5AA,4,True
+EP00000345,NHS000173,2025-03-18,2025-03-20,2,N18,Chronic kidney disease,,Respiratory,False,Home,18,M,RG7 7AA,1,False
+EP00000346,NHS000173,2025-02-13,2025-02-17,4,J18,Pneumonia,,Emergency Medicine,False,Home,34,F,B11 5AA,3,True
+EP00000347,NHS000174,2025-06-20,2025-06-21,1,J44,COPD,,Respiratory,True,Home,36,F,L14 3AA,2,False
+EP00000348,NHS000174,2025-01-24,2025-01-25,1,J44,COPD,J18,Emergency Medicine,True,Home,59,M,L12 1AA,3,False
+EP00000349,NHS000175,2025-08-19,2025-08-23,4,J18,Pneumonia,,Geriatrics,False,Another Hospital,34,M,M17 1AA,5,False
+EP00000350,NHS000175,2025-06-15,2025-06-20,5,J44,COPD,,Respiratory,True,Home,18,F,L18 3AA,2,False
+EP00000351,NHS000176,2024-10-06,2024-10-07,1,I21,Acute myocardial infarction,,Nephrology,False,Home,55,F,SL8 7AA,4,False
+EP00000352,NHS000176,2025-04-28,2025-05-03,5,N18,Chronic kidney disease,,Cardiology,True,Home,28,F,M13 8AA,2,False
+EP00000353,NHS000177,2025-03-07,2025-03-08,1,E11,Type 2 diabetes,"I21,N18,K92",Geriatrics,False,Home,95,F,L16 7AA,5,True
+EP00000354,NHS000177,2025-08-28,2025-08-29,1,J18,Pneumonia,,Nephrology,True,Home,34,F,SL1 6AA,3,False
+EP00000355,NHS000178,2025-02-01,2025-02-02,1,J18,Pneumonia,,General Medicine,True,Home,43,M,L15 8AA,2,False
+EP00000356,NHS000178,2025-04-21,2025-04-29,8,F32,Depressive episode,,Respiratory,False,Home,45,F,SL4 8AA,2,False
+EP00000357,NHS000179,2025-02-09,2025-02-10,1,J18,Pneumonia,"N18,E11",Respiratory,True,Another Hospital,61,M,RG4 5AA,3,False
+EP00000358,NHS000179,2025-01-13,2025-01-20,7,I50,Heart failure,,Emergency Medicine,False,Home,18,F,B16 5AA,2,False
+EP00000359,NHS000180,2025-06-11,2025-06-15,4,I10,Essential hypertension,,Gastroenterology,True,Home,18,M,B12 7AA,4,True
+EP00000360,NHS000180,2024-08-31,2024-09-01,1,I63,Cerebral infarction,,Geriatrics,False,Home,18,F,L16 8AA,3,False
+EP00000361,NHS000181,2025-06-25,2025-07-04,9,I21,Acute myocardial infarction,,General Medicine,True,Home,59,M,RG3 6AA,1,True
+EP00000362,NHS000181,2025-07-18,2025-07-19,1,I50,Heart failure,"F32,I10",Emergency Medicine,False,Home,63,M,M14 5AA,4,False
+EP00000363,NHS000182,2025-01-22,2025-01-26,4,I10,Essential hypertension,,General Medicine,True,Home,26,M,L11 1AA,2,False
+EP00000364,NHS000182,2025-06-12,2025-06-13,1,J44,COPD,,Respiratory,True,Home,35,M,M14 1AA,3,False
+EP00000365,NHS000183,2025-01-30,2025-01-31,1,I21,Acute myocardial infarction,"J18,F32,E11,N18,I50",Emergency Medicine,False,Home,95,M,SL2 3AA,3,False
+EP00000366,NHS000183,2025-06-19,2025-06-25,6,I50,Heart failure,,Gastroenterology,True,Home,18,M,B17 2AA,3,False
+EP00000367,NHS000184,2025-02-01,2025-02-02,1,J44,COPD,,Emergency Medicine,False,Home,47,F,M18 7AA,3,False
+EP00000368,NHS000184,2025-04-21,2025-04-22,1,I50,Heart failure,,Emergency Medicine,True,Home,58,M,B11 3AA,4,True
+EP00000369,NHS000185,2025-05-04,2025-05-05,1,K92,GI bleeding,,General Medicine,True,Home,65,M,M14 6AA,3,False
+EP00000370,NHS000185,2025-03-14,2025-03-17,3,N18,Chronic kidney disease,,Nephrology,True,Home,21,F,M12 2AA,5,True
+EP00000371,NHS000186,2025-08-12,2025-08-13,1,I21,Acute myocardial infarction,"J18,I63,I50",Nephrology,True,Another Hospital,69,M,RG1 2AA,3,True
+EP00000372,NHS000186,2025-06-14,2025-06-19,5,J44,COPD,,Gastroenterology,False,Care Home,23,M,RG5 6AA,3,False
+EP00000373,NHS000187,2025-02-21,2025-02-25,4,I21,Acute myocardial infarction,,Cardiology,True,Home,46,F,SL7 4AA,3,False
+EP00000374,NHS000187,2025-05-31,2025-06-02,2,I21,Acute myocardial infarction,,Respiratory,True,Home,24,F,RG5 2AA,3,True
+EP00000375,NHS000188,2025-06-12,2025-06-13,1,I50,Heart failure,,Endocrinology,True,Home,18,F,B12 1AA,3,True
+EP00000376,NHS000188,2024-12-18,2024-12-19,1,I50,Heart failure,,Endocrinology,False,Another Hospital,18,M,B18 4AA,4,False
+EP00000377,NHS000189,2024-11-24,2024-11-25,1,E11,Type 2 diabetes,,Gastroenterology,False,Home,18,M,L16 4AA,5,True
+EP00000378,NHS000189,2025-06-21,2025-06-24,3,N18,Chronic kidney disease,,Cardiology,False,Home,49,F,SL8 5AA,4,False
+EP00000379,NHS000190,2025-07-25,2025-07-26,1,F32,Depressive episode,,Geriatrics,False,Home,45,F,B11 2AA,5,True
+EP00000380,NHS000190,2024-09-04,2024-09-06,2,I50,Heart failure,,Respiratory,False,Care Home,19,M,L12 4AA,3,False
+EP00000381,NHS000191,2025-04-26,2025-04-29,3,J18,Pneumonia,,Emergency Medicine,True,Home,43,F,RG5 4AA,2,False
+EP00000382,NHS000191,2024-12-19,2024-12-22,3,I10,Essential hypertension,,Respiratory,True,Home,49,M,RG8 7AA,3,False
+EP00000383,NHS000192,2024-11-08,2024-11-09,1,I10,Essential hypertension,,Endocrinology,False,Home,21,M,L12 6AA,4,True
+EP00000384,NHS000192,2025-07-03,2025-07-04,1,K92,GI bleeding,,Cardiology,True,Home,18,F,RG8 2AA,2,True
+EP00000385,NHS000193,2025-07-28,2025-08-08,11,J18,Pneumonia,,Gastroenterology,False,Home,32,F,SL7 8AA,4,False
+EP00000386,NHS000193,2025-01-15,2025-01-17,2,J44,COPD,,Respiratory,True,Home,53,M,RG5 2AA,3,False
+EP00000387,NHS000194,2025-02-24,2025-02-26,2,I21,Acute myocardial infarction,,Emergency Medicine,True,Home,35,M,B15 6AA,5,False
+EP00000388,NHS000194,2025-07-26,2025-07-27,1,K92,GI bleeding,"I21,N18",Respiratory,False,Home,95,M,SL5 6AA,1,False
+EP00000389,NHS000195,2024-11-20,2024-11-25,5,F32,Depressive episode,,General Medicine,False,Care Home,30,M,SL5 3AA,4,True
+EP00000390,NHS000195,2024-12-24,2024-12-31,7,K92,GI bleeding,,Endocrinology,False,Home,40,F,SL6 1AA,4,False
+EP00000391,NHS000196,2025-03-31,2025-04-01,1,I21,Acute myocardial infarction,E11,Gastroenterology,False,Home,58,F,M14 1AA,3,False
+EP00000392,NHS000196,2025-01-15,2025-01-19,4,I63,Cerebral infarction,E11,Nephrology,False,Home,60,F,SL5 3AA,1,False
+EP00000393,NHS000197,2025-08-25,2025-09-01,7,K92,GI bleeding,,Endocrinology,False,Home,35,F,L11 5AA,2,False
+EP00000394,NHS000197,2025-05-16,2025-05-18,2,J18,Pneumonia,,Emergency Medicine,True,Home,46,M,RG4 5AA,2,False
+EP00000395,NHS000198,2025-01-23,2025-01-24,1,K92,GI bleeding,,Gastroenterology,True,Home,53,M,RG1 3AA,2,False
+EP00000396,NHS000198,2025-01-02,2025-01-03,1,K92,GI bleeding,,General Medicine,True,Home,36,F,RG2 8AA,1,False
+EP00000397,NHS000199,2025-02-15,2025-02-18,3,I10,Essential hypertension,,Respiratory,False,Home,18,M,SL8 4AA,5,True
+EP00000398,NHS000199,2025-03-31,2025-04-10,10,N18,Chronic kidney disease,,Nephrology,True,Home,27,M,SL2 6AA,1,False
+EP00000399,NHS000200,2025-08-10,2025-08-11,1,F32,Depressive episode,,Cardiology,True,Home,42,F,SL7 2AA,4,False
+EP00000400,NHS000200,2024-09-05,2024-09-06,1,J44,COPD,,Nephrology,True,Home,18,F,SL6 5AA,3,False
+EP00000401,NHS000201,2025-02-25,2025-02-26,1,E11,Type 2 diabetes,,Nephrology,False,Home,21,M,B11 5AA,4,False
+EP00000402,NHS000201,2025-05-13,2025-05-14,1,I10,Essential hypertension,,Cardiology,False,Home,44,M,RG4 6AA,5,False
+EP00000403,NHS000202,2024-11-25,2024-11-27,2,I10,Essential hypertension,,Cardiology,True,Home,40,F,L12 5AA,2,False
+EP00000404,NHS000202,2025-07-05,2025-07-06,1,I50,Heart failure,,Nephrology,True,Home,18,M,SL5 1AA,3,False
+EP00000405,NHS000203,2025-08-10,2025-08-13,3,F32,Depressive episode,,Respiratory,True,Home,25,M,RG8 5AA,4,False
+EP00000406,NHS000203,2025-02-06,2025-02-11,5,J18,Pneumonia,,Endocrinology,True,Home,33,M,M13 4AA,5,False
+EP00000407,NHS000204,2024-10-12,2024-10-13,1,I21,Acute myocardial infarction,,Respiratory,True,Home,38,M,RG6 2AA,4,False
+EP00000408,NHS000204,2025-06-18,2025-06-20,2,I50,Heart failure,,Emergency Medicine,True,Home,39,M,M13 1AA,3,False
+EP00000409,NHS000205,2025-06-08,2025-06-09,1,E11,Type 2 diabetes,,Emergency Medicine,False,Home,22,M,L16 6AA,3,False
+EP00000410,NHS000205,2025-06-02,2025-06-03,1,F32,Depressive episode,,Cardiology,True,Another Hospital,20,M,B16 4AA,1,False
+EP00000411,NHS000206,2025-05-13,2025-05-25,12,E11,Type 2 diabetes,,Emergency Medicine,False,Home,25,F,B16 2AA,4,False
+EP00000412,NHS000206,2024-10-07,2024-10-12,5,I50,Heart failure,I63,General Medicine,True,Home,89,F,L15 8AA,4,True
+EP00000413,NHS000207,2024-11-25,2024-11-26,1,E11,Type 2 diabetes,,General Medicine,False,Care Home,51,M,L17 8AA,3,True
+EP00000414,NHS000207,2024-12-10,2024-12-13,3,K92,GI bleeding,,Cardiology,True,Home,90,F,RG4 3AA,1,False
+EP00000415,NHS000208,2024-10-10,2024-10-11,1,I63,Cerebral infarction,,Endocrinology,False,Home,34,F,M11 5AA,2,False
+EP00000416,NHS000208,2024-09-27,2024-09-29,2,J44,COPD,I63,Gastroenterology,True,Home,72,M,RG1 2AA,4,False
+EP00000417,NHS000209,2025-07-21,2025-07-28,7,I10,Essential hypertension,"K92,J44,I50",Nephrology,True,Home,95,M,B16 6AA,3,False
+EP00000418,NHS000209,2025-04-28,2025-05-01,3,I50,Heart failure,,Emergency Medicine,True,Home,30,F,RG2 6AA,2,True
+EP00000419,NHS000210,2025-05-29,2025-06-04,6,E11,Type 2 diabetes,,General Medicine,False,Home,18,F,B18 7AA,1,False
+EP00000420,NHS000210,2025-07-07,2025-07-12,5,I63,Cerebral infarction,,General Medicine,True,Home,23,M,SL2 3AA,4,False
+EP00000421,NHS000211,2025-06-26,2025-06-28,2,I21,Acute myocardial infarction,,Geriatrics,False,Home,19,F,B13 4AA,2,False
+EP00000422,NHS000211,2025-05-18,2025-05-22,4,I10,Essential hypertension,,Endocrinology,True,Home,47,M,RG5 8AA,3,False
+EP00000423,NHS000212,2025-02-22,2025-02-26,4,I63,Cerebral infarction,,Respiratory,True,Home,69,M,M13 2AA,3,False
+EP00000424,NHS000212,2025-01-05,2025-01-06,1,N18,Chronic kidney disease,,Geriatrics,False,Home,67,F,SL8 8AA,4,True
+EP00000425,NHS000213,2025-03-27,2025-04-01,5,I63,Cerebral infarction,,Geriatrics,True,Care Home,48,M,M15 7AA,5,False
+EP00000426,NHS000213,2025-05-27,2025-05-31,4,I10,Essential hypertension,,General Medicine,False,Home,28,F,M18 5AA,3,False
+EP00000427,NHS000214,2025-03-23,2025-03-28,5,I21,Acute myocardial infarction,,Cardiology,True,Home,73,F,L11 3AA,1,True
+EP00000428,NHS000214,2025-03-18,2025-03-19,1,I63,Cerebral infarction,,Geriatrics,True,Home,48,F,B12 4AA,2,False
+EP00000429,NHS000215,2025-04-26,2025-04-27,1,N18,Chronic kidney disease,I50,Respiratory,True,Home,58,M,SL6 1AA,4,True
+EP00000430,NHS000215,2024-11-01,2024-11-08,7,I21,Acute myocardial infarction,,General Medicine,True,Home,48,F,L11 3AA,3,False
+EP00000431,NHS000216,2024-12-05,2024-12-10,5,I63,Cerebral infarction,,Gastroenterology,False,Another Hospital,18,F,L12 2AA,3,True
+EP00000432,NHS000216,2025-02-06,2025-02-07,1,I63,Cerebral infarction,,Cardiology,True,Home,18,M,RG4 2AA,3,False
+EP00000433,NHS000217,2025-08-28,2025-08-29,1,J44,COPD,,General Medicine,False,Home,18,F,B13 1AA,4,False
+EP00000434,NHS000217,2025-03-01,2025-03-03,2,E11,Type 2 diabetes,,Endocrinology,True,Home,28,M,B16 2AA,2,True
+EP00000435,NHS000218,2025-07-13,2025-07-14,1,I10,Essential hypertension,,Respiratory,True,Care Home,18,F,M17 6AA,1,False
+EP00000436,NHS000218,2025-05-22,2025-05-23,1,I63,Cerebral infarction,,Emergency Medicine,False,Home,18,F,L15 2AA,5,True
+EP00000437,NHS000219,2024-12-02,2024-12-03,1,J44,COPD,,Nephrology,False,Another Hospital,21,F,M15 5AA,3,False
+EP00000438,NHS000219,2025-02-25,2025-02-26,1,I50,Heart failure,,Geriatrics,True,Home,52,F,RG2 2AA,2,False
+EP00000439,NHS000220,2025-06-15,2025-06-18,3,J44,COPD,,Respiratory,True,Home,18,F,B12 7AA,5,True
+EP00000440,NHS000220,2025-01-05,2025-01-07,2,N18,Chronic kidney disease,"F32,I63",Emergency Medicine,True,Home,95,F,RG1 3AA,3,False
+EP00000441,NHS000221,2025-04-21,2025-04-22,1,J18,Pneumonia,,Endocrinology,True,Home,18,F,B15 6AA,1,False
+EP00000442,NHS000221,2025-03-20,2025-03-23,3,F32,Depressive episode,,Emergency Medicine,True,Home,18,F,B11 6AA,2,False
+EP00000443,NHS000222,2025-02-24,2025-03-02,6,I21,Acute myocardial infarction,,Endocrinology,False,Home,32,F,SL4 8AA,4,False
+EP00000444,NHS000222,2024-12-17,2024-12-18,1,K92,GI bleeding,,Respiratory,True,Another Hospital,35,F,M13 5AA,2,False
+EP00000445,NHS000223,2025-01-26,2025-02-03,8,I63,Cerebral infarction,,Gastroenterology,True,Home,27,F,RG1 1AA,1,True
+EP00000446,NHS000223,2024-09-11,2024-09-12,1,N18,Chronic kidney disease,"I10,F32",Respiratory,False,Care Home,95,M,SL7 1AA,3,False
+EP00000447,NHS000224,2025-04-17,2025-04-21,4,I10,Essential hypertension,,Respiratory,False,Home,23,M,B11 7AA,1,False
+EP00000448,NHS000224,2025-04-11,2025-04-13,2,I10,Essential hypertension,,Gastroenterology,True,Home,18,F,SL5 1AA,5,True
+EP00000449,NHS000225,2025-06-11,2025-06-12,1,J18,Pneumonia,,Nephrology,False,Another Hospital,18,M,L17 2AA,2,True
+EP00000450,NHS000225,2025-04-18,2025-04-28,10,J18,Pneumonia,,Geriatrics,True,Rehabilitation Unit,53,M,RG5 1AA,2,False
+EP00000451,NHS000226,2025-08-05,2025-08-06,1,E11,Type 2 diabetes,,Gastroenterology,False,Home,18,M,RG7 2AA,3,False
+EP00000452,NHS000226,2024-12-14,2024-12-15,1,I50,Heart failure,,Geriatrics,False,Home,28,F,B16 8AA,2,False
+EP00000453,NHS000227,2024-09-17,2024-09-23,6,I10,Essential hypertension,,Emergency Medicine,True,Home,52,M,RG4 4AA,1,True
+EP00000454,NHS000227,2025-06-21,2025-06-22,1,N18,Chronic kidney disease,,Gastroenterology,True,Home,47,F,SL3 4AA,5,False
+EP00000455,NHS000228,2025-04-21,2025-04-24,3,J44,COPD,,Respiratory,False,Care Home,49,M,SL5 5AA,1,True
+EP00000456,NHS000228,2025-08-03,2025-08-04,1,J18,Pneumonia,I10,Gastroenterology,False,Home,60,M,SL1 7AA,3,False
+EP00000457,NHS000229,2025-06-21,2025-06-22,1,I10,Essential hypertension,,Cardiology,True,Home,50,F,B14 4AA,5,False
+EP00000458,NHS000229,2025-03-04,2025-03-06,2,I50,Heart failure,,Emergency Medicine,True,Home,30,F,M12 8AA,4,False
+EP00000459,NHS000230,2025-05-31,2025-06-01,1,F32,Depressive episode,,General Medicine,True,Home,35,F,SL6 7AA,5,False
+EP00000460,NHS000230,2025-02-24,2025-02-26,2,E11,Type 2 diabetes,"J44,I63",Geriatrics,False,Home,82,M,L16 3AA,3,False
+EP00000461,NHS000231,2025-02-14,2025-02-25,11,K92,GI bleeding,,Nephrology,True,Home,34,F,M18 7AA,2,True
+EP00000462,NHS000231,2025-08-08,2025-08-18,10,E11,Type 2 diabetes,,General Medicine,True,Home,47,F,RG1 2AA,2,False
+EP00000463,NHS000232,2024-12-13,2024-12-15,2,F32,Depressive episode,,Cardiology,False,Another Hospital,18,M,SL2 1AA,1,False
+EP00000464,NHS000232,2024-10-18,2024-10-25,7,I63,Cerebral infarction,,General Medicine,True,Home,41,F,SL7 6AA,3,True
+EP00000465,NHS000233,2024-09-25,2024-09-26,1,N18,Chronic kidney disease,,Respiratory,True,Home,27,M,B16 3AA,5,True
+EP00000466,NHS000233,2025-05-21,2025-05-24,3,J44,COPD,,Endocrinology,True,Home,28,M,SL2 3AA,4,False
+EP00000467,NHS000234,2024-12-28,2024-12-29,1,I50,Heart failure,,Geriatrics,False,Care Home,29,F,B13 8AA,3,False
+EP00000468,NHS000234,2025-02-08,2025-02-10,2,J44,COPD,,Gastroenterology,True,Home,41,F,RG3 7AA,1,True
+EP00000469,NHS000235,2025-01-30,2025-02-02,3,N18,Chronic kidney disease,,Endocrinology,False,Home,44,F,SL4 4AA,4,False
+EP00000470,NHS000235,2024-12-29,2024-12-30,1,I21,Acute myocardial infarction,,Gastroenterology,True,Care Home,26,F,RG4 4AA,2,True
+EP00000471,NHS000236,2025-01-19,2025-01-29,10,I21,Acute myocardial infarction,,General Medicine,False,Home,19,M,B18 5AA,3,True
+EP00000472,NHS000236,2025-07-13,2025-07-14,1,I10,Essential hypertension,,Geriatrics,True,Another Hospital,18,F,L14 8AA,4,True
+EP00000473,NHS000237,2025-05-05,2025-05-13,8,I50,Heart failure,,Geriatrics,True,Home,18,F,SL5 8AA,2,False
+EP00000474,NHS000237,2024-10-28,2024-10-29,1,K92,GI bleeding,"I21,J44,J18",Emergency Medicine,True,Home,94,F,RG8 1AA,4,True
+EP00000475,NHS000238,2024-12-22,2024-12-27,5,K92,GI bleeding,,Gastroenterology,True,Home,59,M,L12 1AA,3,False
+EP00000476,NHS000238,2025-03-09,2025-03-13,4,E11,Type 2 diabetes,,Geriatrics,True,Home,37,F,L18 2AA,2,False
+EP00000477,NHS000239,2025-02-04,2025-02-05,1,I63,Cerebral infarction,"J18,F32,I10,I21",Gastroenterology,False,Home,70,M,B12 4AA,4,False
+EP00000478,NHS000239,2024-09-10,2024-09-15,5,K92,GI bleeding,,Nephrology,True,Home,18,M,M16 8AA,3,False
+EP00000479,NHS000240,2025-02-11,2025-02-14,3,I10,Essential hypertension,,Endocrinology,False,Home,18,M,B16 6AA,3,False
+EP00000480,NHS000240,2025-03-19,2025-03-23,4,I10,Essential hypertension,,General Medicine,True,Home,35,F,RG7 1AA,1,False
+EP00000481,NHS000241,2025-05-08,2025-05-11,3,N18,Chronic kidney disease,,Respiratory,False,Home,32,M,M15 1AA,2,False
+EP00000482,NHS000241,2025-08-19,2025-08-22,3,J18,Pneumonia,,Gastroenterology,False,Care Home,66,M,RG7 5AA,1,False
+EP00000483,NHS000242,2024-12-19,2024-12-20,1,K92,GI bleeding,J18,Gastroenterology,False,Home,58,F,RG7 8AA,4,True
+EP00000484,NHS000242,2025-01-01,2025-01-02,1,J18,Pneumonia,,Cardiology,False,Home,18,M,M18 4AA,5,True
+EP00000485,NHS000243,2025-04-08,2025-04-09,1,I21,Acute myocardial infarction,,Endocrinology,False,Home,28,F,L11 5AA,4,True
+EP00000486,NHS000243,2025-01-01,2025-01-02,1,I10,Essential hypertension,,Nephrology,True,Home,18,M,L16 5AA,4,False
+EP00000487,NHS000244,2025-05-30,2025-06-02,3,I21,Acute myocardial infarction,K92,Respiratory,True,Home,56,F,SL5 1AA,3,False
+EP00000488,NHS000244,2024-10-01,2024-10-02,1,J18,Pneumonia,,Emergency Medicine,True,Home,21,M,B17 8AA,3,False
+EP00000489,NHS000245,2025-02-28,2025-03-01,1,N18,Chronic kidney disease,,Respiratory,True,Home,49,F,RG6 7AA,2,False
+EP00000490,NHS000245,2025-05-29,2025-05-31,2,E11,Type 2 diabetes,,Nephrology,True,Another Hospital,25,F,L14 3AA,3,False
+EP00000491,NHS000246,2024-11-15,2024-11-16,1,I50,Heart failure,,Respiratory,False,Home,24,F,M15 3AA,3,False
+EP00000492,NHS000246,2025-07-16,2025-07-19,3,I21,Acute myocardial infarction,,Gastroenterology,True,Care Home,25,F,RG3 3AA,2,True
+EP00000493,NHS000247,2025-02-20,2025-02-23,3,E11,Type 2 diabetes,,Nephrology,False,Home,18,F,L13 2AA,5,False
+EP00000494,NHS000247,2024-12-10,2024-12-11,1,I50,Heart failure,,Endocrinology,True,Home,55,F,B17 6AA,1,False
+EP00000495,NHS000248,2025-08-04,2025-08-05,1,I63,Cerebral infarction,,Cardiology,False,Home,20,F,L11 4AA,3,False
+EP00000496,NHS000248,2025-04-10,2025-04-15,5,I63,Cerebral infarction,,Nephrology,True,Home,18,F,L17 5AA,4,False
+EP00000497,NHS000249,2025-07-26,2025-07-27,1,I50,Heart failure,,Nephrology,True,Home,50,M,RG4 3AA,3,False
+EP00000498,NHS000249,2024-11-05,2024-11-11,6,K92,GI bleeding,,Geriatrics,True,Home,22,F,L15 3AA,4,False
+EP00000499,NHS000250,2025-06-29,2025-06-30,1,F32,Depressive episode,I10,Cardiology,True,Home,95,M,L11 7AA,3,True
+EP00000500,NHS000250,2024-10-24,2024-10-26,2,J18,Pneumonia,,Respiratory,True,Home,18,F,RG5 5AA,5,False
+EP00000501,NHS000251,2024-12-02,2024-12-03,1,I21,Acute myocardial infarction,,Nephrology,False,Care Home,18,M,SL4 8AA,1,True
+EP00000502,NHS000251,2025-06-24,2025-06-28,4,I63,Cerebral infarction,E11,Respiratory,True,Home,77,M,RG4 4AA,4,False
+EP00000503,NHS000252,2025-02-07,2025-02-09,2,I50,Heart failure,,Respiratory,True,Care Home,37,M,RG3 7AA,5,False
+EP00000504,NHS000252,2024-11-09,2024-11-10,1,I10,Essential hypertension,,Respiratory,False,Home,57,F,L18 8AA,3,False
+EP00000505,NHS000253,2025-07-24,2025-07-25,1,I10,Essential hypertension,"F32,J44,E11,I50,I21",Gastroenterology,True,Home,95,M,L17 6AA,4,True
+EP00000506,NHS000253,2025-05-12,2025-05-18,6,I63,Cerebral infarction,,Geriatrics,False,Care Home,43,M,B12 4AA,3,True
+EP00000507,NHS000254,2025-05-27,2025-05-28,1,I21,Acute myocardial infarction,,Respiratory,True,Care Home,18,M,SL7 5AA,2,False
+EP00000508,NHS000254,2025-06-08,2025-06-12,4,I21,Acute myocardial infarction,,General Medicine,False,Home,18,M,SL8 8AA,5,True
+EP00000509,NHS000255,2025-06-15,2025-06-20,5,N18,Chronic kidney disease,,Cardiology,True,Home,69,F,RG2 3AA,4,False
+EP00000510,NHS000255,2024-09-13,2024-09-14,1,I63,Cerebral infarction,,General Medicine,False,Home,35,F,B12 1AA,4,False
+EP00000511,NHS000256,2025-05-11,2025-05-16,5,J18,Pneumonia,N18,Endocrinology,True,Home,92,M,L18 6AA,3,False
+EP00000512,NHS000256,2025-07-23,2025-07-29,6,I10,Essential hypertension,,Nephrology,True,Home,46,F,SL5 1AA,2,False
+EP00000513,NHS000257,2025-04-19,2025-04-22,3,J18,Pneumonia,,Nephrology,True,Home,31,M,M12 3AA,5,False
+EP00000514,NHS000257,2025-04-26,2025-04-30,4,I63,Cerebral infarction,"I10,I50",Nephrology,True,Home,72,M,M14 5AA,5,False
+EP00000515,NHS000258,2025-06-28,2025-07-05,7,E11,Type 2 diabetes,,Endocrinology,False,Home,18,M,SL4 4AA,5,False
+EP00000516,NHS000258,2024-10-26,2024-10-27,1,I63,Cerebral infarction,,Nephrology,True,Rehabilitation Unit,22,F,B11 7AA,3,True
+EP00000517,NHS000259,2025-05-16,2025-05-24,8,I21,Acute myocardial infarction,F32,Respiratory,True,Home,95,F,M11 2AA,5,True
+EP00000518,NHS000259,2025-05-22,2025-05-24,2,I21,Acute myocardial infarction,I10,Emergency Medicine,False,Care Home,72,M,RG4 6AA,3,True
+EP00000519,NHS000260,2025-07-17,2025-07-21,4,I10,Essential hypertension,,Geriatrics,True,Home,37,F,RG1 5AA,3,False
+EP00000520,NHS000260,2025-07-07,2025-07-08,1,I63,Cerebral infarction,,Geriatrics,True,Home,53,F,L14 4AA,1,False
+EP00000521,NHS000261,2025-05-10,2025-05-18,8,I21,Acute myocardial infarction,,Gastroenterology,False,Home,18,F,L18 6AA,5,False
+EP00000522,NHS000261,2025-08-03,2025-08-04,1,E11,Type 2 diabetes,,Emergency Medicine,False,Home,18,M,M14 5AA,5,False
+EP00000523,NHS000262,2025-02-28,2025-03-01,1,J18,Pneumonia,"N18,I21",General Medicine,True,Home,84,M,RG5 1AA,4,False
+EP00000524,NHS000262,2025-08-09,2025-08-10,1,I50,Heart failure,,Cardiology,False,Care Home,34,M,B16 1AA,3,True
+EP00000525,NHS000263,2025-04-15,2025-04-18,3,J44,COPD,,Endocrinology,True,Home,18,M,L11 6AA,5,False
+EP00000526,NHS000263,2024-09-05,2024-09-06,1,N18,Chronic kidney disease,,Endocrinology,True,Home,18,F,M14 4AA,5,True
+EP00000527,NHS000264,2025-05-19,2025-05-22,3,F32,Depressive episode,E11,Endocrinology,True,Home,90,F,RG7 8AA,3,False
+EP00000528,NHS000264,2025-05-09,2025-05-13,4,I21,Acute myocardial infarction,,General Medicine,False,Home,53,F,L15 1AA,5,False
+EP00000529,NHS000265,2024-12-26,2024-12-27,1,I50,Heart failure,,Emergency Medicine,True,Home,24,M,SL6 7AA,3,False
+EP00000530,NHS000265,2024-12-23,2024-12-25,2,J18,Pneumonia,,Endocrinology,False,Home,18,F,RG1 8AA,3,False
+EP00000531,NHS000266,2024-09-20,2024-09-26,6,J18,Pneumonia,,General Medicine,True,Home,29,M,M16 3AA,4,False
+EP00000532,NHS000266,2024-10-12,2024-10-13,1,I21,Acute myocardial infarction,"I63,J18",Nephrology,False,Home,95,M,L15 8AA,4,True
+EP00000533,NHS000267,2024-10-13,2024-10-17,4,I10,Essential hypertension,F32,Endocrinology,False,Another Hospital,60,F,L14 6AA,1,False
+EP00000534,NHS000267,2024-11-21,2024-11-23,2,J18,Pneumonia,,Geriatrics,False,Home,24,F,M16 1AA,2,False
+EP00000535,NHS000268,2025-05-16,2025-05-23,7,F32,Depressive episode,,Cardiology,True,Home,18,M,M12 2AA,5,False
+EP00000536,NHS000268,2025-03-30,2025-03-31,1,J44,COPD,,General Medicine,True,Home,25,F,M18 4AA,4,True
+EP00000537,NHS000269,2024-09-01,2024-09-05,4,E11,Type 2 diabetes,,General Medicine,False,Care Home,32,F,RG7 5AA,1,False
+EP00000538,NHS000269,2025-01-27,2025-01-28,1,J18,Pneumonia,J44,Gastroenterology,True,Another Hospital,95,F,B16 4AA,3,False
+EP00000539,NHS000270,2024-12-06,2024-12-08,2,F32,Depressive episode,,Endocrinology,False,Another Hospital,27,M,SL4 5AA,1,False
+EP00000540,NHS000270,2025-03-14,2025-03-16,2,K92,GI bleeding,,Gastroenterology,True,Home,38,M,M11 6AA,4,True
+EP00000541,NHS000271,2025-05-31,2025-06-02,2,F32,Depressive episode,,Emergency Medicine,True,Home,23,F,M17 7AA,2,False
+EP00000542,NHS000271,2025-03-02,2025-03-03,1,J18,Pneumonia,,Gastroenterology,False,Care Home,60,M,RG3 1AA,4,True
+EP00000543,NHS000272,2025-02-18,2025-02-20,2,J44,COPD,,Gastroenterology,True,Home,56,M,B12 4AA,5,False
+EP00000544,NHS000272,2024-09-15,2024-09-16,1,J44,COPD,,Gastroenterology,False,Home,32,M,SL4 6AA,3,True
+EP00000545,NHS000273,2025-06-29,2025-06-30,1,E11,Type 2 diabetes,,Respiratory,True,Home,18,M,M11 6AA,5,True
+EP00000546,NHS000273,2025-04-05,2025-04-07,2,F32,Depressive episode,,Gastroenterology,True,Home,53,M,B13 8AA,1,False
+EP00000547,NHS000274,2024-11-16,2024-11-18,2,F32,Depressive episode,,Gastroenterology,True,Home,62,M,SL8 6AA,5,True
+EP00000548,NHS000274,2024-10-08,2024-10-11,3,E11,Type 2 diabetes,,Emergency Medicine,False,Another Hospital,42,F,L14 5AA,1,False
+EP00000549,NHS000275,2025-02-02,2025-02-03,1,F32,Depressive episode,,Endocrinology,True,Care Home,37,F,M13 6AA,3,False
+EP00000550,NHS000275,2025-08-27,2025-09-01,5,F32,Depressive episode,,Endocrinology,True,Home,71,F,B11 8AA,4,False
+EP00000551,NHS000276,2025-06-16,2025-06-17,1,I21,Acute myocardial infarction,,Endocrinology,False,Rehabilitation Unit,19,F,M13 3AA,5,False
+EP00000552,NHS000276,2025-01-27,2025-01-31,4,I10,Essential hypertension,,Nephrology,True,Home,18,F,B15 2AA,3,False
+EP00000553,NHS000277,2024-09-26,2024-09-27,1,I21,Acute myocardial infarction,,Cardiology,False,Home,36,F,L14 1AA,1,True
+EP00000554,NHS000277,2025-07-12,2025-07-13,1,K92,GI bleeding,,Cardiology,True,Another Hospital,42,M,M11 1AA,3,False
+EP00000555,NHS000278,2025-04-06,2025-04-07,1,E11,Type 2 diabetes,,Nephrology,False,Home,32,F,L13 1AA,4,False
+EP00000556,NHS000278,2025-07-14,2025-07-15,1,I21,Acute myocardial infarction,,General Medicine,True,Home,18,M,B11 8AA,1,False
+EP00000557,NHS000279,2025-01-27,2025-01-28,1,I63,Cerebral infarction,,Emergency Medicine,True,Home,18,F,M13 5AA,4,True
+EP00000558,NHS000279,2025-06-10,2025-06-11,1,E11,Type 2 diabetes,"I50,J18,N18",Emergency Medicine,False,Home,95,M,M13 4AA,3,True
+EP00000559,NHS000280,2025-07-02,2025-07-03,1,I21,Acute myocardial infarction,,Endocrinology,True,Care Home,39,F,SL5 1AA,2,False
+EP00000560,NHS000280,2025-08-27,2025-08-29,2,K92,GI bleeding,,Gastroenterology,True,Home,21,M,L16 4AA,1,False
+EP00000561,NHS000281,2024-09-25,2024-09-30,5,I50,Heart failure,F32,Respiratory,False,Home,59,F,L12 6AA,2,False
+EP00000562,NHS000281,2025-05-26,2025-05-27,1,I10,Essential hypertension,,Geriatrics,True,Home,18,M,L12 8AA,1,False
+EP00000563,NHS000282,2024-12-15,2024-12-20,5,N18,Chronic kidney disease,,Endocrinology,True,Home,43,M,RG8 2AA,3,False
+EP00000564,NHS000282,2025-08-01,2025-08-02,1,J44,COPD,,Nephrology,True,Home,18,M,B18 7AA,4,False
+EP00000565,NHS000283,2025-08-28,2025-09-03,6,N18,Chronic kidney disease,,Gastroenterology,True,Home,25,M,B12 4AA,4,True
+EP00000566,NHS000283,2025-03-06,2025-03-09,3,N18,Chronic kidney disease,,Cardiology,True,Home,18,F,SL2 1AA,3,True
+EP00000567,NHS000284,2024-10-17,2024-10-29,12,E11,Type 2 diabetes,"K92,I50",Nephrology,True,Rehabilitation Unit,95,M,M15 5AA,5,False
+EP00000568,NHS000284,2025-05-09,2025-05-10,1,E11,Type 2 diabetes,,Respiratory,True,Home,22,F,L12 4AA,1,True
+EP00000569,NHS000285,2024-12-24,2025-01-02,9,J44,COPD,,Nephrology,False,Home,28,F,SL7 6AA,2,False
+EP00000570,NHS000285,2024-12-09,2024-12-11,2,I21,Acute myocardial infarction,,Endocrinology,False,Home,18,F,SL1 1AA,1,False
+EP00000571,NHS000286,2025-03-21,2025-03-28,7,E11,Type 2 diabetes,,General Medicine,False,Home,37,F,B16 7AA,2,True
+EP00000572,NHS000286,2024-10-04,2024-10-05,1,J44,COPD,,Respiratory,True,Home,18,F,SL3 2AA,4,False
+EP00000573,NHS000287,2025-08-08,2025-08-09,1,I10,Essential hypertension,,Gastroenterology,True,Home,76,M,B15 1AA,2,True
+EP00000574,NHS000287,2025-01-03,2025-01-04,1,J18,Pneumonia,"K92,J44,F32",Respiratory,False,Home,95,M,RG6 8AA,1,False
+EP00000575,NHS000288,2025-07-29,2025-07-31,2,K92,GI bleeding,,General Medicine,True,Care Home,51,F,RG8 6AA,2,False
+EP00000576,NHS000288,2025-02-20,2025-02-21,1,E11,Type 2 diabetes,,Cardiology,False,Home,58,F,M14 1AA,1,True
+EP00000577,NHS000289,2025-08-23,2025-08-31,8,N18,Chronic kidney disease,,Gastroenterology,False,Rehabilitation Unit,18,M,SL8 3AA,1,False
+EP00000578,NHS000289,2025-03-14,2025-03-15,1,I50,Heart failure,,Nephrology,True,Another Hospital,21,F,M17 6AA,2,False
+EP00000579,NHS000290,2024-10-25,2024-10-28,3,I21,Acute myocardial infarction,,Nephrology,False,Home,18,F,SL4 1AA,3,False
+EP00000580,NHS000290,2025-07-10,2025-07-11,1,J18,Pneumonia,,Cardiology,True,Home,21,M,SL1 8AA,3,False
+EP00000581,NHS000291,2025-07-06,2025-07-12,6,J18,Pneumonia,,Respiratory,True,Home,25,M,M17 6AA,1,False
+EP00000582,NHS000291,2025-03-04,2025-03-05,1,I10,Essential hypertension,,Gastroenterology,False,Home,36,M,RG5 5AA,4,False
+EP00000583,NHS000292,2025-06-21,2025-06-22,1,J18,Pneumonia,,Geriatrics,True,Home,18,M,SL7 5AA,3,False
+EP00000584,NHS000292,2025-02-10,2025-02-12,2,K92,GI bleeding,,Endocrinology,True,Home,47,M,SL1 7AA,2,False
+EP00000585,NHS000293,2024-10-02,2024-10-03,1,I10,Essential hypertension,"F32,E11",General Medicine,False,Home,87,F,SL5 6AA,4,False
+EP00000586,NHS000293,2024-09-24,2024-09-26,2,E11,Type 2 diabetes,,Geriatrics,True,Care Home,95,F,RG6 6AA,4,False
+EP00000587,NHS000294,2025-02-21,2025-03-05,12,I50,Heart failure,,Endocrinology,False,Home,19,F,SL2 8AA,5,False
+EP00000588,NHS000294,2025-02-27,2025-02-28,1,K92,GI bleeding,,Geriatrics,True,Home,36,M,SL5 2AA,3,False
+EP00000589,NHS000295,2025-07-04,2025-07-07,3,K92,GI bleeding,,Gastroenterology,True,Home,52,F,B12 1AA,4,False
+EP00000590,NHS000295,2025-01-08,2025-01-14,6,I10,Essential hypertension,,Cardiology,True,Home,18,F,B16 2AA,4,False
+EP00000591,NHS000296,2025-07-03,2025-07-15,12,I50,Heart failure,,General Medicine,False,Care Home,46,M,SL6 1AA,5,False
+EP00000592,NHS000296,2025-02-08,2025-02-09,1,F32,Depressive episode,,Geriatrics,False,Home,18,M,RG1 4AA,2,False
+EP00000593,NHS000297,2025-07-27,2025-07-28,1,J44,COPD,,Gastroenterology,False,Home,29,M,M14 7AA,3,False
+EP00000594,NHS000297,2025-08-11,2025-08-12,1,J44,COPD,,Respiratory,True,Home,18,F,M11 8AA,2,True
+EP00000595,NHS000298,2024-09-10,2024-09-13,3,I50,Heart failure,,Cardiology,True,Home,25,M,L16 4AA,2,False
+EP00000596,NHS000298,2025-06-06,2025-06-07,1,E11,Type 2 diabetes,,Geriatrics,False,Home,29,M,SL6 6AA,3,False
+EP00000597,NHS000299,2024-10-15,2024-10-16,1,J44,COPD,,Gastroenterology,True,Care Home,45,F,L16 8AA,5,False
+EP00000598,NHS000299,2025-01-06,2025-01-07,1,I63,Cerebral infarction,,General Medicine,True,Home,42,F,B17 8AA,2,False
+EP00000599,NHS000300,2025-04-17,2025-04-18,1,I63,Cerebral infarction,,Respiratory,True,Home,18,F,L17 1AA,3,True
+EP00000600,NHS000300,2025-08-25,2025-08-26,1,I10,Essential hypertension,E11,Geriatrics,False,Home,67,M,M11 3AA,4,False
+EP00000601,NHS000301,2025-07-25,2025-07-30,5,I10,Essential hypertension,,Cardiology,True,Home,18,F,M13 3AA,4,False
+EP00000602,NHS000301,2024-09-27,2024-10-01,4,F32,Depressive episode,,Endocrinology,True,Care Home,59,M,M17 1AA,2,False
+EP00000603,NHS000302,2024-09-20,2024-09-21,1,E11,Type 2 diabetes,,Geriatrics,False,Home,19,M,RG7 3AA,4,True
+EP00000604,NHS000302,2025-04-09,2025-04-12,3,F32,Depressive episode,I63,Nephrology,False,Home,67,M,RG5 6AA,4,False
+EP00000605,NHS000303,2025-07-22,2025-07-28,6,I50,Heart failure,,Emergency Medicine,False,Home,52,M,SL8 4AA,1,False
+EP00000606,NHS000303,2025-04-18,2025-04-19,1,I63,Cerebral infarction,J44,Gastroenterology,False,Rehabilitation Unit,71,F,SL5 3AA,3,True
+EP00000607,NHS000304,2024-09-14,2024-09-15,1,I10,Essential hypertension,,General Medicine,False,Home,18,F,RG3 2AA,2,False
+EP00000608,NHS000304,2024-09-27,2024-09-28,1,F32,Depressive episode,,Cardiology,False,Home,54,F,M12 8AA,2,False
+EP00000609,NHS000305,2024-11-15,2024-11-16,1,J18,Pneumonia,,Geriatrics,True,Home,18,M,B16 7AA,1,False
+EP00000610,NHS000305,2025-02-08,2025-02-09,1,E11,Type 2 diabetes,,Respiratory,True,Home,65,F,SL5 8AA,5,False
+EP00000611,NHS000306,2025-06-08,2025-06-09,1,I10,Essential hypertension,,Respiratory,True,Home,18,M,B12 2AA,4,False
+EP00000612,NHS000306,2025-01-12,2025-01-15,3,J44,COPD,,Cardiology,False,Home,85,F,RG7 5AA,4,True
+EP00000613,NHS000307,2024-11-07,2024-11-09,2,E11,Type 2 diabetes,,Endocrinology,False,Home,19,M,M12 3AA,3,False
+EP00000614,NHS000307,2024-12-22,2024-12-23,1,I50,Heart failure,I10,Cardiology,False,Home,76,F,RG1 2AA,3,False
+EP00000615,NHS000308,2024-10-07,2024-10-08,1,E11,Type 2 diabetes,,Geriatrics,False,Home,42,M,B13 8AA,3,False
+EP00000616,NHS000308,2025-02-22,2025-02-23,1,I21,Acute myocardial infarction,,Endocrinology,False,Rehabilitation Unit,18,F,L14 4AA,3,False
+EP00000617,NHS000309,2024-10-27,2024-10-29,2,I10,Essential hypertension,,Gastroenterology,True,Home,18,F,B17 1AA,3,False
+EP00000618,NHS000309,2025-05-09,2025-05-10,1,N18,Chronic kidney disease,,Nephrology,True,Home,45,F,SL3 2AA,3,False
+EP00000619,NHS000310,2024-09-21,2024-09-22,1,E11,Type 2 diabetes,N18,Nephrology,False,Home,95,F,L17 7AA,3,False
+EP00000620,NHS000310,2025-04-19,2025-04-20,1,K92,GI bleeding,,Gastroenterology,True,Home,58,M,L15 3AA,4,False
+EP00000621,NHS000311,2025-07-06,2025-07-07,1,J44,COPD,,Geriatrics,True,Home,28,M,B12 8AA,1,False
+EP00000622,NHS000311,2025-04-17,2025-04-29,12,I21,Acute myocardial infarction,,Gastroenterology,True,Home,18,M,M13 3AA,3,False
+EP00000623,NHS000312,2024-12-19,2024-12-20,1,I63,Cerebral infarction,,Emergency Medicine,False,Home,18,F,B11 6AA,2,False
+EP00000624,NHS000312,2025-01-25,2025-01-27,2,I10,Essential hypertension,,Gastroenterology,True,Another Hospital,18,F,SL2 6AA,3,False
+EP00000625,NHS000313,2025-01-29,2025-02-09,11,N18,Chronic kidney disease,,Nephrology,True,Home,52,M,B17 4AA,2,False
+EP00000626,NHS000313,2025-07-26,2025-07-27,1,J44,COPD,,Emergency Medicine,True,Home,31,M,L17 6AA,5,False
+EP00000627,NHS000314,2024-11-14,2024-11-15,1,N18,Chronic kidney disease,,Geriatrics,False,Home,41,F,B18 8AA,1,False
+EP00000628,NHS000314,2025-02-13,2025-02-14,1,N18,Chronic kidney disease,,Nephrology,True,Home,18,F,RG4 6AA,2,False
+EP00000629,NHS000315,2025-08-21,2025-08-25,4,K92,GI bleeding,,Geriatrics,True,Home,69,F,B17 4AA,1,False
+EP00000630,NHS000315,2025-02-28,2025-03-05,5,F32,Depressive episode,,Nephrology,True,Home,27,F,L18 7AA,4,False
+EP00000631,NHS000316,2025-04-07,2025-04-10,3,I10,Essential hypertension,,Respiratory,False,Home,42,F,B15 4AA,5,False
+EP00000632,NHS000316,2025-03-18,2025-03-19,1,N18,Chronic kidney disease,,Nephrology,False,Care Home,18,F,B12 1AA,3,False
+EP00000633,NHS000317,2024-12-15,2024-12-16,1,I10,Essential hypertension,,Gastroenterology,True,Home,32,F,B13 2AA,2,False
+EP00000634,NHS000317,2025-04-29,2025-05-06,7,J44,COPD,,Emergency Medicine,True,Home,23,F,RG7 1AA,3,True
+EP00000635,NHS000318,2024-09-27,2024-09-30,3,N18,Chronic kidney disease,,Endocrinology,False,Home,18,F,SL6 5AA,2,False
+EP00000636,NHS000318,2024-12-12,2024-12-20,8,I21,Acute myocardial infarction,,Respiratory,False,Home,53,F,B15 1AA,3,True
+EP00000637,NHS000319,2024-10-24,2024-10-29,5,E11,Type 2 diabetes,K92,Cardiology,True,Home,55,M,RG8 6AA,1,False
+EP00000638,NHS000319,2025-03-16,2025-03-26,10,I21,Acute myocardial infarction,,Geriatrics,True,Home,51,F,M17 2AA,4,False
+EP00000639,NHS000320,2025-06-18,2025-06-19,1,K92,GI bleeding,,Gastroenterology,True,Care Home,18,M,RG4 8AA,3,False
+EP00000640,NHS000320,2025-04-16,2025-04-20,4,K92,GI bleeding,,Gastroenterology,False,Home,80,F,L15 8AA,1,False
+EP00000641,NHS000321,2025-08-15,2025-08-16,1,E11,Type 2 diabetes,,Geriatrics,True,Home,21,M,L11 4AA,3,False
+EP00000642,NHS000321,2025-01-22,2025-01-23,1,E11,Type 2 diabetes,K92,Emergency Medicine,False,Home,73,M,L13 5AA,4,False
+EP00000643,NHS000322,2025-01-29,2025-01-30,1,N18,Chronic kidney disease,,Nephrology,False,Home,18,F,M16 6AA,1,False
+EP00000644,NHS000322,2025-06-08,2025-06-11,3,K92,GI bleeding,,Cardiology,False,Home,30,F,M12 3AA,2,False
+EP00000645,NHS000323,2025-02-28,2025-03-04,4,N18,Chronic kidney disease,,Geriatrics,True,Home,23,M,L16 7AA,5,False
+EP00000646,NHS000323,2024-11-01,2024-11-08,7,I63,Cerebral infarction,,Geriatrics,False,Home,47,F,SL5 4AA,1,False
+EP00000647,NHS000324,2025-06-14,2025-06-15,1,K92,GI bleeding,,Cardiology,True,Another Hospital,63,M,RG8 5AA,1,False
+EP00000648,NHS000324,2024-10-26,2024-10-27,1,I10,Essential hypertension,J18,General Medicine,False,Home,57,M,B17 5AA,2,False
+EP00000649,NHS000325,2024-10-08,2024-10-09,1,F32,Depressive episode,,Nephrology,False,Home,26,M,M13 4AA,3,False
+EP00000650,NHS000325,2025-04-08,2025-04-09,1,I21,Acute myocardial infarction,,Gastroenterology,False,Home,18,M,SL6 4AA,3,False
+EP00000651,NHS000326,2025-08-22,2025-08-23,1,E11,Type 2 diabetes,,Emergency Medicine,True,Home,68,F,SL3 6AA,4,False
+EP00000652,NHS000326,2025-08-14,2025-08-15,1,E11,Type 2 diabetes,,Gastroenterology,True,Home,48,M,M15 1AA,3,False
+EP00000653,NHS000327,2025-04-18,2025-04-19,1,J18,Pneumonia,,Endocrinology,True,Home,32,F,B16 3AA,3,False
+EP00000654,NHS000327,2025-08-03,2025-08-04,1,J44,COPD,,Cardiology,True,Home,18,M,B11 1AA,1,False
+EP00000655,NHS000328,2024-12-13,2024-12-17,4,K92,GI bleeding,,Emergency Medicine,False,Home,18,M,M11 1AA,2,False
+EP00000656,NHS000328,2025-07-30,2025-07-31,1,J18,Pneumonia,E11,General Medicine,False,Home,95,M,RG2 3AA,4,False
+EP00000657,NHS000329,2025-06-30,2025-07-01,1,J18,Pneumonia,,Gastroenterology,False,Home,41,F,SL1 4AA,2,False
+EP00000658,NHS000329,2025-03-16,2025-03-17,1,J44,COPD,,Gastroenterology,True,Another Hospital,22,F,L17 2AA,2,False
+EP00000659,NHS000330,2025-04-19,2025-04-20,1,J18,Pneumonia,,Cardiology,True,Home,18,M,RG2 4AA,3,True
+EP00000660,NHS000330,2025-03-20,2025-03-21,1,E11,Type 2 diabetes,"J18,I21,I63",General Medicine,False,Home,75,F,B16 3AA,3,True
+EP00000661,NHS000331,2024-10-22,2024-10-23,1,F32,Depressive episode,,Emergency Medicine,True,Home,54,F,SL7 4AA,3,False
+EP00000662,NHS000331,2025-05-20,2025-05-22,2,I21,Acute myocardial infarction,,Endocrinology,True,Home,27,M,RG2 6AA,2,True
+EP00000663,NHS000332,2025-02-10,2025-02-11,1,J44,COPD,,Cardiology,False,Care Home,63,M,RG5 5AA,1,False
+EP00000664,NHS000332,2024-08-30,2024-08-31,1,I63,Cerebral infarction,,General Medicine,True,Care Home,33,F,M14 5AA,3,False
+EP00000665,NHS000333,2024-09-26,2024-09-29,3,I50,Heart failure,"I10,E11,F32",Emergency Medicine,False,Another Hospital,95,F,SL7 4AA,3,True
+EP00000666,NHS000333,2024-10-13,2024-10-15,2,E11,Type 2 diabetes,,Gastroenterology,True,Another Hospital,22,M,RG5 8AA,3,False
+EP00000667,NHS000334,2025-07-06,2025-07-11,5,E11,Type 2 diabetes,,Geriatrics,True,Home,18,F,SL6 4AA,4,False
+EP00000668,NHS000334,2025-06-13,2025-06-14,1,J18,Pneumonia,,Cardiology,False,Care Home,18,M,RG8 7AA,4,False
+EP00000669,NHS000335,2025-06-17,2025-06-18,1,I63,Cerebral infarction,,Geriatrics,False,Home,18,F,L17 8AA,5,False
+EP00000670,NHS000335,2024-09-05,2024-09-07,2,E11,Type 2 diabetes,,Endocrinology,True,Home,31,F,M12 5AA,1,False
+EP00000671,NHS000336,2024-08-30,2024-08-31,1,I10,Essential hypertension,,Geriatrics,False,Home,31,F,M18 2AA,2,False
+EP00000672,NHS000336,2025-03-10,2025-03-13,3,E11,Type 2 diabetes,,Nephrology,False,Home,27,M,SL8 6AA,1,False
+EP00000673,NHS000337,2025-07-06,2025-07-07,1,I10,Essential hypertension,,General Medicine,True,Home,25,F,L16 6AA,1,False
+EP00000674,NHS000337,2024-12-27,2024-12-28,1,E11,Type 2 diabetes,K92,Nephrology,False,Home,53,M,SL1 6AA,3,True
+EP00000675,NHS000338,2025-07-14,2025-07-29,15,N18,Chronic kidney disease,K92,Gastroenterology,False,Home,71,M,RG5 5AA,4,True
+EP00000676,NHS000338,2024-10-02,2024-10-04,2,I63,Cerebral infarction,,Emergency Medicine,True,Home,53,M,M11 6AA,1,False
+EP00000677,NHS000339,2025-01-11,2025-01-12,1,J18,Pneumonia,,Emergency Medicine,True,Home,27,F,L17 8AA,4,False
+EP00000678,NHS000339,2025-03-21,2025-03-22,1,F32,Depressive episode,,Endocrinology,True,Another Hospital,26,M,RG2 3AA,1,False
+EP00000679,NHS000340,2025-04-15,2025-04-16,1,I10,Essential hypertension,,Respiratory,True,Home,33,F,B18 8AA,3,True
+EP00000680,NHS000340,2025-04-04,2025-04-05,1,J18,Pneumonia,,Emergency Medicine,False,Home,27,F,L11 2AA,3,False
+EP00000681,NHS000341,2025-04-25,2025-05-06,11,E11,Type 2 diabetes,,Emergency Medicine,True,Home,39,F,RG8 8AA,4,False
+EP00000682,NHS000341,2024-10-20,2024-10-25,5,I10,Essential hypertension,,Emergency Medicine,True,Care Home,27,M,SL4 2AA,5,False
+EP00000683,NHS000342,2024-09-20,2024-09-21,1,F32,Depressive episode,J18,Geriatrics,True,Home,60,F,B15 1AA,3,False
+EP00000684,NHS000342,2024-08-31,2024-09-02,2,E11,Type 2 diabetes,,Nephrology,False,Home,53,F,RG4 4AA,3,False
+EP00000685,NHS000343,2025-03-09,2025-03-13,4,J18,Pneumonia,,General Medicine,False,Home,51,M,L14 8AA,3,False
+EP00000686,NHS000343,2025-04-19,2025-04-20,1,N18,Chronic kidney disease,,Nephrology,False,Home,42,M,SL2 7AA,4,False
+EP00000687,NHS000344,2025-07-26,2025-07-28,2,I21,Acute myocardial infarction,K92,Cardiology,True,Home,76,M,M16 6AA,3,False
+EP00000688,NHS000344,2025-06-06,2025-06-07,1,J18,Pneumonia,N18,Respiratory,True,Home,67,F,B18 6AA,3,False
+EP00000689,NHS000345,2024-10-12,2024-10-13,1,K92,GI bleeding,,Nephrology,False,Home,18,M,L16 2AA,3,False
+EP00000690,NHS000345,2024-12-30,2025-01-04,5,K92,GI bleeding,I21,Emergency Medicine,True,Home,54,F,SL4 7AA,3,False
+EP00000691,NHS000346,2024-09-21,2024-09-24,3,K92,GI bleeding,,Emergency Medicine,False,Home,65,M,SL7 6AA,3,False
+EP00000692,NHS000346,2024-10-30,2024-10-31,1,N18,Chronic kidney disease,,Cardiology,True,Rehabilitation Unit,24,F,SL8 8AA,4,True
+EP00000693,NHS000347,2024-12-21,2024-12-26,5,I10,Essential hypertension,,Endocrinology,False,Home,65,F,B18 1AA,2,False
+EP00000694,NHS000347,2025-05-12,2025-05-13,1,I50,Heart failure,,Nephrology,False,Home,40,F,L18 8AA,2,True
+EP00000695,NHS000348,2024-12-19,2024-12-20,1,I21,Acute myocardial infarction,,Emergency Medicine,False,Home,37,F,B18 3AA,2,False
+EP00000696,NHS000348,2025-08-12,2025-08-14,2,F32,Depressive episode,,Geriatrics,True,Home,34,M,B17 2AA,5,False
+EP00000697,NHS000349,2025-06-21,2025-06-22,1,N18,Chronic kidney disease,,General Medicine,False,Home,20,F,SL5 2AA,2,False
+EP00000698,NHS000349,2025-03-20,2025-03-21,1,I21,Acute myocardial infarction,"I10,N18,I50",Endocrinology,True,Home,74,M,B11 3AA,2,False
+EP00000699,NHS000350,2025-08-05,2025-08-06,1,I21,Acute myocardial infarction,,Nephrology,False,Home,21,M,SL8 3AA,3,False
+EP00000700,NHS000350,2025-03-28,2025-03-31,3,I50,Heart failure,,Cardiology,False,Home,18,M,SL1 1AA,2,True
+EP00000701,NHS000351,2025-04-25,2025-04-26,1,K92,GI bleeding,,Endocrinology,True,Home,30,F,B17 7AA,4,False
+EP00000702,NHS000351,2025-02-04,2025-02-12,8,N18,Chronic kidney disease,"I21,E11,I50,I10",Geriatrics,True,Home,78,F,RG6 2AA,5,False
+EP00000703,NHS000352,2024-12-04,2024-12-06,2,J18,Pneumonia,I50,Cardiology,True,Home,61,F,B15 6AA,3,False
+EP00000704,NHS000352,2025-04-05,2025-04-06,1,N18,Chronic kidney disease,"K92,J18,I21",Nephrology,True,Care Home,95,F,SL7 3AA,1,True
+EP00000705,NHS000353,2025-03-06,2025-03-07,1,I63,Cerebral infarction,I50,Geriatrics,True,Home,67,F,SL4 6AA,4,False
+EP00000706,NHS000353,2025-08-19,2025-08-24,5,E11,Type 2 diabetes,"I63,I50,J18,N18",Endocrinology,True,Home,85,F,SL3 3AA,1,False
+EP00000707,NHS000354,2024-11-24,2024-11-25,1,E11,Type 2 diabetes,"K92,I63,I10,I21,J18,F32",General Medicine,True,Home,95,F,M18 6AA,3,True
+EP00000708,NHS000354,2025-02-03,2025-02-06,3,I21,Acute myocardial infarction,,Gastroenterology,True,Home,34,F,SL8 4AA,2,False
+EP00000709,NHS000355,2025-04-20,2025-04-21,1,E11,Type 2 diabetes,J44,General Medicine,False,Home,95,M,L14 6AA,3,False
+EP00000710,NHS000355,2025-01-30,2025-02-01,2,N18,Chronic kidney disease,,General Medicine,True,Home,23,M,B16 5AA,2,False
+EP00000711,NHS000356,2025-05-17,2025-05-23,6,K92,GI bleeding,,Emergency Medicine,True,Home,44,F,B15 4AA,5,False
+EP00000712,NHS000356,2025-03-15,2025-03-16,1,I63,Cerebral infarction,I50,Emergency Medicine,False,Another Hospital,82,M,M16 3AA,2,False
+EP00000713,NHS000357,2025-05-30,2025-06-04,5,I21,Acute myocardial infarction,,Emergency Medicine,True,Home,18,M,SL4 5AA,4,False
+EP00000714,NHS000357,2025-08-09,2025-08-13,4,I63,Cerebral infarction,,Emergency Medicine,True,Home,36,F,SL7 5AA,2,False
+EP00000715,NHS000358,2024-10-17,2024-10-18,1,I63,Cerebral infarction,,Endocrinology,False,Care Home,48,M,M11 3AA,5,True
+EP00000716,NHS000358,2024-10-29,2024-10-30,1,I10,Essential hypertension,,Respiratory,False,Home,48,F,SL7 4AA,1,False
+EP00000717,NHS000359,2025-01-27,2025-01-28,1,K92,GI bleeding,,Endocrinology,True,Home,18,F,L11 1AA,5,False
+EP00000718,NHS000359,2025-07-24,2025-07-27,3,E11,Type 2 diabetes,"K92,J18,J44",Respiratory,False,Another Hospital,74,F,L11 1AA,4,False
+EP00000719,NHS000360,2024-10-29,2024-11-04,6,F32,Depressive episode,,Emergency Medicine,True,Home,87,F,RG8 7AA,3,False
+EP00000720,NHS000360,2024-12-18,2024-12-19,1,F32,Depressive episode,,Geriatrics,True,Another Hospital,18,F,SL3 2AA,4,True
+EP00000721,NHS000361,2025-05-19,2025-05-21,2,I50,Heart failure,,Emergency Medicine,False,Home,52,F,B11 6AA,3,False
+EP00000722,NHS000361,2025-07-13,2025-07-21,8,I10,Essential hypertension,,Nephrology,True,Home,35,F,B15 1AA,3,False
+EP00000723,NHS000362,2025-06-15,2025-06-18,3,J18,Pneumonia,,Emergency Medicine,True,Home,28,F,RG4 6AA,1,False
+EP00000724,NHS000362,2025-06-04,2025-06-05,1,K92,GI bleeding,,Gastroenterology,True,Another Hospital,50,M,B15 5AA,3,False
+EP00000725,NHS000363,2025-06-11,2025-06-16,5,I21,Acute myocardial infarction,,Emergency Medicine,True,Home,18,F,B11 2AA,3,False
+EP00000726,NHS000363,2024-12-01,2024-12-02,1,F32,Depressive episode,,Respiratory,True,Home,60,F,M16 2AA,3,False
+EP00000727,NHS000364,2025-06-30,2025-07-01,1,I10,Essential hypertension,,Endocrinology,True,Home,18,M,B11 6AA,5,False
+EP00000728,NHS000364,2025-04-02,2025-04-03,1,K92,GI bleeding,,Gastroenterology,True,Home,18,F,SL6 2AA,5,False
+EP00000729,NHS000365,2025-08-21,2025-08-24,3,K92,GI bleeding,,Nephrology,False,Home,29,F,M15 6AA,2,False
+EP00000730,NHS000365,2025-05-06,2025-05-07,1,N18,Chronic kidney disease,,Gastroenterology,True,Care Home,18,F,M13 4AA,3,False
+EP00000731,NHS000366,2024-10-11,2024-10-12,1,F32,Depressive episode,,Respiratory,True,Another Hospital,21,M,L18 2AA,4,True
+EP00000732,NHS000366,2024-12-10,2024-12-11,1,F32,Depressive episode,,General Medicine,False,Rehabilitation Unit,20,F,SL7 1AA,1,False
+EP00000733,NHS000367,2025-05-04,2025-05-11,7,I63,Cerebral infarction,,Nephrology,True,Home,50,F,SL1 2AA,3,False
+EP00000734,NHS000367,2025-07-16,2025-07-17,1,I10,Essential hypertension,,Nephrology,True,Home,25,M,L12 6AA,4,False
+EP00000735,NHS000368,2025-05-13,2025-05-14,1,F32,Depressive episode,,Endocrinology,True,Home,62,F,RG4 5AA,1,False
+EP00000736,NHS000368,2025-05-31,2025-06-01,1,J44,COPD,,Geriatrics,False,Home,32,M,B13 3AA,3,False
+EP00000737,NHS000369,2024-12-15,2024-12-19,4,I21,Acute myocardial infarction,,Emergency Medicine,True,Home,49,F,SL6 6AA,1,False
+EP00000738,NHS000369,2025-01-11,2025-01-12,1,I63,Cerebral infarction,,Nephrology,True,Home,33,F,RG1 3AA,5,False
+EP00000739,NHS000370,2025-07-10,2025-07-14,4,K92,GI bleeding,I10,Geriatrics,True,Home,71,M,B18 7AA,3,False
+EP00000740,NHS000370,2024-10-09,2024-10-10,1,J18,Pneumonia,"I21,I63",Nephrology,True,Home,95,M,RG6 4AA,1,False
+EP00000741,NHS000371,2024-11-30,2024-12-03,3,N18,Chronic kidney disease,,Cardiology,True,Home,38,F,B13 3AA,5,False
+EP00000742,NHS000371,2024-10-20,2024-10-21,1,K92,GI bleeding,,Gastroenterology,True,Home,18,M,RG5 4AA,2,False
+EP00000743,NHS000372,2024-10-19,2024-10-20,1,J18,Pneumonia,N18,Endocrinology,True,Home,62,M,RG6 4AA,5,True
+EP00000744,NHS000372,2025-02-09,2025-02-10,1,E11,Type 2 diabetes,,Respiratory,False,Home,39,F,B15 4AA,2,False
+EP00000745,NHS000373,2025-04-09,2025-04-10,1,I63,Cerebral infarction,,Nephrology,False,Home,51,M,RG7 8AA,1,False
+EP00000746,NHS000373,2025-05-05,2025-05-11,6,I63,Cerebral infarction,,Endocrinology,True,Home,54,M,RG1 5AA,3,False
+EP00000747,NHS000374,2024-12-03,2024-12-09,6,F32,Depressive episode,,Cardiology,False,Care Home,45,M,B16 4AA,1,False
+EP00000748,NHS000374,2025-04-23,2025-04-25,2,J18,Pneumonia,,Respiratory,True,Another Hospital,49,M,RG7 6AA,4,False
+EP00000749,NHS000375,2025-04-21,2025-04-23,2,F32,Depressive episode,I50,Geriatrics,True,Home,64,F,L14 2AA,5,False
+EP00000750,NHS000375,2025-01-26,2025-01-27,1,I63,Cerebral infarction,,Gastroenterology,False,Home,18,F,B16 7AA,2,False
+EP00000751,NHS000376,2025-06-10,2025-06-11,1,E11,Type 2 diabetes,,Emergency Medicine,True,Home,36,F,B13 4AA,1,False
+EP00000752,NHS000376,2025-08-01,2025-08-06,5,E11,Type 2 diabetes,,Cardiology,True,Home,57,M,L12 1AA,4,False
+EP00000753,NHS000377,2025-07-04,2025-07-05,1,I10,Essential hypertension,K92,General Medicine,False,Home,53,F,M12 3AA,3,False
+EP00000754,NHS000377,2025-05-13,2025-05-15,2,F32,Depressive episode,,General Medicine,False,Another Hospital,30,M,B16 1AA,4,False
+EP00000755,NHS000378,2025-06-12,2025-06-20,8,K92,GI bleeding,,General Medicine,False,Home,18,M,SL4 6AA,4,False
+EP00000756,NHS000378,2025-07-13,2025-07-14,1,I63,Cerebral infarction,,Endocrinology,True,Home,31,F,SL1 4AA,4,False
+EP00000757,NHS000379,2025-04-17,2025-04-22,5,K92,GI bleeding,,Geriatrics,True,Home,60,F,SL2 3AA,3,True
+EP00000758,NHS000379,2024-09-09,2024-09-10,1,N18,Chronic kidney disease,J18,Geriatrics,False,Home,75,M,M13 6AA,3,False
+EP00000759,NHS000380,2024-11-29,2024-12-04,5,K92,GI bleeding,,Cardiology,False,Home,40,M,RG2 5AA,4,False
+EP00000760,NHS000380,2024-09-26,2024-09-27,1,E11,Type 2 diabetes,,General Medicine,False,Home,38,F,L12 3AA,1,False
+EP00000761,NHS000381,2025-07-22,2025-07-23,1,I63,Cerebral infarction,,Respiratory,False,Another Hospital,41,F,B13 7AA,1,False
+EP00000762,NHS000381,2024-12-31,2025-01-11,11,I50,Heart failure,,Nephrology,False,Another Hospital,18,M,SL1 4AA,4,True
+EP00000763,NHS000382,2025-06-09,2025-06-10,1,J44,COPD,F32,Geriatrics,True,Home,65,F,SL4 8AA,3,False
+EP00000764,NHS000382,2024-09-18,2024-09-21,3,F32,Depressive episode,,Nephrology,False,Home,24,F,RG5 4AA,3,False
+EP00000765,NHS000383,2025-03-17,2025-03-18,1,I10,Essential hypertension,,Geriatrics,True,Home,18,M,B13 7AA,4,False
+EP00000766,NHS000383,2025-02-28,2025-03-02,2,I21,Acute myocardial infarction,K92,Respiratory,True,Home,81,M,M14 1AA,4,False
+EP00000767,NHS000384,2024-10-20,2024-10-21,1,E11,Type 2 diabetes,"J44,J18,I10,N18",Geriatrics,True,Home,95,M,RG3 2AA,3,True
+EP00000768,NHS000384,2025-02-26,2025-03-03,5,K92,GI bleeding,,Geriatrics,False,Home,46,M,M17 4AA,5,False
+EP00000769,NHS000385,2024-09-19,2024-09-22,3,K92,GI bleeding,,Emergency Medicine,True,Home,26,F,SL4 5AA,1,False
+EP00000770,NHS000385,2024-10-25,2024-10-26,1,I50,Heart failure,,Emergency Medicine,True,Home,78,M,SL8 4AA,5,False
+EP00000771,NHS000386,2024-12-23,2024-12-24,1,F32,Depressive episode,,Respiratory,True,Home,50,M,M14 7AA,5,False
+EP00000772,NHS000386,2025-02-12,2025-02-13,1,J44,COPD,,Nephrology,True,Home,32,F,B13 8AA,1,False
+EP00000773,NHS000387,2025-01-09,2025-01-10,1,J44,COPD,,Gastroenterology,True,Home,18,F,SL2 5AA,2,False
+EP00000774,NHS000387,2025-03-27,2025-03-28,1,J44,COPD,,Respiratory,True,Home,27,M,B18 5AA,5,False
+EP00000775,NHS000388,2025-01-10,2025-01-13,3,N18,Chronic kidney disease,,Endocrinology,False,Home,43,F,B16 5AA,4,True
+EP00000776,NHS000388,2025-04-20,2025-04-21,1,K92,GI bleeding,,Geriatrics,False,Home,18,M,B15 1AA,4,False
+EP00000777,NHS000389,2025-06-18,2025-06-23,5,J44,COPD,,Geriatrics,False,Home,33,F,M11 3AA,3,False
+EP00000778,NHS000389,2024-12-10,2024-12-12,2,J18,Pneumonia,,Endocrinology,False,Home,18,M,B12 5AA,2,False
+EP00000779,NHS000390,2024-09-09,2024-09-17,8,I50,Heart failure,,Emergency Medicine,True,Home,18,M,L11 4AA,4,False
+EP00000780,NHS000390,2024-09-08,2024-09-17,9,N18,Chronic kidney disease,,Cardiology,True,Home,37,M,L12 3AA,4,False
+EP00000781,NHS000391,2025-01-01,2025-01-02,1,F32,Depressive episode,"E11,I50,N18,I21",Cardiology,False,Home,95,M,SL3 7AA,4,True
+EP00000782,NHS000391,2025-05-19,2025-05-24,5,K92,GI bleeding,,Emergency Medicine,True,Rehabilitation Unit,24,F,M12 3AA,2,False
+EP00000783,NHS000392,2025-01-28,2025-01-29,1,N18,Chronic kidney disease,,General Medicine,False,Home,41,F,SL7 1AA,2,False
+EP00000784,NHS000392,2025-06-12,2025-06-13,1,I10,Essential hypertension,,Respiratory,False,Home,28,F,M17 4AA,4,False
+EP00000785,NHS000393,2024-09-24,2024-09-25,1,J18,Pneumonia,,Respiratory,False,Home,44,F,B16 1AA,2,False
+EP00000786,NHS000393,2025-05-23,2025-05-29,6,I63,Cerebral infarction,,General Medicine,True,Home,54,F,L16 8AA,4,False
+EP00000787,NHS000394,2024-11-08,2024-11-09,1,F32,Depressive episode,,Geriatrics,True,Home,18,F,M11 6AA,3,False
+EP00000788,NHS000394,2025-05-21,2025-05-23,2,N18,Chronic kidney disease,,Endocrinology,False,Home,25,M,RG3 3AA,2,False
+EP00000789,NHS000395,2024-12-14,2024-12-18,4,I63,Cerebral infarction,,General Medicine,True,Home,18,F,SL5 5AA,4,True
+EP00000790,NHS000395,2025-01-10,2025-01-12,2,I50,Heart failure,,Nephrology,True,Home,32,F,M11 8AA,2,False
+EP00000791,NHS000396,2024-12-31,2025-01-10,10,I50,Heart failure,"I10,E11",Emergency Medicine,True,Home,95,F,RG3 6AA,2,True
+EP00000792,NHS000396,2025-02-08,2025-02-09,1,J18,Pneumonia,,Geriatrics,False,Home,18,F,B14 5AA,3,False
+EP00000793,NHS000397,2025-08-03,2025-08-04,1,F32,Depressive episode,,Nephrology,False,Home,25,M,B18 8AA,5,False
+EP00000794,NHS000397,2025-08-04,2025-08-05,1,F32,Depressive episode,,Gastroenterology,False,Another Hospital,18,F,B16 5AA,3,False
+EP00000795,NHS000398,2025-04-14,2025-04-15,1,N18,Chronic kidney disease,,Geriatrics,True,Home,18,F,L17 8AA,1,False
+EP00000796,NHS000398,2025-03-07,2025-03-12,5,J18,Pneumonia,,Gastroenterology,True,Home,18,F,RG3 3AA,3,False
+EP00000797,NHS000399,2025-08-22,2025-08-26,4,N18,Chronic kidney disease,,Geriatrics,False,Home,18,M,RG2 5AA,2,False
+EP00000798,NHS000399,2025-08-26,2025-08-28,2,I63,Cerebral infarction,,General Medicine,False,Home,18,F,M14 3AA,3,False
+EP00000799,NHS000400,2025-06-30,2025-07-04,4,N18,Chronic kidney disease,,Cardiology,False,Home,18,M,M12 1AA,2,True
+EP00000800,NHS000400,2025-08-20,2025-08-22,2,I63,Cerebral infarction,,Endocrinology,True,Home,19,M,L15 8AA,2,False
+EP00000801,NHS000401,2025-08-17,2025-08-20,3,N18,Chronic kidney disease,,Geriatrics,False,Home,18,M,RG5 8AA,3,False
+EP00000802,NHS000401,2024-10-17,2024-10-18,1,E11,Type 2 diabetes,,Cardiology,False,Another Hospital,19,F,SL7 1AA,3,False
+EP00000803,NHS000402,2024-10-15,2024-10-16,1,F32,Depressive episode,K92,Endocrinology,True,Home,70,M,SL8 6AA,3,False
+EP00000804,NHS000402,2024-11-25,2024-11-26,1,K92,GI bleeding,"I10,F32,J44,J18",Endocrinology,False,Home,95,F,RG3 5AA,2,False
+EP00000805,NHS000403,2025-08-16,2025-08-19,3,E11,Type 2 diabetes,,Endocrinology,True,Home,75,M,M15 2AA,3,True
+EP00000806,NHS000403,2024-12-02,2024-12-08,6,J44,COPD,,Gastroenterology,False,Home,18,F,M18 4AA,1,False
+EP00000807,NHS000404,2025-02-14,2025-02-15,1,I63,Cerebral infarction,,General Medicine,True,Home,23,F,M18 6AA,5,False
+EP00000808,NHS000404,2025-05-20,2025-05-21,1,I50,Heart failure,,General Medicine,False,Home,18,F,M14 7AA,3,False
+EP00000809,NHS000405,2025-02-10,2025-02-11,1,I63,Cerebral infarction,,Endocrinology,True,Home,36,F,M12 3AA,5,False
+EP00000810,NHS000405,2024-12-20,2024-12-21,1,E11,Type 2 diabetes,,Endocrinology,True,Home,46,M,B16 2AA,5,False
+EP00000811,NHS000406,2024-12-14,2024-12-17,3,J18,Pneumonia,,Emergency Medicine,True,Home,38,M,M13 8AA,5,False
+EP00000812,NHS000406,2025-06-06,2025-06-08,2,K92,GI bleeding,,Emergency Medicine,True,Home,21,M,M11 8AA,3,False
+EP00000813,NHS000407,2025-04-05,2025-04-06,1,I10,Essential hypertension,,Endocrinology,True,Another Hospital,21,F,SL5 8AA,2,True
+EP00000814,NHS000407,2025-07-24,2025-07-25,1,I21,Acute myocardial infarction,,Cardiology,False,Home,32,M,B13 1AA,1,False
+EP00000815,NHS000408,2024-09-16,2024-09-20,4,I50,Heart failure,,Respiratory,False,Home,48,F,M14 4AA,3,False
+EP00000816,NHS000408,2025-01-25,2025-01-26,1,K92,GI bleeding,,Cardiology,True,Home,18,F,SL2 4AA,2,False
+EP00000817,NHS000409,2024-12-03,2024-12-07,4,E11,Type 2 diabetes,,Gastroenterology,True,Home,56,F,SL8 3AA,3,True
+EP00000818,NHS000409,2024-12-28,2024-12-31,3,I21,Acute myocardial infarction,,Cardiology,False,Home,34,F,SL5 1AA,3,False
+EP00000819,NHS000410,2025-05-17,2025-05-21,4,I21,Acute myocardial infarction,,Gastroenterology,True,Home,18,M,B12 3AA,3,True
+EP00000820,NHS000410,2024-09-13,2024-09-14,1,E11,Type 2 diabetes,,Nephrology,True,Home,33,M,SL3 1AA,2,False
+EP00000821,NHS000411,2025-03-08,2025-03-09,1,N18,Chronic kidney disease,,Respiratory,True,Home,34,M,SL8 3AA,4,False
+EP00000822,NHS000411,2024-10-31,2024-11-03,3,I10,Essential hypertension,,Respiratory,True,Home,18,F,B17 4AA,2,False
+EP00000823,NHS000412,2025-02-16,2025-02-20,4,I63,Cerebral infarction,,Cardiology,True,Care Home,51,F,L17 5AA,4,False
+EP00000824,NHS000412,2025-08-09,2025-08-10,1,I63,Cerebral infarction,,Geriatrics,True,Home,64,F,L16 7AA,1,True
+EP00000825,NHS000413,2025-08-13,2025-08-23,10,F32,Depressive episode,,Geriatrics,True,Home,64,M,B11 3AA,5,False
+EP00000826,NHS000413,2024-10-30,2024-10-31,1,I50,Heart failure,,Nephrology,True,Home,18,M,SL3 5AA,5,False
+EP00000827,NHS000414,2024-11-27,2024-11-29,2,I50,Heart failure,,General Medicine,True,Home,36,F,RG7 1AA,3,False
+EP00000828,NHS000414,2025-07-02,2025-07-05,3,I21,Acute myocardial infarction,,Emergency Medicine,True,Another Hospital,20,F,L15 4AA,3,False
+EP00000829,NHS000415,2025-08-11,2025-08-12,1,E11,Type 2 diabetes,,Geriatrics,False,Home,20,F,L18 4AA,5,False
+EP00000830,NHS000415,2025-03-24,2025-03-29,5,K92,GI bleeding,,General Medicine,True,Home,57,M,M13 8AA,1,True
+EP00000831,NHS000416,2025-05-05,2025-05-07,2,E11,Type 2 diabetes,,Nephrology,True,Home,18,F,SL3 7AA,4,False
+EP00000832,NHS000416,2025-08-19,2025-08-21,2,I50,Heart failure,,Endocrinology,True,Home,39,F,B17 4AA,3,False
+EP00000833,NHS000417,2025-07-25,2025-08-01,7,I21,Acute myocardial infarction,,Geriatrics,True,Home,29,F,L18 8AA,2,True
+EP00000834,NHS000417,2025-01-01,2025-01-02,1,I63,Cerebral infarction,,Nephrology,False,Home,24,M,M12 3AA,3,False
+EP00000835,NHS000418,2025-01-06,2025-01-30,24,J18,Pneumonia,"I10,I63,F32",Endocrinology,True,Care Home,87,M,B12 6AA,5,False
+EP00000836,NHS000418,2025-05-25,2025-05-26,1,I63,Cerebral infarction,,Geriatrics,False,Home,40,M,RG6 6AA,5,False
+EP00000837,NHS000419,2024-12-22,2024-12-23,1,K92,GI bleeding,,General Medicine,True,Home,22,F,SL6 5AA,2,False
+EP00000838,NHS000419,2025-01-17,2025-01-21,4,J44,COPD,,Emergency Medicine,True,Care Home,38,M,M14 1AA,5,False
+EP00000839,NHS000420,2024-10-02,2024-10-10,8,F32,Depressive episode,,Gastroenterology,False,Rehabilitation Unit,22,M,B15 6AA,2,True
+EP00000840,NHS000420,2025-01-26,2025-01-27,1,E11,Type 2 diabetes,,Cardiology,True,Home,48,M,M17 1AA,5,False
+EP00000841,NHS000421,2025-06-27,2025-06-28,1,J44,COPD,,Nephrology,True,Home,38,M,RG4 4AA,1,True
+EP00000842,NHS000421,2025-05-16,2025-05-17,1,J18,Pneumonia,,Cardiology,True,Home,44,M,M12 5AA,1,False
+EP00000843,NHS000422,2024-10-03,2024-10-04,1,I21,Acute myocardial infarction,,Emergency Medicine,True,Home,86,M,RG6 5AA,5,True
+EP00000844,NHS000422,2025-06-07,2025-06-16,9,I50,Heart failure,,Geriatrics,False,Home,36,F,SL3 7AA,3,False
+EP00000845,NHS000423,2024-12-13,2024-12-15,2,F32,Depressive episode,,General Medicine,False,Home,18,M,L17 3AA,3,False
+EP00000846,NHS000423,2025-08-23,2025-08-24,1,I10,Essential hypertension,,Gastroenterology,True,Home,29,F,B12 1AA,2,False
+EP00000847,NHS000424,2025-04-11,2025-04-13,2,K92,GI bleeding,,Endocrinology,True,Another Hospital,34,M,RG5 7AA,2,False
+EP00000848,NHS000424,2025-06-17,2025-06-18,1,I63,Cerebral infarction,J44,Geriatrics,False,Home,85,M,B17 2AA,4,False
+EP00000849,NHS000425,2025-04-23,2025-04-24,1,F32,Depressive episode,,General Medicine,True,Home,18,F,M15 8AA,2,True
+EP00000850,NHS000425,2024-12-30,2025-01-02,3,I21,Acute myocardial infarction,,Endocrinology,True,Home,18,F,B18 6AA,3,False
+EP00000851,NHS000426,2025-07-09,2025-07-10,1,I63,Cerebral infarction,J18,Emergency Medicine,False,Home,80,M,M14 5AA,2,False
+EP00000852,NHS000426,2025-03-24,2025-03-31,7,F32,Depressive episode,,Cardiology,False,Care Home,18,M,RG5 8AA,1,False
+EP00000853,NHS000427,2024-12-27,2024-12-28,1,I50,Heart failure,J18,General Medicine,False,Home,72,F,SL4 4AA,3,True
+EP00000854,NHS000427,2025-01-18,2025-01-19,1,I50,Heart failure,,Respiratory,False,Another Hospital,21,F,B15 8AA,4,False
+EP00000855,NHS000428,2024-12-06,2024-12-07,1,I21,Acute myocardial infarction,,Emergency Medicine,False,Home,59,M,L16 2AA,3,False
+EP00000856,NHS000428,2024-12-19,2024-12-20,1,N18,Chronic kidney disease,"F32,I50,I63,E11",Nephrology,True,Home,95,F,M13 4AA,2,True
+EP00000857,NHS000429,2024-10-22,2024-10-23,1,N18,Chronic kidney disease,,Geriatrics,False,Home,34,F,RG7 8AA,4,False
+EP00000858,NHS000429,2025-08-22,2025-08-26,4,I50,Heart failure,,Gastroenterology,False,Care Home,49,M,B12 7AA,3,False
+EP00000859,NHS000430,2024-09-21,2024-09-22,1,N18,Chronic kidney disease,,Nephrology,True,Home,24,F,SL8 7AA,3,False
+EP00000860,NHS000430,2024-09-29,2024-09-30,1,I50,Heart failure,,General Medicine,True,Home,18,M,B11 8AA,2,True
+EP00000861,NHS000431,2025-08-21,2025-08-23,2,K92,GI bleeding,,Respiratory,True,Care Home,30,F,RG7 7AA,1,False
+EP00000862,NHS000431,2025-02-18,2025-02-19,1,J18,Pneumonia,,Respiratory,True,Home,47,F,L11 6AA,1,True
+EP00000863,NHS000432,2025-04-06,2025-04-08,2,I63,Cerebral infarction,,General Medicine,True,Home,29,F,B12 8AA,4,False
+EP00000864,NHS000432,2025-02-15,2025-02-16,1,J18,Pneumonia,"I21,F32",Nephrology,True,Home,95,M,L16 3AA,5,True
+EP00000865,NHS000433,2025-05-04,2025-05-05,1,K92,GI bleeding,,Respiratory,True,Home,35,M,RG4 4AA,1,False
+EP00000866,NHS000433,2025-02-16,2025-02-17,1,I21,Acute myocardial infarction,"I10,I63",Respiratory,False,Home,95,F,RG7 7AA,5,False
+EP00000867,NHS000434,2025-05-12,2025-05-18,6,F32,Depressive episode,,General Medicine,True,Care Home,25,M,SL2 5AA,2,True
+EP00000868,NHS000434,2024-10-09,2024-10-10,1,J18,Pneumonia,K92,Cardiology,True,Home,66,F,B15 7AA,1,False
+EP00000869,NHS000435,2024-10-09,2024-10-10,1,E11,Type 2 diabetes,,Cardiology,False,Home,32,M,B18 4AA,4,False
+EP00000870,NHS000435,2025-03-30,2025-04-02,3,F32,Depressive episode,,Cardiology,False,Home,24,M,B18 7AA,3,False
+EP00000871,NHS000436,2025-06-22,2025-06-23,1,I50,Heart failure,,Nephrology,False,Home,18,M,M18 1AA,3,True
+EP00000872,NHS000436,2025-06-10,2025-06-15,5,I63,Cerebral infarction,,Endocrinology,True,Rehabilitation Unit,42,M,SL2 4AA,4,False
+EP00000873,NHS000437,2025-05-19,2025-05-21,2,I21,Acute myocardial infarction,,Emergency Medicine,True,Home,29,M,RG3 2AA,4,True
+EP00000874,NHS000437,2025-03-25,2025-03-26,1,I50,Heart failure,,Nephrology,False,Home,18,M,SL3 1AA,4,False
+EP00000875,NHS000438,2024-08-31,2024-09-01,1,E11,Type 2 diabetes,,Emergency Medicine,True,Care Home,18,F,M12 1AA,5,False
+EP00000876,NHS000438,2024-12-28,2024-12-29,1,J44,COPD,"N18,K92,J18,I10,I21",Emergency Medicine,False,Home,95,F,SL2 5AA,5,True
+EP00000877,NHS000439,2025-05-13,2025-05-15,2,E11,Type 2 diabetes,,General Medicine,False,Care Home,34,F,B12 7AA,3,True
+EP00000878,NHS000439,2024-12-10,2024-12-16,6,F32,Depressive episode,,General Medicine,False,Care Home,18,M,M17 5AA,5,False
+EP00000879,NHS000440,2024-09-11,2024-09-16,5,J18,Pneumonia,,Cardiology,True,Care Home,24,M,RG3 5AA,3,False
+EP00000880,NHS000440,2025-07-02,2025-07-04,2,I21,Acute myocardial infarction,I50,General Medicine,True,Home,67,M,SL3 2AA,4,True
+EP00000881,NHS000441,2024-11-10,2024-11-12,2,K92,GI bleeding,,Nephrology,False,Home,18,F,SL4 8AA,2,False
+EP00000882,NHS000441,2025-08-13,2025-08-14,1,J18,Pneumonia,,Gastroenterology,True,Home,35,M,M15 3AA,2,False
+EP00000883,NHS000442,2024-09-08,2024-09-15,7,I63,Cerebral infarction,"N18,J18",Nephrology,False,Home,86,M,SL2 7AA,1,True
+EP00000884,NHS000442,2024-12-25,2024-12-26,1,I10,Essential hypertension,,Cardiology,True,Care Home,26,F,RG5 2AA,5,False
+EP00000885,NHS000443,2024-11-06,2024-11-07,1,K92,GI bleeding,,Respiratory,True,Home,18,F,RG2 3AA,4,False
+EP00000886,NHS000443,2025-07-10,2025-07-11,1,I21,Acute myocardial infarction,,Respiratory,True,Care Home,18,F,SL4 3AA,2,False
+EP00000887,NHS000444,2024-11-20,2024-11-21,1,E11,Type 2 diabetes,,Endocrinology,False,Home,18,F,SL1 3AA,4,True
+EP00000888,NHS000444,2025-02-23,2025-02-25,2,I50,Heart failure,,General Medicine,True,Home,41,F,M16 4AA,2,False
+EP00000889,NHS000445,2025-03-10,2025-03-13,3,F32,Depressive episode,,Geriatrics,False,Home,28,M,RG8 2AA,3,False
+EP00000890,NHS000445,2025-05-23,2025-05-24,1,E11,Type 2 diabetes,I63,Respiratory,True,Home,95,M,SL5 5AA,1,True
+EP00000891,NHS000446,2025-03-02,2025-03-04,2,N18,Chronic kidney disease,,Nephrology,False,Home,18,M,L12 7AA,1,False
+EP00000892,NHS000446,2024-11-28,2024-11-29,1,E11,Type 2 diabetes,,Nephrology,False,Home,24,M,L14 3AA,4,False
+EP00000893,NHS000447,2025-07-10,2025-07-11,1,F32,Depressive episode,,General Medicine,False,Home,58,M,M17 1AA,1,False
+EP00000894,NHS000447,2024-11-23,2024-11-24,1,J44,COPD,I63,General Medicine,True,Home,83,F,SL4 8AA,5,False
+EP00000895,NHS000448,2024-10-15,2024-10-16,1,I21,Acute myocardial infarction,,Endocrinology,False,Home,34,F,RG1 4AA,4,True
+EP00000896,NHS000448,2024-09-07,2024-09-21,14,F32,Depressive episode,,Gastroenterology,True,Care Home,18,M,B12 2AA,4,True
+EP00000897,NHS000449,2024-12-12,2024-12-14,2,J44,COPD,,Gastroenterology,True,Home,18,F,L17 7AA,5,True
+EP00000898,NHS000449,2024-12-08,2024-12-13,5,K92,GI bleeding,,Cardiology,True,Home,64,F,L14 8AA,2,False
+EP00000899,NHS000450,2025-01-03,2025-01-04,1,F32,Depressive episode,,Emergency Medicine,True,Care Home,50,F,B17 6AA,2,False
+EP00000900,NHS000450,2025-07-14,2025-07-15,1,J18,Pneumonia,,General Medicine,True,Home,48,M,M18 7AA,3,False
+EP00000901,NHS000451,2024-11-14,2024-11-23,9,E11,Type 2 diabetes,,Emergency Medicine,False,Home,20,M,L16 6AA,3,False
+EP00000902,NHS000451,2025-07-28,2025-08-05,8,K92,GI bleeding,"F32,I10",General Medicine,False,Home,65,M,M17 8AA,4,True
+EP00000903,NHS000452,2025-04-16,2025-04-17,1,J18,Pneumonia,,Emergency Medicine,False,Another Hospital,65,F,L15 8AA,1,False
+EP00000904,NHS000452,2025-04-14,2025-04-15,1,J44,COPD,,Endocrinology,False,Home,43,F,L12 5AA,1,True
+EP00000905,NHS000453,2024-10-25,2024-10-26,1,N18,Chronic kidney disease,,General Medicine,True,Another Hospital,18,M,RG5 8AA,5,False
+EP00000906,NHS000453,2025-01-12,2025-01-30,18,F32,Depressive episode,N18,Respiratory,False,Home,95,F,SL6 3AA,5,True
+EP00000907,NHS000454,2024-11-20,2024-11-21,1,I21,Acute myocardial infarction,,Nephrology,False,Another Hospital,49,M,L15 6AA,5,False
+EP00000908,NHS000454,2024-10-29,2024-10-30,1,J44,COPD,,Nephrology,False,Care Home,20,M,RG5 8AA,2,False
+EP00000909,NHS000455,2025-06-22,2025-06-28,6,N18,Chronic kidney disease,,General Medicine,True,Home,23,M,SL2 1AA,2,False
+EP00000910,NHS000455,2025-08-04,2025-08-06,2,I21,Acute myocardial infarction,,Endocrinology,True,Home,30,F,SL1 4AA,5,False
+EP00000911,NHS000456,2024-12-13,2024-12-14,1,F32,Depressive episode,,Endocrinology,False,Home,18,F,B15 6AA,5,True
+EP00000912,NHS000456,2024-10-13,2024-10-14,1,I10,Essential hypertension,,Cardiology,True,Care Home,35,F,M17 2AA,5,False
+EP00000913,NHS000457,2025-05-26,2025-06-06,11,I21,Acute myocardial infarction,I50,Geriatrics,False,Home,57,F,B18 7AA,3,False
+EP00000914,NHS000457,2024-12-13,2024-12-16,3,I50,Heart failure,,General Medicine,True,Home,34,F,M16 8AA,3,False
+EP00000915,NHS000458,2025-08-17,2025-08-22,5,F32,Depressive episode,,Respiratory,True,Home,40,F,L13 6AA,2,False
+EP00000916,NHS000458,2024-09-26,2024-10-08,12,J18,Pneumonia,"K92,I10,I63,N18",Respiratory,True,Home,93,F,M13 3AA,4,False
+EP00000917,NHS000459,2024-09-25,2024-09-26,1,I10,Essential hypertension,,Gastroenterology,True,Home,33,F,RG8 6AA,5,False
+EP00000918,NHS000459,2025-02-28,2025-03-02,2,F32,Depressive episode,,Cardiology,True,Home,31,M,SL4 3AA,4,True
+EP00000919,NHS000460,2024-12-10,2024-12-14,4,I63,Cerebral infarction,,Emergency Medicine,False,Care Home,30,M,L12 1AA,2,False
+EP00000920,NHS000460,2025-08-11,2025-08-12,1,I21,Acute myocardial infarction,,Geriatrics,False,Home,18,M,RG6 1AA,3,False
+EP00000921,NHS000461,2025-07-21,2025-07-24,3,I10,Essential hypertension,,Cardiology,True,Home,47,F,B16 6AA,4,False
+EP00000922,NHS000461,2025-08-08,2025-08-10,2,J44,COPD,,Emergency Medicine,True,Another Hospital,31,F,SL3 5AA,2,False
+EP00000923,NHS000462,2024-12-08,2024-12-14,6,I10,Essential hypertension,,Gastroenterology,True,Home,51,M,M15 2AA,2,False
+EP00000924,NHS000462,2025-04-20,2025-04-23,3,I63,Cerebral infarction,,General Medicine,True,Home,20,F,M18 5AA,4,False
+EP00000925,NHS000463,2024-09-21,2024-09-22,1,I10,Essential hypertension,,Respiratory,False,Home,20,F,SL4 5AA,1,False
+EP00000926,NHS000463,2024-11-08,2024-11-09,1,I10,Essential hypertension,N18,Emergency Medicine,False,Home,52,F,B15 1AA,4,False
+EP00000927,NHS000464,2025-04-17,2025-04-25,8,I21,Acute myocardial infarction,E11,Nephrology,True,Home,70,M,SL1 2AA,3,False
+EP00000928,NHS000464,2025-07-29,2025-07-30,1,I63,Cerebral infarction,,Gastroenterology,True,Care Home,47,M,B12 7AA,2,False
+EP00000929,NHS000465,2024-09-25,2024-09-26,1,K92,GI bleeding,,Gastroenterology,True,Home,49,M,M11 6AA,1,False
+EP00000930,NHS000465,2025-05-21,2025-05-22,1,J18,Pneumonia,"I50,J44,N18",Nephrology,True,Home,95,M,M17 7AA,5,False
+EP00000931,NHS000466,2024-11-13,2024-11-15,2,I10,Essential hypertension,"I50,I63",Geriatrics,False,Home,71,M,B11 8AA,1,True
+EP00000932,NHS000466,2025-05-26,2025-05-29,3,I10,Essential hypertension,,General Medicine,False,Care Home,54,F,L12 7AA,1,False
+EP00000933,NHS000467,2025-02-08,2025-02-12,4,I10,Essential hypertension,,Geriatrics,True,Home,60,F,B12 3AA,4,False
+EP00000934,NHS000467,2024-11-28,2024-11-29,1,K92,GI bleeding,J18,Nephrology,False,Home,80,M,B17 6AA,3,False
+EP00000935,NHS000468,2025-02-21,2025-02-22,1,F32,Depressive episode,,Emergency Medicine,False,Another Hospital,25,M,RG8 6AA,3,False
+EP00000936,NHS000468,2025-01-20,2025-01-22,2,E11,Type 2 diabetes,,Emergency Medicine,False,Another Hospital,66,M,B17 3AA,5,True
+EP00000937,NHS000469,2024-12-17,2024-12-18,1,K92,GI bleeding,,Cardiology,True,Home,45,M,M12 7AA,5,True
+EP00000938,NHS000469,2025-07-18,2025-07-27,9,E11,Type 2 diabetes,,Respiratory,False,Home,18,M,B16 3AA,2,False
+EP00000939,NHS000470,2025-01-15,2025-01-20,5,J18,Pneumonia,,Cardiology,True,Care Home,73,F,SL4 1AA,3,False
+EP00000940,NHS000470,2025-02-20,2025-02-25,5,I10,Essential hypertension,,Cardiology,False,Home,18,M,M14 7AA,4,False
+EP00000941,NHS000471,2024-09-07,2024-09-16,9,K92,GI bleeding,,Cardiology,False,Another Hospital,18,M,RG1 7AA,4,False
+EP00000942,NHS000471,2025-06-09,2025-06-10,1,I50,Heart failure,,General Medicine,False,Home,18,F,B12 4AA,3,False
+EP00000943,NHS000472,2025-06-21,2025-06-22,1,J44,COPD,,Emergency Medicine,True,Home,21,M,M13 8AA,5,False
+EP00000944,NHS000472,2025-04-05,2025-04-06,1,J18,Pneumonia,,Nephrology,True,Home,22,F,L16 1AA,4,False
+EP00000945,NHS000473,2025-06-02,2025-06-03,1,N18,Chronic kidney disease,"I21,J44",Endocrinology,True,Home,95,F,M17 8AA,3,False
+EP00000946,NHS000473,2024-12-04,2024-12-05,1,K92,GI bleeding,,Respiratory,True,Home,18,F,RG5 2AA,3,False
+EP00000947,NHS000474,2025-01-03,2025-01-04,1,N18,Chronic kidney disease,,Gastroenterology,False,Home,18,M,B16 1AA,4,False
+EP00000948,NHS000474,2025-06-03,2025-06-06,3,I50,Heart failure,,Cardiology,False,Home,22,F,B17 6AA,4,False
+EP00000949,NHS000475,2025-07-05,2025-07-07,2,I63,Cerebral infarction,,Cardiology,True,Home,30,M,B12 6AA,2,False
+EP00000950,NHS000475,2024-09-23,2024-09-25,2,F32,Depressive episode,,Endocrinology,True,Home,32,F,L15 6AA,5,False
+EP00000951,NHS000476,2025-03-01,2025-03-02,1,F32,Depressive episode,,Nephrology,True,Care Home,44,F,M16 5AA,2,False
+EP00000952,NHS000476,2025-05-21,2025-05-22,1,I50,Heart failure,,Endocrinology,True,Home,25,M,M14 5AA,5,False
+EP00000953,NHS000477,2025-03-09,2025-03-12,3,E11,Type 2 diabetes,,Endocrinology,False,Home,22,M,RG8 6AA,3,False
+EP00000954,NHS000477,2025-02-13,2025-02-16,3,K92,GI bleeding,,Emergency Medicine,False,Home,37,M,L17 5AA,4,True
+EP00000955,NHS000478,2024-11-12,2024-11-13,1,F32,Depressive episode,"E11,I50",Nephrology,False,Home,70,M,L18 7AA,3,True
+EP00000956,NHS000478,2025-03-27,2025-03-29,2,I63,Cerebral infarction,"E11,I50,I21",Nephrology,True,Home,95,M,SL7 2AA,1,False
+EP00000957,NHS000479,2024-10-17,2024-10-20,3,J44,COPD,,General Medicine,True,Home,31,F,M18 3AA,3,True
+EP00000958,NHS000479,2024-11-24,2024-11-30,6,J44,COPD,"K92,I21,I10,F32,I50,J18,E11",General Medicine,True,Home,95,M,M15 1AA,5,True
+EP00000959,NHS000480,2025-01-13,2025-01-14,1,N18,Chronic kidney disease,,Geriatrics,True,Care Home,28,F,SL1 1AA,1,False
+EP00000960,NHS000480,2025-05-25,2025-06-08,14,I21,Acute myocardial infarction,,Nephrology,True,Home,23,F,B18 4AA,2,True
+EP00000961,NHS000481,2025-03-03,2025-03-10,7,I63,Cerebral infarction,,Emergency Medicine,False,Home,20,M,SL8 3AA,4,False
+EP00000962,NHS000481,2025-07-17,2025-07-21,4,I63,Cerebral infarction,,General Medicine,True,Home,18,F,M15 4AA,1,True
+EP00000963,NHS000482,2024-12-27,2024-12-28,1,J44,COPD,,General Medicine,True,Care Home,74,F,L16 3AA,5,False
+EP00000964,NHS000482,2025-01-21,2025-02-03,13,J18,Pneumonia,,Cardiology,False,Home,18,F,RG8 2AA,4,True
+EP00000965,NHS000483,2025-06-16,2025-06-17,1,J44,COPD,,Geriatrics,False,Home,65,F,B17 7AA,4,False
+EP00000966,NHS000483,2025-07-09,2025-07-10,1,I63,Cerebral infarction,,Endocrinology,True,Home,18,F,M11 7AA,1,False
+EP00000967,NHS000484,2025-05-16,2025-05-17,1,J44,COPD,,Respiratory,False,Another Hospital,40,M,L18 7AA,3,True
+EP00000968,NHS000484,2025-04-06,2025-04-08,2,K92,GI bleeding,I50,General Medicine,False,Home,76,M,B15 8AA,4,False
+EP00000969,NHS000485,2024-10-24,2024-10-25,1,E11,Type 2 diabetes,,General Medicine,False,Home,18,M,B13 7AA,3,False
+EP00000970,NHS000485,2025-03-16,2025-03-17,1,I50,Heart failure,,Respiratory,True,Another Hospital,39,M,SL8 2AA,2,False
+EP00000971,NHS000486,2025-08-12,2025-08-13,1,J44,COPD,,Respiratory,True,Home,41,M,SL6 5AA,3,True
+EP00000972,NHS000486,2025-04-22,2025-04-23,1,F32,Depressive episode,,Endocrinology,True,Home,18,M,SL6 5AA,5,True
+EP00000973,NHS000487,2025-07-06,2025-07-07,1,N18,Chronic kidney disease,,General Medicine,False,Home,20,M,SL5 3AA,2,False
+EP00000974,NHS000487,2025-07-08,2025-07-09,1,I63,Cerebral infarction,,Geriatrics,False,Home,46,M,RG1 7AA,5,False
+EP00000975,NHS000488,2025-03-31,2025-04-08,8,J44,COPD,,Geriatrics,False,Home,51,F,B13 3AA,3,False
+EP00000976,NHS000488,2024-12-01,2024-12-07,6,E11,Type 2 diabetes,,Emergency Medicine,False,Home,18,F,SL7 2AA,5,False
+EP00000977,NHS000489,2024-12-13,2024-12-14,1,I10,Essential hypertension,,Emergency Medicine,True,Home,18,M,M17 2AA,5,True
+EP00000978,NHS000489,2025-08-03,2025-08-04,1,K92,GI bleeding,I50,General Medicine,False,Home,95,F,RG3 7AA,5,True
+EP00000979,NHS000490,2025-08-25,2025-08-27,2,J18,Pneumonia,,Emergency Medicine,True,Home,61,F,B18 6AA,2,False
+EP00000980,NHS000490,2024-10-22,2024-10-25,3,I50,Heart failure,,Endocrinology,True,Care Home,36,M,B15 5AA,3,False
+EP00000981,NHS000491,2025-08-04,2025-08-06,2,J18,Pneumonia,,Respiratory,False,Care Home,43,M,RG1 2AA,5,False
+EP00000982,NHS000491,2025-01-22,2025-01-23,1,J44,COPD,,Gastroenterology,True,Home,25,M,SL6 5AA,4,False
+EP00000983,NHS000492,2025-07-13,2025-07-15,2,K92,GI bleeding,,Cardiology,True,Care Home,30,M,B13 8AA,1,False
+EP00000984,NHS000492,2025-01-21,2025-01-24,3,J18,Pneumonia,,Cardiology,False,Home,53,F,RG5 5AA,3,False
+EP00000985,NHS000493,2024-08-30,2024-08-31,1,F32,Depressive episode,,Respiratory,True,Home,45,F,M17 8AA,3,False
+EP00000986,NHS000493,2025-04-05,2025-04-08,3,I50,Heart failure,,Emergency Medicine,True,Home,18,F,M11 1AA,4,False
+EP00000987,NHS000494,2024-11-15,2024-11-16,1,E11,Type 2 diabetes,,Emergency Medicine,True,Another Hospital,25,M,RG2 1AA,2,False
+EP00000988,NHS000494,2025-02-08,2025-02-10,2,I10,Essential hypertension,,Geriatrics,True,Another Hospital,37,F,L18 2AA,1,False
+EP00000989,NHS000495,2025-06-23,2025-07-01,8,I63,Cerebral infarction,,General Medicine,True,Home,25,M,L11 2AA,3,False
+EP00000990,NHS000495,2025-03-01,2025-03-06,5,N18,Chronic kidney disease,I21,Cardiology,False,Care Home,63,M,L16 3AA,3,False
+EP00000991,NHS000496,2025-01-10,2025-01-11,1,F32,Depressive episode,,Cardiology,False,Home,20,M,M14 7AA,3,False
+EP00000992,NHS000496,2025-01-09,2025-01-10,1,I21,Acute myocardial infarction,,Emergency Medicine,False,Home,18,M,SL2 5AA,5,False
+EP00000993,NHS000497,2025-04-28,2025-05-03,5,J18,Pneumonia,,Geriatrics,False,Home,21,M,M12 5AA,3,False
+EP00000994,NHS000497,2025-08-01,2025-08-03,2,N18,Chronic kidney disease,,Cardiology,True,Care Home,35,M,B14 5AA,1,False
+EP00000995,NHS000498,2025-04-16,2025-04-17,1,J44,COPD,,Respiratory,True,Home,72,F,L12 5AA,2,True
+EP00000996,NHS000498,2025-01-21,2025-01-22,1,E11,Type 2 diabetes,,Nephrology,False,Care Home,46,F,B11 5AA,3,True
+EP00000997,NHS000499,2025-06-06,2025-06-07,1,I21,Acute myocardial infarction,,General Medicine,True,Care Home,29,F,L17 5AA,3,True
+EP00000998,NHS000499,2025-04-20,2025-04-21,1,I21,Acute myocardial infarction,,General Medicine,False,Home,23,M,B18 7AA,1,False
+EP00000999,NHS000500,2025-07-13,2025-07-14,1,F32,Depressive episode,,Endocrinology,True,Home,51,F,B18 6AA,5,True
+EP00001000,NHS000500,2024-12-26,2024-12-29,3,F32,Depressive episode,,Nephrology,False,Home,18,M,SL1 6AA,4,False
+EP00001001,NHS000501,2024-12-22,2024-12-24,2,F32,Depressive episode,,General Medicine,False,Home,18,F,SL1 7AA,3,True
+EP00001002,NHS000501,2025-01-07,2025-01-09,2,I10,Essential hypertension,,Endocrinology,False,Home,27,F,L12 1AA,1,False
+EP00001003,NHS000502,2025-05-15,2025-05-18,3,F32,Depressive episode,,Gastroenterology,False,Home,25,M,SL8 6AA,1,False
+EP00001004,NHS000502,2024-10-08,2024-10-09,1,I10,Essential hypertension,,Geriatrics,True,Home,29,M,SL5 5AA,3,True
+EP00001005,NHS000503,2025-01-06,2025-01-07,1,I10,Essential hypertension,,General Medicine,True,Care Home,30,F,RG7 2AA,5,True
+EP00001006,NHS000503,2025-05-08,2025-05-09,1,I21,Acute myocardial infarction,,Emergency Medicine,True,Another Hospital,18,M,L17 6AA,2,False
+EP00001007,NHS000504,2025-04-13,2025-04-14,1,I50,Heart failure,,Gastroenterology,True,Home,45,M,M18 4AA,3,False
+EP00001008,NHS000504,2025-02-09,2025-02-10,1,J44,COPD,,Cardiology,True,Home,61,F,SL2 2AA,4,False
+EP00001009,NHS000505,2025-06-14,2025-06-23,9,J18,Pneumonia,,Nephrology,True,Home,47,M,SL3 7AA,3,False
+EP00001010,NHS000505,2024-12-26,2024-12-27,1,E11,Type 2 diabetes,,General Medicine,True,Home,38,F,RG7 4AA,1,False
+EP00001011,NHS000506,2024-12-13,2024-12-16,3,I63,Cerebral infarction,,Endocrinology,False,Home,18,F,M17 8AA,3,False
+EP00001012,NHS000506,2025-06-16,2025-06-18,2,I10,Essential hypertension,,Gastroenterology,True,Home,24,M,RG6 5AA,2,False
+EP00001013,NHS000507,2024-12-13,2024-12-15,2,I63,Cerebral infarction,,Geriatrics,True,Home,18,F,B15 2AA,5,False
+EP00001014,NHS000507,2025-05-08,2025-05-13,5,I10,Essential hypertension,,Geriatrics,False,Home,18,F,RG5 5AA,4,False
+EP00001015,NHS000508,2025-05-01,2025-05-02,1,J18,Pneumonia,I21,Emergency Medicine,True,Home,72,M,M13 2AA,3,False
+EP00001016,NHS000508,2025-02-11,2025-02-14,3,I63,Cerebral infarction,"E11,K92,J18",Cardiology,True,Care Home,59,F,L12 8AA,2,False
+EP00001017,NHS000509,2025-07-01,2025-07-06,5,I21,Acute myocardial infarction,,Emergency Medicine,True,Home,21,F,B18 3AA,2,False
+EP00001018,NHS000509,2025-08-01,2025-08-07,6,E11,Type 2 diabetes,,Endocrinology,False,Home,18,M,B18 8AA,3,False
+EP00001019,NHS000510,2025-03-05,2025-03-06,1,J18,Pneumonia,I10,Cardiology,True,Care Home,73,M,RG8 2AA,3,False
+EP00001020,NHS000510,2024-09-12,2024-09-13,1,I10,Essential hypertension,,General Medicine,False,Home,31,M,B11 2AA,4,True
+EP00001021,NHS000511,2024-11-10,2024-11-11,1,I63,Cerebral infarction,I10,Endocrinology,True,Home,83,M,SL2 1AA,4,True
+EP00001022,NHS000511,2025-03-13,2025-03-17,4,N18,Chronic kidney disease,,Respiratory,True,Home,18,M,B15 4AA,4,False
+EP00001023,NHS000512,2025-06-13,2025-06-14,1,N18,Chronic kidney disease,,Geriatrics,True,Home,18,F,M15 3AA,2,False
+EP00001024,NHS000512,2025-02-12,2025-02-13,1,K92,GI bleeding,,General Medicine,False,Care Home,60,M,RG8 7AA,5,False
+EP00001025,NHS000513,2025-06-20,2025-06-21,1,K92,GI bleeding,,Endocrinology,True,Home,62,M,SL7 8AA,1,True
+EP00001026,NHS000513,2024-12-12,2024-12-13,1,J18,Pneumonia,,Emergency Medicine,True,Home,39,F,RG4 2AA,3,True
+EP00001027,NHS000514,2024-10-07,2024-10-08,1,I21,Acute myocardial infarction,,Endocrinology,True,Home,69,F,M17 6AA,5,False
+EP00001028,NHS000514,2025-08-22,2025-08-25,3,J18,Pneumonia,,Cardiology,False,Home,28,M,L12 8AA,4,False
+EP00001029,NHS000515,2025-06-24,2025-06-26,2,I10,Essential hypertension,,Emergency Medicine,True,Home,18,F,SL4 5AA,3,False
+EP00001030,NHS000515,2025-05-23,2025-05-31,8,J18,Pneumonia,,Respiratory,False,Home,46,M,B16 8AA,3,False
+EP00001031,NHS000516,2025-06-26,2025-06-28,2,J18,Pneumonia,,Endocrinology,True,Another Hospital,38,F,SL1 2AA,5,False
+EP00001032,NHS000516,2024-10-27,2024-10-28,1,I10,Essential hypertension,"N18,K92,I63",Respiratory,True,Another Hospital,71,M,M17 6AA,4,False
+EP00001033,NHS000517,2025-03-26,2025-03-28,2,E11,Type 2 diabetes,,Cardiology,True,Home,23,M,L17 7AA,3,False
+EP00001034,NHS000517,2025-04-03,2025-04-11,8,I63,Cerebral infarction,"F32,J18",General Medicine,True,Another Hospital,78,M,RG2 6AA,3,False
+EP00001035,NHS000518,2025-05-03,2025-05-06,3,J44,COPD,,Endocrinology,True,Home,23,M,M18 8AA,2,False
+EP00001036,NHS000518,2025-04-08,2025-04-14,6,N18,Chronic kidney disease,,Gastroenterology,True,Home,18,M,SL3 3AA,2,False
+EP00001037,NHS000519,2025-01-08,2025-01-09,1,I63,Cerebral infarction,,General Medicine,True,Care Home,36,F,B18 8AA,1,False
+EP00001038,NHS000519,2025-02-14,2025-02-19,5,I63,Cerebral infarction,"I21,N18,J44",Gastroenterology,False,Home,88,M,RG8 8AA,4,False
+EP00001039,NHS000520,2025-03-25,2025-03-26,1,F32,Depressive episode,,Gastroenterology,False,Home,54,F,B12 2AA,3,True
+EP00001040,NHS000520,2024-10-04,2024-10-10,6,K92,GI bleeding,,Nephrology,True,Home,18,F,M12 4AA,2,True
+EP00001041,NHS000521,2025-03-28,2025-03-29,1,I21,Acute myocardial infarction,,General Medicine,True,Home,18,F,B17 2AA,3,False
+EP00001042,NHS000521,2025-06-18,2025-06-22,4,J18,Pneumonia,,Cardiology,True,Home,41,M,B12 3AA,3,True
+EP00001043,NHS000522,2024-10-25,2024-10-26,1,I21,Acute myocardial infarction,,Gastroenterology,True,Home,83,M,M17 8AA,1,False
+EP00001044,NHS000522,2025-03-24,2025-03-25,1,I21,Acute myocardial infarction,,Gastroenterology,True,Home,32,M,B13 2AA,2,False
+EP00001045,NHS000523,2025-03-17,2025-03-21,4,J18,Pneumonia,,General Medicine,False,Home,26,M,M16 2AA,5,False
+EP00001046,NHS000523,2025-03-24,2025-03-25,1,I50,Heart failure,I21,Emergency Medicine,True,Home,67,F,B13 6AA,1,False
+EP00001047,NHS000524,2024-10-26,2024-10-27,1,F32,Depressive episode,,Emergency Medicine,True,Home,18,F,M11 8AA,1,True
+EP00001048,NHS000524,2024-11-06,2024-11-07,1,F32,Depressive episode,,Nephrology,True,Care Home,20,M,RG1 3AA,1,False
+EP00001049,NHS000525,2024-11-12,2024-11-19,7,I10,Essential hypertension,,Respiratory,True,Home,18,F,M11 7AA,4,False
+EP00001050,NHS000525,2024-10-18,2024-10-19,1,J18,Pneumonia,,Endocrinology,False,Home,18,M,SL2 4AA,4,False
+EP00001051,NHS000526,2024-10-23,2024-10-24,1,J18,Pneumonia,,Respiratory,False,Home,59,M,RG8 8AA,5,False
+EP00001052,NHS000526,2025-05-16,2025-05-18,2,I10,Essential hypertension,,Respiratory,True,Home,37,F,RG1 4AA,3,False
+EP00001053,NHS000527,2025-02-23,2025-02-24,1,I10,Essential hypertension,,Endocrinology,True,Home,31,F,RG1 1AA,3,True
+EP00001054,NHS000527,2024-11-19,2024-11-24,5,J44,COPD,,General Medicine,False,Home,43,M,M12 8AA,3,False
+EP00001055,NHS000528,2024-10-03,2024-10-04,1,F32,Depressive episode,,Gastroenterology,True,Home,39,M,B16 4AA,3,False
+EP00001056,NHS000528,2025-01-20,2025-01-21,1,K92,GI bleeding,,Gastroenterology,False,Home,27,M,B13 4AA,4,False
+EP00001057,NHS000529,2025-07-22,2025-07-24,2,N18,Chronic kidney disease,,Endocrinology,True,Home,30,M,L14 3AA,3,False
+EP00001058,NHS000529,2025-08-21,2025-08-22,1,I10,Essential hypertension,,General Medicine,False,Home,26,F,B15 1AA,4,True
+EP00001059,NHS000530,2025-01-26,2025-01-27,1,I63,Cerebral infarction,,General Medicine,True,Home,72,F,SL5 4AA,4,False
+EP00001060,NHS000530,2024-12-16,2024-12-19,3,I50,Heart failure,,Gastroenterology,False,Home,63,M,M13 1AA,5,True
+EP00001061,NHS000531,2025-03-23,2025-03-24,1,I50,Heart failure,,Cardiology,False,Home,57,M,SL4 4AA,5,False
+EP00001062,NHS000531,2024-11-30,2024-12-01,1,I50,Heart failure,,Geriatrics,True,Care Home,52,F,RG8 1AA,3,False
+EP00001063,NHS000532,2025-04-10,2025-04-11,1,K92,GI bleeding,,Respiratory,True,Care Home,22,M,L13 4AA,4,False
+EP00001064,NHS000532,2025-04-25,2025-04-26,1,N18,Chronic kidney disease,,Cardiology,False,Home,26,M,M14 1AA,5,False
+EP00001065,NHS000533,2024-10-26,2024-10-29,3,N18,Chronic kidney disease,,Nephrology,True,Care Home,35,F,RG2 1AA,5,False
+EP00001066,NHS000533,2025-06-29,2025-06-30,1,I63,Cerebral infarction,,Gastroenterology,False,Home,43,F,B17 1AA,3,False
+EP00001067,NHS000534,2024-12-13,2024-12-14,1,I10,Essential hypertension,,Gastroenterology,True,Home,62,M,B12 1AA,1,True
+EP00001068,NHS000534,2024-12-22,2024-12-23,1,I50,Heart failure,,Emergency Medicine,True,Home,47,F,SL1 4AA,5,True
+EP00001069,NHS000535,2024-11-23,2024-12-01,8,F32,Depressive episode,,Emergency Medicine,False,Home,28,F,SL5 5AA,1,False
+EP00001070,NHS000535,2025-06-29,2025-07-01,2,I21,Acute myocardial infarction,,Geriatrics,True,Home,43,F,M13 2AA,3,False
+EP00001071,NHS000536,2024-10-18,2024-10-19,1,I50,Heart failure,,Nephrology,True,Home,20,M,L11 6AA,2,False
+EP00001072,NHS000536,2025-08-09,2025-08-12,3,N18,Chronic kidney disease,,Geriatrics,False,Home,18,F,M11 7AA,1,False
+EP00001073,NHS000537,2024-10-21,2024-11-02,12,I10,Essential hypertension,,Respiratory,False,Home,49,F,SL3 2AA,4,False
+EP00001074,NHS000537,2025-02-28,2025-03-02,2,N18,Chronic kidney disease,,Endocrinology,False,Home,23,M,M17 4AA,3,True
+EP00001075,NHS000538,2025-06-25,2025-06-29,4,J44,COPD,,Geriatrics,False,Home,18,F,SL4 5AA,3,False
+EP00001076,NHS000538,2025-06-02,2025-06-04,2,F32,Depressive episode,,General Medicine,True,Home,39,M,SL8 8AA,1,False
+EP00001077,NHS000539,2024-10-03,2024-10-07,4,I10,Essential hypertension,,Emergency Medicine,True,Home,53,F,RG3 4AA,4,True
+EP00001078,NHS000539,2025-08-12,2025-08-13,1,I10,Essential hypertension,,Respiratory,True,Rehabilitation Unit,42,F,L17 8AA,3,True
+EP00001079,NHS000540,2025-01-23,2025-01-24,1,N18,Chronic kidney disease,,Nephrology,True,Home,64,F,B12 5AA,4,False
+EP00001080,NHS000540,2025-07-22,2025-07-25,3,E11,Type 2 diabetes,,Gastroenterology,True,Home,18,F,L11 3AA,2,False
+EP00001081,NHS000541,2024-09-02,2024-09-09,7,J44,COPD,"J18,F32,I63,E11,I50",Cardiology,True,Home,95,M,L11 3AA,1,False
+EP00001082,NHS000541,2025-06-21,2025-06-22,1,E11,Type 2 diabetes,,Emergency Medicine,False,Care Home,50,M,SL1 6AA,2,False
+EP00001083,NHS000542,2024-11-26,2024-11-28,2,F32,Depressive episode,,Cardiology,True,Home,32,M,L13 4AA,3,False
+EP00001084,NHS000542,2025-03-09,2025-03-11,2,I21,Acute myocardial infarction,,Endocrinology,False,Care Home,36,F,RG2 4AA,2,False
+EP00001085,NHS000543,2024-08-31,2024-09-01,1,J18,Pneumonia,,Endocrinology,False,Home,19,F,L13 4AA,1,True
+EP00001086,NHS000543,2025-06-29,2025-07-11,12,I21,Acute myocardial infarction,,Emergency Medicine,True,Home,18,M,L12 2AA,3,False
+EP00001087,NHS000544,2025-03-27,2025-03-28,1,I10,Essential hypertension,,Emergency Medicine,False,Home,71,M,SL7 7AA,4,False
+EP00001088,NHS000544,2024-12-20,2024-12-21,1,K92,GI bleeding,,Emergency Medicine,True,Home,67,F,RG2 3AA,5,False
+EP00001089,NHS000545,2024-10-01,2024-10-02,1,I63,Cerebral infarction,,Respiratory,False,Home,31,M,L12 4AA,2,True
+EP00001090,NHS000545,2025-08-22,2025-08-23,1,J44,COPD,I63,Cardiology,True,Home,73,M,M14 4AA,2,True
+EP00001091,NHS000546,2024-12-21,2024-12-22,1,I21,Acute myocardial infarction,I10,Nephrology,False,Home,84,F,M12 2AA,4,True
+EP00001092,NHS000546,2024-09-21,2024-09-22,1,I50,Heart failure,"K92,N18,J18",Emergency Medicine,True,Care Home,67,M,B18 5AA,3,False
+EP00001093,NHS000547,2025-03-30,2025-03-31,1,I63,Cerebral infarction,"K92,F32,N18",Gastroenterology,False,Home,73,F,L13 8AA,1,True
+EP00001094,NHS000547,2025-03-07,2025-03-08,1,J44,COPD,,General Medicine,False,Home,18,M,RG5 3AA,4,False
+EP00001095,NHS000548,2025-05-09,2025-05-11,2,I63,Cerebral infarction,,Geriatrics,True,Home,25,M,RG5 7AA,4,False
+EP00001096,NHS000548,2025-07-23,2025-07-24,1,I21,Acute myocardial infarction,,Gastroenterology,True,Home,21,M,M17 3AA,4,True
+EP00001097,NHS000549,2025-01-27,2025-01-31,4,E11,Type 2 diabetes,I50,General Medicine,True,Home,67,F,B16 4AA,3,False
+EP00001098,NHS000549,2025-01-03,2025-01-04,1,J18,Pneumonia,,Endocrinology,False,Home,22,M,M15 2AA,1,True
+EP00001099,NHS000550,2025-06-01,2025-06-03,2,I63,Cerebral infarction,,Geriatrics,False,Home,34,M,SL3 6AA,2,True
+EP00001100,NHS000550,2025-02-04,2025-02-11,7,I50,Heart failure,,Gastroenterology,False,Home,18,F,M14 2AA,3,False
+EP00001101,NHS000551,2025-03-12,2025-03-13,1,N18,Chronic kidney disease,,Gastroenterology,False,Home,35,F,M15 1AA,1,False
+EP00001102,NHS000551,2025-04-18,2025-04-19,1,I50,Heart failure,,Nephrology,False,Home,47,M,SL2 3AA,3,True
+EP00001103,NHS000552,2025-07-13,2025-07-20,7,I10,Essential hypertension,,Geriatrics,False,Rehabilitation Unit,32,M,RG2 3AA,2,True
+EP00001104,NHS000552,2024-09-22,2024-09-23,1,I50,Heart failure,,General Medicine,True,Home,60,M,SL1 1AA,3,False
+EP00001105,NHS000553,2024-10-31,2024-11-01,1,I10,Essential hypertension,,General Medicine,True,Home,34,M,M12 3AA,2,False
+EP00001106,NHS000553,2024-11-15,2024-11-16,1,J18,Pneumonia,,Nephrology,True,Care Home,18,M,L11 3AA,2,False
+EP00001107,NHS000554,2025-07-19,2025-07-20,1,E11,Type 2 diabetes,,Respiratory,False,Home,18,M,SL8 4AA,4,True
+EP00001108,NHS000554,2025-06-23,2025-06-24,1,I10,Essential hypertension,,Gastroenterology,True,Home,18,M,M13 5AA,2,False
+EP00001109,NHS000555,2025-07-23,2025-07-24,1,N18,Chronic kidney disease,,Emergency Medicine,True,Home,18,M,B18 3AA,2,False
+EP00001110,NHS000555,2025-01-17,2025-01-18,1,J18,Pneumonia,"E11,J44",Emergency Medicine,False,Home,95,F,RG3 7AA,3,True
+EP00001111,NHS000556,2025-02-22,2025-02-28,6,I10,Essential hypertension,E11,Emergency Medicine,True,Home,51,M,M13 8AA,3,False
+EP00001112,NHS000556,2025-01-09,2025-01-14,5,J44,COPD,"F32,I50,I63",Emergency Medicine,False,Another Hospital,69,M,B16 3AA,4,False
+EP00001113,NHS000557,2024-10-25,2024-10-31,6,I63,Cerebral infarction,,Endocrinology,True,Care Home,27,F,L14 5AA,2,False
+EP00001114,NHS000557,2024-10-18,2024-10-21,3,I21,Acute myocardial infarction,,Cardiology,False,Home,60,M,RG8 5AA,1,False
+EP00001115,NHS000558,2024-09-15,2024-09-18,3,K92,GI bleeding,,Nephrology,False,Home,26,F,B16 8AA,2,False
+EP00001116,NHS000558,2024-11-30,2024-12-02,2,I10,Essential hypertension,,General Medicine,False,Home,31,F,L14 7AA,3,False
+EP00001117,NHS000559,2025-04-14,2025-04-18,4,E11,Type 2 diabetes,I63,Nephrology,True,Home,95,F,B18 5AA,3,True
+EP00001118,NHS000559,2025-02-07,2025-02-08,1,I21,Acute myocardial infarction,,Gastroenterology,True,Home,50,M,L16 4AA,3,True
+EP00001119,NHS000560,2025-03-03,2025-03-04,1,F32,Depressive episode,,Endocrinology,False,Home,18,F,SL4 7AA,3,False
+EP00001120,NHS000560,2025-06-21,2025-06-24,3,J18,Pneumonia,,Geriatrics,True,Home,40,M,L15 5AA,3,False
+EP00001121,NHS000561,2024-09-19,2024-09-20,1,I21,Acute myocardial infarction,,General Medicine,False,Home,18,M,SL8 8AA,3,False
+EP00001122,NHS000561,2025-03-29,2025-03-31,2,I50,Heart failure,,Gastroenterology,False,Another Hospital,18,M,SL1 2AA,4,True
+EP00001123,NHS000562,2025-04-15,2025-04-17,2,I10,Essential hypertension,,Respiratory,True,Home,18,M,SL2 2AA,1,False
+EP00001124,NHS000562,2025-06-26,2025-07-10,14,J44,COPD,,Cardiology,True,Home,51,F,SL8 2AA,3,False
+EP00001125,NHS000563,2025-04-06,2025-04-12,6,I10,Essential hypertension,,Gastroenterology,True,Another Hospital,23,M,SL6 8AA,2,False
+EP00001126,NHS000563,2024-10-14,2024-10-16,2,J18,Pneumonia,,Geriatrics,False,Home,29,M,RG4 5AA,5,False
+EP00001127,NHS000564,2025-05-16,2025-05-18,2,J44,COPD,F32,Respiratory,False,Home,95,M,L17 4AA,3,False
+EP00001128,NHS000564,2024-10-18,2024-10-19,1,I50,Heart failure,I21,General Medicine,True,Home,57,M,SL7 4AA,4,False
+EP00001129,NHS000565,2025-03-26,2025-03-28,2,J18,Pneumonia,,Endocrinology,False,Home,28,F,RG2 8AA,4,False
+EP00001130,NHS000565,2025-08-27,2025-08-30,3,F32,Depressive episode,"N18,I63",Emergency Medicine,True,Home,66,M,SL5 8AA,3,False
+EP00001131,NHS000566,2025-07-12,2025-07-17,5,J44,COPD,,General Medicine,False,Home,32,M,SL1 5AA,3,False
+EP00001132,NHS000566,2025-01-04,2025-01-05,1,I63,Cerebral infarction,J44,Respiratory,True,Another Hospital,59,M,M18 3AA,3,False
+EP00001133,NHS000567,2025-05-01,2025-05-03,2,J18,Pneumonia,"N18,I50",Cardiology,True,Home,95,F,RG4 1AA,5,False
+EP00001134,NHS000567,2024-10-17,2024-10-18,1,I10,Essential hypertension,,Endocrinology,True,Home,18,F,B18 1AA,3,True
+EP00001135,NHS000568,2024-09-23,2024-10-01,8,F32,Depressive episode,,Emergency Medicine,False,Home,18,F,M15 1AA,3,False
+EP00001136,NHS000568,2024-11-09,2024-11-10,1,F32,Depressive episode,E11,Geriatrics,True,Home,81,F,RG5 5AA,3,False
+EP00001137,NHS000569,2024-10-22,2024-10-23,1,I21,Acute myocardial infarction,,General Medicine,True,Home,18,F,M15 6AA,2,False
+EP00001138,NHS000569,2024-09-20,2024-09-23,3,N18,Chronic kidney disease,,Geriatrics,False,Care Home,18,F,RG6 2AA,1,False
+EP00001139,NHS000570,2024-09-24,2024-09-25,1,J18,Pneumonia,"I10,J44",Nephrology,False,Home,95,F,B15 4AA,3,False
+EP00001140,NHS000570,2025-02-28,2025-03-13,13,E11,Type 2 diabetes,,Cardiology,False,Home,53,M,M11 1AA,3,False
+EP00001141,NHS000571,2025-07-14,2025-07-16,2,N18,Chronic kidney disease,,Gastroenterology,True,Home,18,F,B18 7AA,2,False
+EP00001142,NHS000571,2025-06-03,2025-06-04,1,J44,COPD,I10,Gastroenterology,True,Home,95,F,L11 7AA,3,False
+EP00001143,NHS000572,2025-05-23,2025-05-27,4,I10,Essential hypertension,,Endocrinology,False,Home,33,F,B13 5AA,2,False
+EP00001144,NHS000572,2025-01-16,2025-01-20,4,K92,GI bleeding,,Cardiology,True,Care Home,46,F,B17 3AA,4,False
+EP00001145,NHS000573,2025-06-04,2025-06-07,3,J18,Pneumonia,,Emergency Medicine,True,Home,37,F,RG3 4AA,3,False
+EP00001146,NHS000573,2025-08-27,2025-08-28,1,I21,Acute myocardial infarction,N18,Geriatrics,True,Home,95,M,SL8 4AA,5,False
+EP00001147,NHS000574,2024-09-04,2024-09-05,1,K92,GI bleeding,,Respiratory,True,Home,28,M,RG8 6AA,2,False
+EP00001148,NHS000574,2025-08-11,2025-08-12,1,J44,COPD,,Geriatrics,True,Home,24,F,L18 4AA,3,False
+EP00001149,NHS000575,2024-09-21,2024-09-22,1,F32,Depressive episode,,Nephrology,True,Home,27,F,L15 2AA,4,False
+EP00001150,NHS000575,2025-02-01,2025-02-08,7,I50,Heart failure,,Geriatrics,False,Home,31,M,B15 1AA,4,False
+EP00001151,NHS000576,2025-02-07,2025-02-09,2,I21,Acute myocardial infarction,,Endocrinology,False,Home,18,M,M18 6AA,3,False
+EP00001152,NHS000576,2025-08-15,2025-08-20,5,I50,Heart failure,,Nephrology,False,Home,24,F,L18 8AA,2,False
+EP00001153,NHS000577,2025-04-05,2025-04-06,1,N18,Chronic kidney disease,,Geriatrics,True,Home,40,F,L14 1AA,4,False
+EP00001154,NHS000577,2025-03-23,2025-03-24,1,I50,Heart failure,,Nephrology,True,Home,18,M,RG3 2AA,5,True
+EP00001155,NHS000578,2025-03-18,2025-03-19,1,F32,Depressive episode,,Emergency Medicine,False,Another Hospital,58,M,SL7 7AA,2,False
+EP00001156,NHS000578,2025-06-10,2025-06-11,1,I50,Heart failure,,Emergency Medicine,False,Home,48,M,RG6 3AA,2,False
+EP00001157,NHS000579,2025-03-24,2025-03-26,2,E11,Type 2 diabetes,,Emergency Medicine,True,Home,19,M,L17 5AA,4,False
+EP00001158,NHS000579,2025-06-14,2025-06-21,7,E11,Type 2 diabetes,,Gastroenterology,False,Home,26,M,B17 7AA,3,False
+EP00001159,NHS000580,2025-08-20,2025-08-29,9,K92,GI bleeding,,Endocrinology,True,Home,21,F,SL8 3AA,3,False
+EP00001160,NHS000580,2025-07-07,2025-07-08,1,K92,GI bleeding,,Endocrinology,False,Another Hospital,18,M,SL5 5AA,3,False
+EP00001161,NHS000581,2025-06-27,2025-06-28,1,J18,Pneumonia,,Respiratory,False,Home,83,M,SL7 5AA,2,False
+EP00001162,NHS000581,2024-09-09,2024-09-13,4,I50,Heart failure,,Cardiology,True,Home,23,M,RG4 5AA,5,False
+EP00001163,NHS000582,2025-03-11,2025-03-12,1,J44,COPD,"I10,I63",Geriatrics,True,Home,95,F,B17 5AA,1,True
+EP00001164,NHS000582,2025-07-14,2025-07-18,4,I21,Acute myocardial infarction,,Nephrology,False,Home,21,M,M15 6AA,3,False
+EP00001165,NHS000583,2024-11-17,2024-11-18,1,N18,Chronic kidney disease,,Nephrology,True,Care Home,61,M,M11 5AA,4,False
+EP00001166,NHS000583,2025-01-01,2025-01-09,8,I50,Heart failure,,Respiratory,True,Home,27,M,L12 1AA,3,False
+EP00001167,NHS000584,2024-11-21,2024-11-22,1,I21,Acute myocardial infarction,"I63,I10",Endocrinology,True,Home,66,F,SL1 7AA,4,False
+EP00001168,NHS000584,2025-04-14,2025-04-15,1,J18,Pneumonia,,General Medicine,True,Home,18,F,L17 4AA,2,False
+EP00001169,NHS000585,2025-02-17,2025-02-18,1,I10,Essential hypertension,,Nephrology,True,Home,24,M,M14 7AA,3,False
+EP00001170,NHS000585,2024-12-20,2024-12-21,1,E11,Type 2 diabetes,I50,Cardiology,True,Rehabilitation Unit,72,M,SL7 8AA,2,False
+EP00001171,NHS000586,2025-06-15,2025-06-21,6,J18,Pneumonia,I50,Emergency Medicine,False,Another Hospital,65,M,B17 4AA,2,True
+EP00001172,NHS000586,2024-09-02,2024-09-04,2,I10,Essential hypertension,,Gastroenterology,False,Home,46,F,B17 7AA,3,False
+EP00001173,NHS000587,2025-08-02,2025-08-03,1,F32,Depressive episode,,Cardiology,True,Home,24,M,L13 7AA,2,True
+EP00001174,NHS000587,2025-07-10,2025-07-11,1,I10,Essential hypertension,,Gastroenterology,False,Home,18,F,RG2 3AA,3,True
+EP00001175,NHS000588,2024-10-28,2024-11-08,11,F32,Depressive episode,,Nephrology,False,Home,19,F,L14 3AA,3,True
+EP00001176,NHS000588,2025-03-08,2025-03-09,1,I10,Essential hypertension,,Endocrinology,False,Home,37,M,L15 3AA,3,False
+EP00001177,NHS000589,2025-02-24,2025-02-26,2,I10,Essential hypertension,,Emergency Medicine,True,Care Home,18,F,B15 4AA,3,True
+EP00001178,NHS000589,2024-12-25,2025-01-01,7,J18,Pneumonia,,Emergency Medicine,False,Rehabilitation Unit,18,F,M11 8AA,4,False
+EP00001179,NHS000590,2024-10-26,2024-10-29,3,J18,Pneumonia,,Endocrinology,False,Home,49,F,M16 2AA,2,False
+EP00001180,NHS000590,2025-05-01,2025-05-03,2,K92,GI bleeding,"I50,J44",Gastroenterology,True,Home,80,M,M16 3AA,5,False
+EP00001181,NHS000591,2025-07-11,2025-07-13,2,J18,Pneumonia,"J44,N18",Geriatrics,True,Home,63,F,RG8 3AA,4,True
+EP00001182,NHS000591,2025-01-13,2025-01-14,1,I50,Heart failure,,Emergency Medicine,True,Rehabilitation Unit,39,F,RG8 1AA,3,False
+EP00001183,NHS000592,2025-06-26,2025-07-03,7,K92,GI bleeding,,Geriatrics,True,Home,18,F,RG4 7AA,2,False
+EP00001184,NHS000592,2025-08-07,2025-08-08,1,I50,Heart failure,,General Medicine,False,Home,28,M,L17 1AA,5,False
+EP00001185,NHS000593,2025-02-27,2025-03-03,4,N18,Chronic kidney disease,I63,Endocrinology,True,Home,86,M,L13 5AA,5,False
+EP00001186,NHS000593,2025-06-07,2025-06-10,3,I50,Heart failure,,Respiratory,False,Home,24,M,SL6 7AA,1,False
+EP00001187,NHS000594,2025-07-16,2025-07-19,3,J44,COPD,,Geriatrics,False,Home,18,M,L14 1AA,1,False
+EP00001188,NHS000594,2024-12-22,2024-12-23,1,I63,Cerebral infarction,,Gastroenterology,True,Care Home,18,F,B17 5AA,4,True
+EP00001189,NHS000595,2025-05-19,2025-05-20,1,I10,Essential hypertension,,Respiratory,True,Home,49,F,B12 3AA,4,False
+EP00001190,NHS000595,2025-01-14,2025-01-15,1,E11,Type 2 diabetes,K92,Nephrology,False,Care Home,95,F,RG4 4AA,4,False
+EP00001191,NHS000596,2025-07-11,2025-07-19,8,F32,Depressive episode,,Cardiology,False,Home,27,M,L11 5AA,2,False
+EP00001192,NHS000596,2024-09-25,2024-09-26,1,J18,Pneumonia,"I63,F32",Nephrology,False,Care Home,95,M,M12 7AA,2,True
+EP00001193,NHS000597,2025-08-20,2025-08-21,1,F32,Depressive episode,,Gastroenterology,True,Home,37,F,L13 7AA,4,False
+EP00001194,NHS000597,2025-03-06,2025-03-08,2,J44,COPD,,General Medicine,True,Home,20,F,M13 2AA,4,False
+EP00001195,NHS000598,2024-11-28,2024-12-01,3,F32,Depressive episode,,General Medicine,True,Home,18,M,M12 7AA,3,True
+EP00001196,NHS000598,2024-12-10,2024-12-11,1,J44,COPD,,Gastroenterology,True,Home,34,F,SL4 6AA,3,False
+EP00001197,NHS000599,2025-02-02,2025-02-10,8,I63,Cerebral infarction,,Geriatrics,True,Home,43,M,L11 7AA,4,True
+EP00001198,NHS000599,2024-10-31,2024-11-01,1,I63,Cerebral infarction,"I21,E11",Respiratory,False,Another Hospital,95,M,RG7 8AA,3,False
+EP00001199,NHS000600,2025-02-24,2025-02-25,1,I21,Acute myocardial infarction,"J18,F32",Cardiology,True,Home,65,M,M16 2AA,1,False
+EP00001200,NHS000600,2025-02-12,2025-02-13,1,N18,Chronic kidney disease,J18,Nephrology,True,Home,92,F,SL2 8AA,4,False
+EP00001201,NHS000601,2025-04-14,2025-04-15,1,K92,GI bleeding,,General Medicine,True,Another Hospital,18,M,M14 2AA,4,False
+EP00001202,NHS000601,2025-08-27,2025-09-02,6,J44,COPD,,Cardiology,True,Home,59,F,L12 7AA,2,False
+EP00001203,NHS000602,2025-04-11,2025-04-12,1,I10,Essential hypertension,,Emergency Medicine,False,Another Hospital,23,M,L18 6AA,4,True
+EP00001204,NHS000602,2025-07-06,2025-07-07,1,E11,Type 2 diabetes,,Geriatrics,True,Home,26,F,RG5 4AA,4,True
+EP00001205,NHS000603,2025-01-22,2025-01-23,1,F32,Depressive episode,,Nephrology,False,Home,23,M,SL7 4AA,5,True
+EP00001206,NHS000603,2025-04-25,2025-04-26,1,I21,Acute myocardial infarction,,Cardiology,True,Home,18,M,B17 1AA,2,False
+EP00001207,NHS000604,2024-11-02,2024-11-03,1,J18,Pneumonia,,Respiratory,True,Home,28,M,M14 4AA,2,False
+EP00001208,NHS000604,2024-12-11,2024-12-17,6,I10,Essential hypertension,,Gastroenterology,True,Home,41,F,L16 2AA,3,False
+EP00001209,NHS000605,2025-01-20,2025-01-26,6,J44,COPD,,Cardiology,True,Home,18,F,M15 5AA,1,False
+EP00001210,NHS000605,2024-11-17,2024-11-18,1,J44,COPD,,Geriatrics,True,Home,18,M,SL8 2AA,3,False
+EP00001211,NHS000606,2024-09-01,2024-09-02,1,E11,Type 2 diabetes,,General Medicine,True,Home,54,M,B17 1AA,1,False
+EP00001212,NHS000606,2024-09-23,2024-09-24,1,E11,Type 2 diabetes,,Cardiology,True,Home,42,F,SL4 1AA,5,True
+EP00001213,NHS000607,2025-06-27,2025-06-28,1,J18,Pneumonia,,Respiratory,True,Rehabilitation Unit,23,F,L14 4AA,3,True
+EP00001214,NHS000607,2025-06-25,2025-07-05,10,N18,Chronic kidney disease,,Endocrinology,True,Home,36,M,L18 5AA,1,False
+EP00001215,NHS000608,2025-01-11,2025-01-14,3,N18,Chronic kidney disease,,Emergency Medicine,True,Home,18,F,RG1 3AA,1,False
+EP00001216,NHS000608,2025-06-22,2025-06-24,2,J18,Pneumonia,,Respiratory,False,Home,40,F,SL5 4AA,2,False
+EP00001217,NHS000609,2025-01-27,2025-02-02,6,E11,Type 2 diabetes,,Respiratory,False,Home,54,M,SL4 6AA,3,False
+EP00001218,NHS000609,2024-11-09,2024-11-10,1,I21,Acute myocardial infarction,,Nephrology,True,Home,18,F,SL6 5AA,4,False
+EP00001219,NHS000610,2025-01-17,2025-01-19,2,I21,Acute myocardial infarction,"F32,I50,I63,N18",Gastroenterology,False,Home,95,F,M12 7AA,4,False
+EP00001220,NHS000610,2025-06-29,2025-07-04,5,I10,Essential hypertension,,Emergency Medicine,True,Home,54,F,L12 2AA,3,True
+EP00001221,NHS000611,2024-11-12,2024-11-13,1,F32,Depressive episode,N18,General Medicine,True,Home,67,M,RG6 5AA,2,False
+EP00001222,NHS000611,2024-09-24,2024-09-25,1,E11,Type 2 diabetes,,Emergency Medicine,False,Home,60,F,M18 1AA,2,False
+EP00001223,NHS000612,2025-07-18,2025-07-19,1,J18,Pneumonia,,Cardiology,False,Another Hospital,70,F,L14 7AA,1,False
+EP00001224,NHS000612,2025-04-12,2025-04-18,6,K92,GI bleeding,,Geriatrics,True,Another Hospital,22,F,RG2 3AA,3,False
+EP00001225,NHS000613,2025-03-22,2025-03-31,9,K92,GI bleeding,I21,Geriatrics,True,Care Home,53,M,M15 5AA,4,False
+EP00001226,NHS000613,2025-04-13,2025-04-14,1,K92,GI bleeding,,Gastroenterology,True,Home,47,F,RG1 4AA,4,False
+EP00001227,NHS000614,2025-01-18,2025-01-19,1,E11,Type 2 diabetes,,General Medicine,False,Home,18,F,M15 2AA,4,False
+EP00001228,NHS000614,2025-05-08,2025-05-15,7,I63,Cerebral infarction,,Geriatrics,True,Home,18,F,B18 1AA,4,False
+EP00001229,NHS000615,2024-09-11,2024-09-12,1,J18,Pneumonia,,Cardiology,True,Care Home,30,F,L16 2AA,3,False
+EP00001230,NHS000615,2025-07-17,2025-07-18,1,N18,Chronic kidney disease,,Geriatrics,True,Home,18,F,RG4 7AA,3,False
+EP00001231,NHS000616,2025-03-27,2025-03-28,1,I63,Cerebral infarction,,General Medicine,True,Home,18,M,B15 1AA,3,False
+EP00001232,NHS000616,2025-01-13,2025-01-25,12,I21,Acute myocardial infarction,,Cardiology,True,Home,89,M,RG1 4AA,3,False
+EP00001233,NHS000617,2025-07-18,2025-07-20,2,J18,Pneumonia,,Geriatrics,False,Home,18,M,L11 5AA,4,False
+EP00001234,NHS000617,2025-04-26,2025-05-02,6,I50,Heart failure,,Emergency Medicine,True,Home,71,M,B13 3AA,3,False
+EP00001235,NHS000618,2025-01-06,2025-01-07,1,I63,Cerebral infarction,,Emergency Medicine,False,Home,18,M,M17 5AA,2,False
+EP00001236,NHS000618,2025-01-24,2025-01-26,2,I10,Essential hypertension,J44,Nephrology,False,Home,77,F,M14 4AA,3,False
+EP00001237,NHS000619,2024-09-10,2024-09-11,1,K92,GI bleeding,"J44,E11",Geriatrics,True,Home,95,M,M15 8AA,1,False
+EP00001238,NHS000619,2025-08-06,2025-08-10,4,E11,Type 2 diabetes,,Emergency Medicine,True,Home,25,M,SL3 8AA,4,False
+EP00001239,NHS000620,2025-08-16,2025-08-17,1,I10,Essential hypertension,,Respiratory,True,Home,35,F,SL6 8AA,5,False
+EP00001240,NHS000620,2025-06-21,2025-06-23,2,K92,GI bleeding,,Nephrology,False,Rehabilitation Unit,36,M,L11 6AA,4,False
+EP00001241,NHS000621,2025-07-28,2025-07-29,1,I63,Cerebral infarction,,Cardiology,False,Home,18,F,L16 2AA,2,False
+EP00001242,NHS000621,2024-11-02,2024-11-08,6,F32,Depressive episode,,Geriatrics,True,Home,20,M,M17 7AA,2,False
+EP00001243,NHS000622,2025-04-30,2025-05-01,1,J44,COPD,,Endocrinology,False,Another Hospital,18,M,M18 2AA,1,False
+EP00001244,NHS000622,2025-05-11,2025-05-14,3,J18,Pneumonia,,Respiratory,True,Home,19,F,SL1 7AA,2,False
+EP00001245,NHS000623,2024-10-12,2024-10-14,2,K92,GI bleeding,,Endocrinology,True,Rehabilitation Unit,31,M,SL4 4AA,3,False
+EP00001246,NHS000623,2025-03-05,2025-03-09,4,J44,COPD,,Cardiology,True,Home,38,M,B17 2AA,3,False
+EP00001247,NHS000624,2025-03-05,2025-03-06,1,I50,Heart failure,,Nephrology,False,Home,65,M,SL4 8AA,1,True
+EP00001248,NHS000624,2025-03-28,2025-03-29,1,I21,Acute myocardial infarction,,Gastroenterology,True,Home,23,M,B12 1AA,3,False
+EP00001249,NHS000625,2025-08-17,2025-08-18,1,J18,Pneumonia,,Respiratory,True,Home,18,F,SL6 1AA,2,False
+EP00001250,NHS000625,2024-12-28,2024-12-29,1,E11,Type 2 diabetes,,Emergency Medicine,False,Home,30,F,SL4 4AA,3,False
+EP00001251,NHS000626,2025-02-26,2025-02-28,2,J18,Pneumonia,,General Medicine,True,Home,56,M,B15 6AA,2,False
+EP00001252,NHS000626,2025-03-22,2025-03-23,1,I10,Essential hypertension,,Cardiology,True,Home,24,M,M16 3AA,4,False
+EP00001253,NHS000627,2024-09-28,2024-10-03,5,K92,GI bleeding,,Nephrology,False,Home,34,M,SL4 7AA,2,False
+EP00001254,NHS000627,2025-05-01,2025-05-02,1,I10,Essential hypertension,,Endocrinology,False,Home,18,F,B17 7AA,5,False
+EP00001255,NHS000628,2025-03-30,2025-03-31,1,J44,COPD,"I21,I50",Gastroenterology,True,Care Home,95,M,B13 4AA,4,False
+EP00001256,NHS000628,2025-02-23,2025-02-24,1,I10,Essential hypertension,,Respiratory,True,Home,33,M,RG2 2AA,2,False
+EP00001257,NHS000629,2024-11-23,2024-11-24,1,F32,Depressive episode,,Respiratory,True,Home,41,F,SL4 3AA,2,True
+EP00001258,NHS000629,2024-11-07,2024-11-08,1,I10,Essential hypertension,,Endocrinology,True,Home,35,F,RG3 2AA,2,False
+EP00001259,NHS000630,2024-11-28,2024-11-29,1,J44,COPD,,Emergency Medicine,True,Home,18,F,M12 5AA,3,False
+EP00001260,NHS000630,2025-06-19,2025-06-20,1,I10,Essential hypertension,,Endocrinology,True,Another Hospital,36,M,B17 4AA,2,False
+EP00001261,NHS000631,2025-03-24,2025-03-27,3,F32,Depressive episode,,Respiratory,False,Care Home,18,M,B11 8AA,3,True
+EP00001262,NHS000631,2024-09-11,2024-09-25,14,J18,Pneumonia,,Emergency Medicine,True,Home,67,F,M12 5AA,3,False
+EP00001263,NHS000632,2024-12-18,2024-12-20,2,I50,Heart failure,,Gastroenterology,False,Home,39,F,M16 2AA,3,True
+EP00001264,NHS000632,2025-04-09,2025-04-10,1,I10,Essential hypertension,,Cardiology,False,Home,44,F,B13 6AA,1,True
+EP00001265,NHS000633,2025-06-27,2025-06-28,1,N18,Chronic kidney disease,,Geriatrics,False,Home,18,F,L11 7AA,4,False
+EP00001266,NHS000633,2025-02-21,2025-03-05,12,J18,Pneumonia,,Endocrinology,False,Home,48,M,L15 1AA,3,True
+EP00001267,NHS000634,2025-02-15,2025-02-16,1,I63,Cerebral infarction,,Gastroenterology,False,Home,26,F,B17 8AA,4,True
+EP00001268,NHS000634,2024-11-02,2024-11-03,1,I10,Essential hypertension,,Respiratory,True,Home,30,M,B13 4AA,3,False
+EP00001269,NHS000635,2025-07-20,2025-07-22,2,J18,Pneumonia,,Cardiology,False,Care Home,59,M,B11 6AA,5,False
+EP00001270,NHS000635,2024-11-10,2024-11-14,4,I21,Acute myocardial infarction,,Respiratory,False,Care Home,18,M,RG5 6AA,5,False
+EP00001271,NHS000636,2025-04-07,2025-04-08,1,I21,Acute myocardial infarction,,Emergency Medicine,False,Home,18,F,SL2 8AA,2,False
+EP00001272,NHS000636,2025-06-27,2025-07-01,4,I63,Cerebral infarction,F32,Respiratory,False,Home,95,M,M17 4AA,3,False
+EP00001273,NHS000637,2025-03-20,2025-03-21,1,I50,Heart failure,,General Medicine,True,Another Hospital,47,F,RG7 2AA,3,False
+EP00001274,NHS000637,2025-02-18,2025-02-21,3,I50,Heart failure,,General Medicine,True,Home,28,M,L16 6AA,3,False
+EP00001275,NHS000638,2025-06-26,2025-06-27,1,J18,Pneumonia,,Endocrinology,True,Home,18,F,L11 2AA,5,True
+EP00001276,NHS000638,2025-07-26,2025-08-02,7,J44,COPD,,Cardiology,False,Home,23,F,M18 8AA,4,False
+EP00001277,NHS000639,2025-06-27,2025-06-29,2,N18,Chronic kidney disease,"I50,J44,I63",Geriatrics,True,Home,95,F,B12 2AA,3,True
+EP00001278,NHS000639,2025-03-09,2025-03-13,4,J44,COPD,,Gastroenterology,False,Home,27,M,SL2 8AA,4,True
+EP00001279,NHS000640,2025-01-09,2025-01-12,3,N18,Chronic kidney disease,J18,Cardiology,True,Home,75,M,RG2 7AA,3,True
+EP00001280,NHS000640,2025-04-30,2025-05-01,1,F32,Depressive episode,"J18,I50",Cardiology,True,Home,92,F,SL8 2AA,5,True
+EP00001281,NHS000641,2024-12-06,2024-12-07,1,F32,Depressive episode,,Endocrinology,True,Home,18,F,M11 4AA,1,False
+EP00001282,NHS000641,2024-12-13,2024-12-16,3,I50,Heart failure,,Geriatrics,False,Home,42,F,SL4 1AA,2,False
+EP00001283,NHS000642,2025-05-09,2025-05-11,2,J44,COPD,,Geriatrics,True,Home,39,M,B18 4AA,2,False
+EP00001284,NHS000642,2024-09-17,2024-09-19,2,E11,Type 2 diabetes,,General Medicine,True,Care Home,37,F,M13 7AA,1,False
+EP00001285,NHS000643,2025-04-21,2025-04-25,4,N18,Chronic kidney disease,,Endocrinology,False,Home,18,M,SL8 6AA,1,False
+EP00001286,NHS000643,2025-07-02,2025-07-05,3,I21,Acute myocardial infarction,,Cardiology,False,Rehabilitation Unit,18,M,M11 3AA,2,False
+EP00001287,NHS000644,2024-09-05,2024-09-11,6,I50,Heart failure,F32,Respiratory,True,Home,74,F,M12 7AA,3,False
+EP00001288,NHS000644,2025-07-11,2025-07-13,2,N18,Chronic kidney disease,,Endocrinology,False,Home,18,M,RG2 5AA,4,False
+EP00001289,NHS000645,2025-08-07,2025-08-08,1,E11,Type 2 diabetes,,Gastroenterology,True,Home,18,F,SL4 5AA,1,False
+EP00001290,NHS000645,2025-03-05,2025-03-15,10,J44,COPD,,Emergency Medicine,True,Care Home,18,F,RG8 8AA,5,False
+EP00001291,NHS000646,2025-06-15,2025-06-16,1,F32,Depressive episode,,Nephrology,False,Care Home,22,M,B17 7AA,3,False
+EP00001292,NHS000646,2025-08-26,2025-08-27,1,K92,GI bleeding,,Gastroenterology,True,Home,64,F,B18 4AA,2,False
+EP00001293,NHS000647,2025-08-02,2025-08-03,1,I10,Essential hypertension,,Endocrinology,True,Another Hospital,31,F,M13 7AA,2,True
+EP00001294,NHS000647,2024-10-27,2024-11-06,10,I21,Acute myocardial infarction,,Respiratory,True,Home,27,M,L15 6AA,5,False
+EP00001295,NHS000648,2025-06-16,2025-06-21,5,K92,GI bleeding,,Endocrinology,True,Home,19,M,SL3 8AA,4,False
+EP00001296,NHS000648,2025-06-13,2025-06-15,2,J44,COPD,,Gastroenterology,False,Home,33,F,B12 1AA,3,False
+EP00001297,NHS000649,2024-09-05,2024-09-06,1,I50,Heart failure,,Emergency Medicine,False,Home,18,M,B17 5AA,1,False
+EP00001298,NHS000649,2024-10-22,2024-10-24,2,I10,Essential hypertension,,General Medicine,True,Home,43,F,RG7 2AA,1,True
+EP00001299,NHS000650,2025-02-25,2025-02-26,1,J18,Pneumonia,,Cardiology,False,Home,36,M,RG4 8AA,2,False
+EP00001300,NHS000650,2025-06-20,2025-06-24,4,K92,GI bleeding,,Respiratory,False,Care Home,26,M,B18 2AA,3,False
+EP00001301,NHS000651,2025-06-13,2025-06-14,1,I10,Essential hypertension,"I50,I21",Geriatrics,True,Home,65,F,M18 4AA,2,False
+EP00001302,NHS000651,2024-09-11,2024-09-12,1,I21,Acute myocardial infarction,,Nephrology,False,Home,18,F,RG1 6AA,1,True
+EP00001303,NHS000652,2025-02-25,2025-02-27,2,J18,Pneumonia,,Nephrology,True,Home,45,F,L14 7AA,5,True
+EP00001304,NHS000652,2024-10-01,2024-10-02,1,E11,Type 2 diabetes,,Nephrology,False,Home,18,F,SL2 5AA,3,False
+EP00001305,NHS000653,2024-10-09,2024-10-10,1,N18,Chronic kidney disease,,Nephrology,True,Another Hospital,66,F,B12 1AA,4,True
+EP00001306,NHS000653,2025-04-27,2025-05-02,5,K92,GI bleeding,,Nephrology,False,Home,34,F,RG6 3AA,3,True
+EP00001307,NHS000654,2025-08-15,2025-08-16,1,I63,Cerebral infarction,,Gastroenterology,True,Home,35,F,L14 5AA,4,False
+EP00001308,NHS000654,2024-11-06,2024-11-08,2,I10,Essential hypertension,,Endocrinology,False,Home,27,M,RG7 3AA,1,False
+EP00001309,NHS000655,2025-02-19,2025-02-20,1,F32,Depressive episode,,Cardiology,True,Another Hospital,22,F,M12 5AA,4,False
+EP00001310,NHS000655,2025-03-05,2025-03-06,1,I10,Essential hypertension,I21,Geriatrics,True,Home,56,M,B15 4AA,4,False
+EP00001311,NHS000656,2025-03-29,2025-03-30,1,I50,Heart failure,,Geriatrics,False,Care Home,30,F,L12 1AA,5,True
+EP00001312,NHS000656,2025-01-30,2025-02-01,2,J44,COPD,,Respiratory,True,Home,30,F,RG7 6AA,4,True
+EP00001313,NHS000657,2025-04-15,2025-04-16,1,I50,Heart failure,,Cardiology,True,Home,45,F,M13 4AA,2,True
+EP00001314,NHS000657,2024-12-14,2024-12-20,6,I50,Heart failure,,Respiratory,True,Home,18,F,RG3 6AA,2,False
+EP00001315,NHS000658,2024-12-15,2024-12-19,4,I63,Cerebral infarction,,Cardiology,False,Home,29,F,L17 3AA,3,False
+EP00001316,NHS000658,2025-07-30,2025-08-01,2,N18,Chronic kidney disease,,Gastroenterology,True,Another Hospital,18,F,B15 3AA,3,False
+EP00001317,NHS000659,2025-08-12,2025-08-16,4,J44,COPD,,General Medicine,False,Home,25,F,L12 2AA,5,False
+EP00001318,NHS000659,2024-12-06,2024-12-10,4,J44,COPD,,Emergency Medicine,False,Care Home,18,F,B16 6AA,2,False
+EP00001319,NHS000660,2025-01-17,2025-01-21,4,J44,COPD,,Cardiology,False,Care Home,38,M,M17 4AA,3,False
+EP00001320,NHS000660,2025-05-18,2025-05-20,2,E11,Type 2 diabetes,"N18,J44,F32",Gastroenterology,True,Home,95,M,RG6 4AA,2,True
+EP00001321,NHS000661,2024-12-09,2024-12-12,3,K92,GI bleeding,,Respiratory,False,Home,32,M,RG5 4AA,3,False
+EP00001322,NHS000661,2025-05-08,2025-05-09,1,I21,Acute myocardial infarction,N18,Endocrinology,True,Home,64,M,RG7 2AA,1,False
+EP00001323,NHS000662,2025-08-11,2025-08-13,2,J44,COPD,,Geriatrics,True,Home,41,F,L15 7AA,3,True
+EP00001324,NHS000662,2024-09-03,2024-09-04,1,K92,GI bleeding,,Respiratory,True,Home,47,M,RG7 6AA,2,False
+EP00001325,NHS000663,2024-09-01,2024-09-02,1,J18,Pneumonia,,Nephrology,False,Home,43,M,RG5 6AA,2,False
+EP00001326,NHS000663,2024-10-31,2024-11-01,1,I63,Cerebral infarction,,Nephrology,True,Home,18,F,B15 8AA,1,False
+EP00001327,NHS000664,2025-08-23,2025-08-27,4,I21,Acute myocardial infarction,,Geriatrics,True,Home,18,M,SL2 5AA,3,True
+EP00001328,NHS000664,2025-04-05,2025-04-10,5,N18,Chronic kidney disease,,Geriatrics,True,Another Hospital,19,F,RG7 6AA,1,False
+EP00001329,NHS000665,2024-10-06,2024-10-10,4,J44,COPD,,Endocrinology,False,Home,19,M,RG1 3AA,3,False
+EP00001330,NHS000665,2024-09-03,2024-09-04,1,I10,Essential hypertension,,Endocrinology,False,Home,23,F,L18 2AA,3,True
+EP00001331,NHS000666,2025-06-01,2025-06-02,1,I63,Cerebral infarction,,General Medicine,True,Home,82,M,M14 6AA,1,True
+EP00001332,NHS000666,2025-06-16,2025-06-17,1,J44,COPD,,General Medicine,True,Home,18,F,M15 4AA,3,True
+EP00001333,NHS000667,2024-11-04,2024-11-05,1,I63,Cerebral infarction,,Geriatrics,False,Home,18,M,L18 6AA,5,False
+EP00001334,NHS000667,2024-11-05,2024-11-06,1,I50,Heart failure,,General Medicine,True,Home,32,F,M18 5AA,5,False
+EP00001335,NHS000668,2025-03-14,2025-03-18,4,K92,GI bleeding,I10,Respiratory,False,Home,51,F,SL6 7AA,3,False
+EP00001336,NHS000668,2024-11-11,2024-11-12,1,J44,COPD,,Respiratory,False,Home,18,M,L11 7AA,3,True
+EP00001337,NHS000669,2024-10-04,2024-10-05,1,E11,Type 2 diabetes,"I63,I21",General Medicine,True,Care Home,70,F,B17 3AA,2,False
+EP00001338,NHS000669,2025-02-25,2025-02-27,2,I63,Cerebral infarction,,General Medicine,True,Home,80,F,SL8 5AA,5,True
+EP00001339,NHS000670,2024-12-11,2024-12-12,1,J44,COPD,,Cardiology,True,Home,35,F,B16 4AA,3,False
+EP00001340,NHS000670,2025-05-30,2025-06-05,6,I50,Heart failure,,Cardiology,False,Home,24,M,M16 8AA,4,False
+EP00001341,NHS000671,2024-11-13,2024-11-22,9,J18,Pneumonia,,Nephrology,True,Home,45,F,L18 5AA,1,False
+EP00001342,NHS000671,2025-06-19,2025-06-22,3,I10,Essential hypertension,K92,Respiratory,False,Another Hospital,95,M,L14 4AA,5,False
+EP00001343,NHS000672,2025-08-26,2025-08-30,4,I50,Heart failure,,Endocrinology,False,Rehabilitation Unit,28,M,RG3 3AA,1,False
+EP00001344,NHS000672,2025-01-19,2025-01-21,2,I63,Cerebral infarction,,Gastroenterology,False,Care Home,30,F,SL5 6AA,1,False
+EP00001345,NHS000673,2025-05-09,2025-05-10,1,J18,Pneumonia,,Endocrinology,True,Home,18,F,RG4 2AA,5,False
+EP00001346,NHS000673,2025-08-04,2025-08-07,3,I50,Heart failure,,Respiratory,True,Home,71,F,RG3 5AA,2,False
+EP00001347,NHS000674,2024-12-31,2025-01-02,2,I63,Cerebral infarction,,Cardiology,False,Care Home,22,M,L12 4AA,3,False
+EP00001348,NHS000674,2025-05-13,2025-05-22,9,F32,Depressive episode,,Endocrinology,True,Home,49,M,SL8 1AA,2,False
+EP00001349,NHS000675,2025-04-13,2025-04-15,2,I50,Heart failure,,Gastroenterology,True,Home,36,M,SL5 2AA,1,False
+EP00001350,NHS000675,2024-11-21,2024-11-22,1,I10,Essential hypertension,J44,Endocrinology,True,Another Hospital,65,M,L15 1AA,2,False
+EP00001351,NHS000676,2024-12-31,2025-01-03,3,I21,Acute myocardial infarction,,Endocrinology,True,Home,18,M,L12 6AA,3,False
+EP00001352,NHS000676,2025-01-31,2025-02-09,9,E11,Type 2 diabetes,,General Medicine,False,Home,50,M,SL2 8AA,4,False
+EP00001353,NHS000677,2025-01-29,2025-01-31,2,F32,Depressive episode,,Geriatrics,False,Home,32,M,RG2 1AA,5,False
+EP00001354,NHS000677,2025-05-17,2025-05-19,2,N18,Chronic kidney disease,,Cardiology,True,Home,25,M,M13 6AA,5,False
+EP00001355,NHS000678,2025-06-23,2025-06-27,4,K92,GI bleeding,,Respiratory,True,Home,18,F,B17 5AA,3,False
+EP00001356,NHS000678,2025-06-15,2025-06-17,2,I21,Acute myocardial infarction,,Nephrology,True,Home,38,F,SL7 4AA,3,False
+EP00001357,NHS000679,2025-01-29,2025-01-30,1,I10,Essential hypertension,,Cardiology,True,Home,36,F,M11 4AA,3,False
+EP00001358,NHS000679,2025-03-01,2025-03-02,1,J18,Pneumonia,,Emergency Medicine,False,Home,18,F,B15 5AA,2,True
+EP00001359,NHS000680,2025-05-29,2025-06-02,4,K92,GI bleeding,F32,Geriatrics,False,Home,63,F,M13 2AA,3,False
+EP00001360,NHS000680,2025-06-07,2025-06-08,1,I10,Essential hypertension,,Endocrinology,True,Home,44,M,SL8 6AA,3,False
+EP00001361,NHS000681,2025-02-07,2025-02-11,4,I63,Cerebral infarction,,Respiratory,True,Home,29,M,B18 6AA,3,False
+EP00001362,NHS000681,2024-12-04,2024-12-11,7,I21,Acute myocardial infarction,,General Medicine,False,Home,29,M,SL1 1AA,4,False
+EP00001363,NHS000682,2024-08-30,2024-09-02,3,I50,Heart failure,,Emergency Medicine,True,Home,67,M,B14 5AA,3,True
+EP00001364,NHS000682,2025-07-20,2025-07-21,1,I10,Essential hypertension,,General Medicine,True,Home,43,M,SL4 2AA,2,False
+EP00001365,NHS000683,2025-03-22,2025-03-23,1,K92,GI bleeding,,Cardiology,False,Home,18,F,B15 4AA,2,False
+EP00001366,NHS000683,2025-03-02,2025-03-10,8,F32,Depressive episode,,General Medicine,False,Rehabilitation Unit,39,M,L14 2AA,3,True
+EP00001367,NHS000684,2025-08-24,2025-08-27,3,F32,Depressive episode,,Cardiology,True,Home,18,M,L13 6AA,3,True
+EP00001368,NHS000684,2025-01-03,2025-01-07,4,I21,Acute myocardial infarction,,General Medicine,True,Home,18,M,RG3 2AA,4,False
+EP00001369,NHS000685,2024-10-18,2024-10-19,1,F32,Depressive episode,,Respiratory,True,Home,18,M,B12 4AA,3,True
+EP00001370,NHS000685,2025-06-15,2025-06-16,1,N18,Chronic kidney disease,,Gastroenterology,True,Another Hospital,38,M,M12 5AA,5,False
+EP00001371,NHS000686,2025-03-02,2025-03-09,7,I10,Essential hypertension,I50,Endocrinology,True,Home,62,M,M17 1AA,2,False
+EP00001372,NHS000686,2025-03-20,2025-03-21,1,K92,GI bleeding,"E11,I63",Gastroenterology,False,Home,68,F,M17 1AA,3,False
+EP00001373,NHS000687,2025-01-16,2025-01-21,5,E11,Type 2 diabetes,,General Medicine,True,Home,25,M,RG4 5AA,2,False
+EP00001374,NHS000687,2025-01-08,2025-01-09,1,N18,Chronic kidney disease,,Respiratory,True,Home,18,F,L15 8AA,1,True
+EP00001375,NHS000688,2025-07-25,2025-07-26,1,I50,Heart failure,,General Medicine,True,Home,18,F,M14 7AA,4,False
+EP00001376,NHS000688,2024-08-31,2024-09-01,1,J44,COPD,,Gastroenterology,False,Home,26,M,M15 8AA,4,False
+EP00001377,NHS000689,2025-08-08,2025-08-09,1,J44,COPD,,Cardiology,False,Home,26,F,SL6 1AA,4,False
+EP00001378,NHS000689,2025-05-28,2025-06-01,4,E11,Type 2 diabetes,,Geriatrics,False,Home,18,F,L14 1AA,3,False
+EP00001379,NHS000690,2025-02-24,2025-03-05,9,F32,Depressive episode,,Gastroenterology,False,Care Home,41,F,L13 6AA,2,False
+EP00001380,NHS000690,2025-08-07,2025-08-08,1,F32,Depressive episode,"I21,K92",Endocrinology,True,Home,95,M,RG4 4AA,3,True
+EP00001381,NHS000691,2025-07-30,2025-08-04,5,F32,Depressive episode,,General Medicine,True,Home,37,M,SL8 5AA,3,False
+EP00001382,NHS000691,2025-07-20,2025-07-27,7,N18,Chronic kidney disease,,General Medicine,True,Home,18,F,M11 5AA,5,False
+EP00001383,NHS000692,2024-12-02,2024-12-08,6,K92,GI bleeding,,Respiratory,True,Another Hospital,45,F,SL1 1AA,5,False
+EP00001384,NHS000692,2024-09-12,2024-09-13,1,J44,COPD,,Cardiology,True,Home,24,F,SL8 8AA,1,True
+EP00001385,NHS000693,2025-02-09,2025-02-11,2,N18,Chronic kidney disease,,Nephrology,False,Home,18,M,L18 3AA,5,True
+EP00001386,NHS000693,2025-04-05,2025-04-07,2,I21,Acute myocardial infarction,,Gastroenterology,True,Home,42,F,B13 6AA,3,False
+EP00001387,NHS000694,2024-11-19,2024-11-20,1,I10,Essential hypertension,"F32,J44,J18,I21,E11",Gastroenterology,False,Care Home,95,F,L17 6AA,3,False
+EP00001388,NHS000694,2024-11-08,2024-11-09,1,K92,GI bleeding,,Geriatrics,False,Home,35,F,SL1 8AA,5,True
+EP00001389,NHS000695,2025-06-21,2025-06-22,1,K92,GI bleeding,,Geriatrics,True,Home,18,F,M13 2AA,4,False
+EP00001390,NHS000695,2025-07-15,2025-07-20,5,N18,Chronic kidney disease,"F32,J44",Geriatrics,False,Home,73,F,B14 1AA,4,False
+EP00001391,NHS000696,2025-01-22,2025-01-23,1,I21,Acute myocardial infarction,,Emergency Medicine,True,Home,89,F,RG4 7AA,5,False
+EP00001392,NHS000696,2024-09-10,2024-09-11,1,K92,GI bleeding,,Gastroenterology,True,Home,18,F,RG6 3AA,4,False
+EP00001393,NHS000697,2025-05-16,2025-05-17,1,J44,COPD,"I63,J18,I50",Endocrinology,True,Home,95,M,RG8 1AA,2,False
+EP00001394,NHS000697,2025-08-02,2025-08-05,3,F32,Depressive episode,,Cardiology,False,Home,21,M,RG6 4AA,2,False
+EP00001395,NHS000698,2025-03-20,2025-03-21,1,J18,Pneumonia,,Emergency Medicine,True,Home,18,F,B13 8AA,1,False
+EP00001396,NHS000698,2025-07-01,2025-07-02,1,E11,Type 2 diabetes,,Emergency Medicine,False,Home,25,M,B16 5AA,2,False
+EP00001397,NHS000699,2025-06-01,2025-06-02,1,N18,Chronic kidney disease,,Geriatrics,True,Home,18,M,B17 2AA,2,True
+EP00001398,NHS000699,2024-10-10,2024-10-13,3,J44,COPD,,Cardiology,False,Home,18,M,B12 4AA,4,False
+EP00001399,NHS000700,2025-06-24,2025-06-29,5,J44,COPD,,Endocrinology,True,Rehabilitation Unit,45,M,RG6 1AA,1,False
+EP00001400,NHS000700,2024-11-16,2024-11-17,1,I21,Acute myocardial infarction,,Endocrinology,True,Home,18,F,B16 4AA,4,False
+EP00001401,NHS000701,2024-09-12,2024-09-15,3,I63,Cerebral infarction,,Respiratory,False,Home,37,F,B11 3AA,2,False
+EP00001402,NHS000701,2024-10-15,2024-11-04,20,I63,Cerebral infarction,,Nephrology,True,Home,18,F,SL5 1AA,3,False
+EP00001403,NHS000702,2024-11-02,2024-11-03,1,E11,Type 2 diabetes,,Cardiology,False,Home,29,M,M13 1AA,3,False
+EP00001404,NHS000702,2024-09-27,2024-10-01,4,J18,Pneumonia,,Gastroenterology,True,Home,21,M,L14 6AA,4,False
+EP00001405,NHS000703,2025-06-07,2025-06-11,4,I63,Cerebral infarction,,Geriatrics,False,Home,18,M,SL6 1AA,2,False
+EP00001406,NHS000703,2025-03-17,2025-03-25,8,J18,Pneumonia,,Emergency Medicine,True,Care Home,18,F,RG2 2AA,1,False
+EP00001407,NHS000704,2025-01-02,2025-01-10,8,I63,Cerebral infarction,,Cardiology,False,Home,80,F,L12 2AA,2,False
+EP00001408,NHS000704,2025-07-01,2025-07-02,1,I21,Acute myocardial infarction,,Nephrology,True,Home,81,M,M17 4AA,2,True
+EP00001409,NHS000705,2024-10-07,2024-10-10,3,I21,Acute myocardial infarction,,Endocrinology,False,Home,19,F,SL8 3AA,1,False
+EP00001410,NHS000705,2025-01-24,2025-02-05,12,I21,Acute myocardial infarction,,Cardiology,True,Home,74,F,M11 2AA,1,True
+EP00001411,NHS000706,2025-04-11,2025-04-12,1,J44,COPD,,Nephrology,True,Home,18,F,SL2 4AA,5,False
+EP00001412,NHS000706,2025-04-22,2025-04-23,1,I10,Essential hypertension,,General Medicine,True,Rehabilitation Unit,57,M,L17 3AA,1,False
+EP00001413,NHS000707,2024-12-03,2024-12-04,1,I10,Essential hypertension,I21,Endocrinology,True,Home,60,M,RG4 4AA,2,True
+EP00001414,NHS000707,2025-06-17,2025-06-21,4,I10,Essential hypertension,,Cardiology,True,Another Hospital,49,M,L18 3AA,3,False
+EP00001415,NHS000708,2025-08-22,2025-09-05,14,I63,Cerebral infarction,,Nephrology,False,Home,27,M,SL5 5AA,3,False
+EP00001416,NHS000708,2024-11-23,2024-11-24,1,I63,Cerebral infarction,,Emergency Medicine,True,Home,27,F,RG8 8AA,4,False
+EP00001417,NHS000709,2025-06-29,2025-06-30,1,J18,Pneumonia,I10,Emergency Medicine,False,Home,89,M,RG5 1AA,4,False
+EP00001418,NHS000709,2024-11-21,2024-11-26,5,J44,COPD,,Emergency Medicine,False,Home,53,M,B16 1AA,5,True
+EP00001419,NHS000710,2024-10-01,2024-10-06,5,K92,GI bleeding,,General Medicine,False,Home,46,M,B18 4AA,5,False
+EP00001420,NHS000710,2025-07-21,2025-07-22,1,I63,Cerebral infarction,,Gastroenterology,True,Home,18,F,L14 6AA,3,False
+EP00001421,NHS000711,2025-04-10,2025-04-13,3,J44,COPD,"F32,I63",Emergency Medicine,False,Home,63,M,SL7 6AA,2,True
+EP00001422,NHS000711,2024-09-02,2024-09-05,3,I50,Heart failure,,Cardiology,True,Care Home,33,M,B18 4AA,1,False
+EP00001423,NHS000712,2024-10-29,2024-10-30,1,J44,COPD,,Endocrinology,True,Home,18,F,RG8 1AA,4,False
+EP00001424,NHS000712,2025-02-16,2025-02-17,1,E11,Type 2 diabetes,,Cardiology,True,Home,53,M,M14 3AA,2,True
+EP00001425,NHS000713,2024-09-06,2024-09-07,1,N18,Chronic kidney disease,,Nephrology,True,Another Hospital,18,F,B17 4AA,4,False
+EP00001426,NHS000713,2025-06-09,2025-06-10,1,K92,GI bleeding,,Emergency Medicine,False,Home,18,M,M16 7AA,2,False
+EP00001427,NHS000714,2025-05-12,2025-05-16,4,E11,Type 2 diabetes,I63,Respiratory,True,Home,95,F,B17 7AA,2,False
+EP00001428,NHS000714,2024-11-11,2024-11-15,4,J44,COPD,,Endocrinology,True,Home,18,M,L16 2AA,4,True
+EP00001429,NHS000715,2024-12-15,2024-12-17,2,I63,Cerebral infarction,"E11,J18",Cardiology,True,Home,77,F,SL5 5AA,1,False
+EP00001430,NHS000715,2025-01-29,2025-01-30,1,F32,Depressive episode,,Cardiology,False,Another Hospital,58,F,SL6 6AA,1,True
+EP00001431,NHS000716,2025-07-16,2025-07-18,2,I50,Heart failure,,Cardiology,True,Care Home,27,M,SL1 2AA,5,False
+EP00001432,NHS000716,2025-02-28,2025-03-05,5,J44,COPD,"I63,N18",Respiratory,True,Home,73,M,SL6 3AA,5,False
+EP00001433,NHS000717,2024-10-15,2024-10-17,2,F32,Depressive episode,,Geriatrics,False,Home,18,M,RG4 6AA,2,False
+EP00001434,NHS000717,2024-11-10,2024-11-11,1,E11,Type 2 diabetes,,Cardiology,False,Home,18,M,L16 5AA,3,False
+EP00001435,NHS000718,2024-11-22,2024-11-23,1,I50,Heart failure,,Gastroenterology,False,Home,24,M,RG2 7AA,4,False
+EP00001436,NHS000718,2025-01-16,2025-01-17,1,J44,COPD,,Cardiology,False,Home,51,F,M13 1AA,4,True
+EP00001437,NHS000719,2024-10-29,2024-10-31,2,K92,GI bleeding,,Gastroenterology,False,Care Home,18,F,SL3 1AA,4,False
+EP00001438,NHS000719,2025-02-10,2025-02-18,8,J44,COPD,,Respiratory,True,Home,40,F,M14 5AA,4,False
+EP00001439,NHS000720,2024-12-23,2024-12-24,1,I50,Heart failure,,Endocrinology,False,Home,23,F,B17 6AA,3,False
+EP00001440,NHS000720,2025-08-08,2025-08-10,2,E11,Type 2 diabetes,,Geriatrics,True,Home,56,F,RG1 2AA,3,True
+EP00001441,NHS000721,2025-05-05,2025-05-11,6,F32,Depressive episode,,Nephrology,True,Home,20,M,B11 1AA,2,False
+EP00001442,NHS000721,2025-07-06,2025-07-13,7,I21,Acute myocardial infarction,,Nephrology,True,Another Hospital,35,M,L18 6AA,2,False
+EP00001443,NHS000722,2025-02-01,2025-02-07,6,J44,COPD,"I10,J18",Nephrology,False,Rehabilitation Unit,65,M,L14 2AA,3,True
+EP00001444,NHS000722,2024-09-02,2024-09-06,4,K92,GI bleeding,,Respiratory,True,Home,34,F,L18 6AA,1,True
+EP00001445,NHS000723,2025-06-30,2025-07-02,2,J18,Pneumonia,,Gastroenterology,False,Home,53,M,SL2 7AA,4,False
+EP00001446,NHS000723,2024-09-21,2024-09-22,1,I63,Cerebral infarction,,Respiratory,True,Home,48,F,M16 4AA,1,False
+EP00001447,NHS000724,2025-01-10,2025-01-15,5,J44,COPD,,Nephrology,False,Home,58,F,M17 7AA,3,True
+EP00001448,NHS000724,2025-02-17,2025-03-15,26,I10,Essential hypertension,,Nephrology,True,Home,35,F,L13 7AA,4,True
+EP00001449,NHS000725,2024-11-08,2024-11-09,1,F32,Depressive episode,,Gastroenterology,False,Home,89,M,SL7 8AA,4,False
+EP00001450,NHS000725,2025-01-11,2025-01-15,4,J44,COPD,,Endocrinology,False,Another Hospital,18,M,RG6 1AA,4,True
+EP00001451,NHS000726,2025-07-19,2025-07-20,1,E11,Type 2 diabetes,,Gastroenterology,True,Home,46,F,SL5 7AA,5,False
+EP00001452,NHS000726,2025-07-10,2025-07-16,6,N18,Chronic kidney disease,"I50,K92",Gastroenterology,False,Home,95,M,RG7 7AA,4,False
+EP00001453,NHS000727,2024-09-21,2024-09-24,3,J44,COPD,,Endocrinology,True,Home,18,M,RG8 7AA,2,False
+EP00001454,NHS000727,2024-11-12,2024-11-22,10,F32,Depressive episode,,General Medicine,True,Home,18,M,SL2 8AA,5,True
+EP00001455,NHS000728,2025-07-16,2025-07-19,3,K92,GI bleeding,,Gastroenterology,True,Home,18,M,SL1 3AA,5,False
+EP00001456,NHS000728,2024-11-07,2024-11-08,1,N18,Chronic kidney disease,,Endocrinology,False,Home,25,M,SL2 6AA,2,True
+EP00001457,NHS000729,2025-04-12,2025-04-13,1,N18,Chronic kidney disease,"K92,F32",Endocrinology,True,Another Hospital,91,M,L14 6AA,2,False
+EP00001458,NHS000729,2024-11-02,2024-11-03,1,K92,GI bleeding,,Respiratory,False,Another Hospital,24,M,RG7 8AA,3,False
+EP00001459,NHS000730,2024-11-25,2024-11-26,1,I10,Essential hypertension,"I21,J18,I50,F32,N18",Geriatrics,True,Home,95,F,L11 2AA,5,True
+EP00001460,NHS000730,2025-02-19,2025-02-20,1,I21,Acute myocardial infarction,,Gastroenterology,False,Another Hospital,61,F,L18 8AA,3,True
+EP00001461,NHS000731,2025-05-29,2025-06-02,4,J44,COPD,,Cardiology,True,Home,18,F,RG4 4AA,5,False
+EP00001462,NHS000731,2024-12-04,2024-12-06,2,E11,Type 2 diabetes,,Gastroenterology,True,Rehabilitation Unit,42,F,RG7 4AA,5,False
+EP00001463,NHS000732,2024-09-03,2024-09-08,5,I50,Heart failure,,Nephrology,True,Home,36,M,RG3 8AA,3,False
+EP00001464,NHS000732,2024-09-03,2024-09-06,3,K92,GI bleeding,,Nephrology,True,Another Hospital,54,M,SL8 2AA,3,False
+EP00001465,NHS000733,2025-06-09,2025-06-12,3,I21,Acute myocardial infarction,,Emergency Medicine,True,Home,37,F,B17 7AA,3,False
+EP00001466,NHS000733,2024-09-20,2024-09-29,9,I50,Heart failure,F32,General Medicine,False,Home,95,F,B11 6AA,4,True
+EP00001467,NHS000734,2025-04-11,2025-04-14,3,N18,Chronic kidney disease,,Gastroenterology,False,Home,67,M,L12 1AA,2,False
+EP00001468,NHS000734,2024-11-23,2024-12-05,12,I63,Cerebral infarction,,Emergency Medicine,True,Home,41,F,L13 5AA,3,False
+EP00001469,NHS000735,2025-06-22,2025-06-23,1,E11,Type 2 diabetes,"I21,I63,N18,J44,I50",Geriatrics,True,Home,79,F,M12 5AA,3,True
+EP00001470,NHS000735,2025-02-06,2025-02-09,3,I50,Heart failure,,Cardiology,True,Home,18,F,RG7 7AA,5,False
+EP00001471,NHS000736,2024-10-31,2024-11-04,4,J44,COPD,,Cardiology,True,Home,21,F,M16 2AA,1,False
+EP00001472,NHS000736,2025-06-17,2025-06-20,3,I21,Acute myocardial infarction,,Endocrinology,True,Home,37,M,M15 7AA,3,False
+EP00001473,NHS000737,2025-03-29,2025-04-01,3,K92,GI bleeding,F32,General Medicine,False,Home,95,M,SL7 5AA,1,False
+EP00001474,NHS000737,2024-12-09,2024-12-10,1,K92,GI bleeding,,Endocrinology,True,Home,18,F,L16 6AA,5,False
+EP00001475,NHS000738,2024-12-14,2024-12-15,1,F32,Depressive episode,,Gastroenterology,True,Home,18,M,B11 1AA,5,False
+EP00001476,NHS000738,2024-11-05,2024-11-06,1,F32,Depressive episode,,Emergency Medicine,False,Another Hospital,18,F,SL6 5AA,2,True
+EP00001477,NHS000739,2024-09-16,2024-09-26,10,I63,Cerebral infarction,"I10,E11,J44,K92",Geriatrics,False,Rehabilitation Unit,95,M,SL1 8AA,2,True
+EP00001478,NHS000739,2024-09-04,2024-09-09,5,I21,Acute myocardial infarction,I50,General Medicine,True,Home,63,F,SL3 5AA,4,True
+EP00001479,NHS000740,2024-11-23,2024-11-28,5,J18,Pneumonia,,Endocrinology,False,Home,18,M,SL1 2AA,2,True
+EP00001480,NHS000740,2025-05-12,2025-05-17,5,J44,COPD,,Endocrinology,True,Home,28,F,RG2 2AA,1,False
+EP00001481,NHS000741,2024-12-16,2024-12-20,4,I10,Essential hypertension,,Geriatrics,False,Home,18,M,RG6 1AA,2,False
+EP00001482,NHS000741,2025-06-17,2025-06-23,6,F32,Depressive episode,,Respiratory,False,Home,18,F,RG7 1AA,5,True
+EP00001483,NHS000742,2024-10-16,2024-10-18,2,N18,Chronic kidney disease,,Endocrinology,True,Home,73,M,L12 2AA,3,False
+EP00001484,NHS000742,2025-07-01,2025-07-03,2,I50,Heart failure,,Respiratory,True,Another Hospital,59,M,RG4 2AA,1,False
+EP00001485,NHS000743,2025-02-04,2025-02-09,5,J44,COPD,,Cardiology,False,Home,18,F,L18 1AA,1,False
+EP00001486,NHS000743,2025-07-03,2025-07-04,1,F32,Depressive episode,,Nephrology,False,Care Home,27,M,M18 6AA,2,False
+EP00001487,NHS000744,2024-10-21,2024-10-22,1,E11,Type 2 diabetes,,General Medicine,False,Home,19,F,B11 3AA,2,False
+EP00001488,NHS000744,2025-02-05,2025-02-06,1,F32,Depressive episode,"K92,I10,E11",Respiratory,True,Home,75,M,B17 3AA,5,True
+EP00001489,NHS000745,2025-01-12,2025-01-16,4,I50,Heart failure,,Emergency Medicine,False,Home,18,M,M13 5AA,2,False
+EP00001490,NHS000745,2024-12-08,2024-12-09,1,I50,Heart failure,,Cardiology,True,Another Hospital,18,M,B18 5AA,1,False
+EP00001491,NHS000746,2024-12-13,2025-01-03,21,I63,Cerebral infarction,,Endocrinology,True,Home,18,F,SL8 7AA,2,True
+EP00001492,NHS000746,2025-03-01,2025-03-02,1,E11,Type 2 diabetes,,Nephrology,True,Home,43,M,L14 7AA,1,False
+EP00001493,NHS000747,2024-12-24,2025-01-02,9,E11,Type 2 diabetes,I21,Geriatrics,False,Home,61,M,L13 3AA,4,False
+EP00001494,NHS000747,2025-05-02,2025-05-03,1,F32,Depressive episode,"I21,I50",Respiratory,False,Home,61,F,B17 2AA,2,False
+EP00001495,NHS000748,2025-03-12,2025-03-22,10,N18,Chronic kidney disease,,Respiratory,False,Care Home,31,M,RG4 6AA,3,False
+EP00001496,NHS000748,2024-12-16,2024-12-17,1,I63,Cerebral infarction,,General Medicine,True,Home,78,F,L17 8AA,1,False
+EP00001497,NHS000749,2024-10-05,2024-10-11,6,N18,Chronic kidney disease,,General Medicine,True,Home,18,M,M16 5AA,4,False
+EP00001498,NHS000749,2024-09-20,2024-09-21,1,K92,GI bleeding,"F32,I21",General Medicine,True,Home,73,F,M15 2AA,3,True
+EP00001499,NHS000750,2024-10-21,2024-10-25,4,I10,Essential hypertension,,Gastroenterology,True,Home,29,F,SL4 2AA,4,False
+EP00001500,NHS000750,2025-01-11,2025-01-12,1,J44,COPD,,Gastroenterology,True,Home,57,M,B11 3AA,4,True
